@@ -1,0 +1,300 @@
+{"id": "teste_igual-0000", "texto": "Ola time de suporte, da para trabalhar mas e chato. no setor comercial, a internet esta caindo toda hora.", "categoria": "rede", "prioridade": "media", "setor": "comercial"}
+{"id": "teste_igual-0001", "texto": "Oi, tem cliente importante esperando agora. aqui no comercial, perdi o acesso a pasta compartilhada.", "categoria": "acesso", "prioridade": "critica", "setor": "comercial"}
+{"id": "teste_igual-0002", "texto": "Ola time de suporte, o programa de planilhas fecha sozinho. da para trabalhar mas e chato. Falo no setor RH.", "categoria": "software", "prioridade": "media", "setor": "rh"}
+{"id": "teste_igual-0003", "texto": "Pessoal, aqui no juridico, o login diz usuario bloqueado. atrapalha um pouco.", "categoria": "acesso", "prioridade": "media", "setor": "juridico"}
+{"id": "teste_igual-0004", "texto": "Ola time de suporte, abrindo chamado: o calendario nao sincroniza. no setor logistica. ninguem consegue trabalhar.", "categoria": "email", "prioridade": "critica", "setor": "logistica"}
+{"id": "teste_igual-0005", "texto": "Ola time de suporte, o teclado parou de responder. so estou avisando. Falo aqui no financeiro.", "categoria": "hardware", "prioridade": "baixa", "setor": "financeiro"}
+{"id": "teste_igual-0006", "texto": "Ola time de suporte, isso atrapalha muito meu trabalho. no setor TI, a impressao sai com listras.", "categoria": "impressora", "prioridade": "alta", "setor": "ti"}
+{"id": "teste_igual-0007", "texto": "Pessoal, nao estou recebendo emails. o sistema de vendas esta fora do ar. Falo no setor juridico.", "categoria": "email", "prioridade": "critica", "setor": "juridico"}
+{"id": "teste_igual-0008", "texto": "Bom dia, no setor logistica minha caixa de entrada esta cheia, da para trabalhar mas e chato.", "categoria": "email", "prioridade": "media", "setor": "logistica"}
+{"id": "teste_igual-0009", "texto": "Bom dia, sou do comercial, o calendario nao sincroniza. preciso resolver ate hoje.", "categoria": "email", "prioridade": "alta", "setor": "comercial"}
+{"id": "teste_igual-0010", "texto": "Bom dia, o mouse esta falhando. so estou avisando. Falo sou do TI.", "categoria": "hardware", "prioridade": "baixa", "setor": "ti"}
+{"id": "teste_igual-0011", "texto": "Bom dia, nao e urgente. sou do juridico, o login diz usuario bloqueado.", "categoria": "acesso", "prioridade": "baixa", "setor": "juridico"}
+{"id": "teste_igual-0012", "texto": "Bom dia, aqui no financeiro nao estou recebendo emails, da para trabalhar mas e chato.", "categoria": "email", "prioridade": "media", "setor": "financeiro"}
+{"id": "teste_igual-0013", "texto": "Pessoal, abrindo chamado: os emails que envio voltam. no setor RH. quando der.", "categoria": "email", "prioridade": "baixa", "setor": "rh"}
+{"id": "teste_igual-0014", "texto": "Pessoal, aqui no comercial nao encontro a impressora do andar, so estou avisando.", "categoria": "impressora", "prioridade": "baixa", "setor": "comercial"}
+{"id": "teste_igual-0015", "texto": "Bom dia, tem cliente importante esperando agora. no setor logistica, o antivirus pede atualizacao e trava.", "categoria": "software", "prioridade": "critica", "setor": "logistica"}
+{"id": "teste_igual-0016", "texto": "Pessoal, abrindo chamado: a impressao sai com listras. no setor comercial. da para trabalhar mas e chato.", "categoria": "impressora", "prioridade": "media", "setor": "comercial"}
+{"id": "teste_igual-0017", "texto": "Pessoal, quando der. aqui no TI, o mouse esta falhando.", "categoria": "hardware", "prioridade": "baixa", "setor": "ti"}
+{"id": "teste_igual-0018", "texto": "Pessoal, no setor TI o login diz usuario bloqueado, isso atrapalha muito meu trabalho.", "categoria": "acesso", "prioridade": "alta", "setor": "ti"}
+{"id": "teste_igual-0019", "texto": "Bom dia, sou do juridico, o antivirus pede atualizacao e trava. so estou avisando.", "categoria": "software", "prioridade": "baixa", "setor": "juridico"}
+{"id": "teste_igual-0020", "texto": "Oi, sou do RH o teclado parou de responder, isso atrapalha muito meu trabalho.", "categoria": "hardware", "prioridade": "alta", "setor": "rh"}
+{"id": "teste_igual-0021", "texto": "Bom dia, no setor TI, o monitor ficou preto. tenho uma entrega hoje.", "categoria": "hardware", "prioridade": "alta", "setor": "ti"}
+{"id": "teste_igual-0022", "texto": "Oi, sou do logistica minha caixa de entrada esta cheia, da para trabalhar mas e chato.", "categoria": "email", "prioridade": "media", "setor": "logistica"}
+{"id": "teste_igual-0023", "texto": "Pessoal, so estou avisando. sou do financeiro, o sistema de notas fiscais da erro ao salvar.", "categoria": "software", "prioridade": "baixa", "setor": "financeiro"}
+{"id": "teste_igual-0024", "texto": "Ola time de suporte, o wifi do andar nao conecta. sem pressa. Falo sou do comercial.", "categoria": "rede", "prioridade": "baixa", "setor": "comercial"}
+{"id": "teste_igual-0025", "texto": "Oi, da para trabalhar mas e chato. sou do comercial, o login diz usuario bloqueado.", "categoria": "acesso", "prioridade": "media", "setor": "comercial"}
+{"id": "teste_igual-0026", "texto": "Ola time de suporte, o login diz usuario bloqueado. tenho uma entrega hoje. Falo sou do juridico.", "categoria": "acesso", "prioridade": "alta", "setor": "juridico"}
+{"id": "teste_igual-0027", "texto": "Ola time de suporte, abrindo chamado: o mouse esta falhando. aqui no comercial. ninguem consegue trabalhar.", "categoria": "hardware", "prioridade": "critica", "setor": "comercial"}
+{"id": "teste_igual-0028", "texto": "Ola time de suporte, sem pressa. no setor TI, o wifi do andar nao conecta.", "categoria": "rede", "prioridade": "baixa", "setor": "ti"}
+{"id": "teste_igual-0029", "texto": "Pessoal, ninguem consegue trabalhar. no setor logistica, a impressao sai com listras.", "categoria": "impressora", "prioridade": "critica", "setor": "logistica"}
+{"id": "teste_igual-0030", "texto": "Bom dia, minha senha expirou e nao consigo trocar. tenho uma entrega hoje. Falo aqui no financeiro.", "categoria": "acesso", "prioridade": "alta", "setor": "financeiro"}
+{"id": "teste_igual-0031", "texto": "Bom dia, abrindo chamado: os emails que envio voltam. aqui no financeiro. quando der.", "categoria": "email", "prioridade": "baixa", "setor": "financeiro"}
+{"id": "teste_igual-0032", "texto": "Ola time de suporte, nao e urgente. aqui no juridico, a impressora esta sem comunicacao.", "categoria": "impressora", "prioridade": "baixa", "setor": "juridico"}
+{"id": "teste_igual-0033", "texto": "Bom dia, abrindo chamado: o wifi do andar nao conecta. sou do juridico. preciso resolver ate hoje.", "categoria": "rede", "prioridade": "alta", "setor": "juridico"}
+{"id": "teste_igual-0034", "texto": "Pessoal, nao consigo entrar no sistema. so estou avisando. Falo aqui no RH.", "categoria": "acesso", "prioridade": "baixa", "setor": "rh"}
+{"id": "teste_igual-0035", "texto": "Oi, sou do financeiro nao encontro a impressora do andar, parou tudo aqui.", "categoria": "impressora", "prioridade": "critica", "setor": "financeiro"}
+{"id": "teste_igual-0036", "texto": "Oi, aqui no financeiro, o programa de planilhas fecha sozinho. preciso resolver ate hoje.", "categoria": "software", "prioridade": "alta", "setor": "financeiro"}
+{"id": "teste_igual-0037", "texto": "Ola time de suporte, sou do financeiro, minha senha expirou e nao consigo trocar. o sistema de vendas esta fora do ar.", "categoria": "acesso", "prioridade": "critica", "setor": "financeiro"}
+{"id": "teste_igual-0038", "texto": "Pessoal, abrindo chamado: o login diz usuario bloqueado. sou do TI. preciso resolver ate hoje.", "categoria": "acesso", "prioridade": "alta", "setor": "ti"}
+{"id": "teste_igual-0039", "texto": "Bom dia, o mouse esta falhando. parou tudo aqui. Falo no setor financeiro.", "categoria": "hardware", "prioridade": "critica", "setor": "financeiro"}
+{"id": "teste_igual-0040", "texto": "Ola time de suporte, no setor financeiro o calendario nao sincroniza, da para trabalhar mas e chato.", "categoria": "email", "prioridade": "media", "setor": "financeiro"}
+{"id": "teste_igual-0041", "texto": "Ola time de suporte, no setor financeiro o login diz usuario bloqueado, tem cliente importante esperando agora.", "categoria": "acesso", "prioridade": "critica", "setor": "financeiro"}
+{"id": "teste_igual-0042", "texto": "Oi, aqui no TI, a impressao sai com listras. parou tudo aqui.", "categoria": "impressora", "prioridade": "critica", "setor": "ti"}
+{"id": "teste_igual-0043", "texto": "Bom dia, o antivirus pede atualizacao e trava. da para trabalhar mas e chato. Falo sou do TI.", "categoria": "software", "prioridade": "media", "setor": "ti"}
+{"id": "teste_igual-0044", "texto": "Ola time de suporte, no setor TI, o notebook nao liga. nao e urgente.", "categoria": "hardware", "prioridade": "baixa", "setor": "ti"}
+{"id": "teste_igual-0045", "texto": "Ola time de suporte, aqui no juridico, minha caixa de entrada esta cheia. so estou avisando.", "categoria": "email", "prioridade": "baixa", "setor": "juridico"}
+{"id": "teste_igual-0046", "texto": "Ola time de suporte, aqui no juridico, nao consigo entrar no sistema. nao e urgente.", "categoria": "acesso", "prioridade": "baixa", "setor": "juridico"}
+{"id": "teste_igual-0047", "texto": "Pessoal, abrindo chamado: o login diz usuario bloqueado. no setor financeiro. sem pressa.", "categoria": "acesso", "prioridade": "baixa", "setor": "financeiro"}
+{"id": "teste_igual-0048", "texto": "Bom dia, da para trabalhar mas e chato. no setor financeiro, nao consigo entrar no sistema.", "categoria": "acesso", "prioridade": "media", "setor": "financeiro"}
+{"id": "teste_igual-0049", "texto": "Oi, o monitor ficou preto. atrapalha um pouco. Falo no setor financeiro.", "categoria": "hardware", "prioridade": "media", "setor": "financeiro"}
+{"id": "teste_igual-0050", "texto": "Ola time de suporte, sou do comercial o calendario nao sincroniza, parou tudo aqui.", "categoria": "email", "prioridade": "critica", "setor": "comercial"}
+{"id": "teste_igual-0051", "texto": "Ola time de suporte, o aplicativo de videoconferencia nao abre. preciso resolver esta semana. Falo no setor TI.", "categoria": "software", "prioridade": "media", "setor": "ti"}
+{"id": "teste_igual-0052", "texto": "Bom dia, nao encontro a impressora do andar. tem cliente importante esperando agora. Falo sou do RH.", "categoria": "impressora", "prioridade": "critica", "setor": "rh"}
+{"id": "teste_igual-0053", "texto": "Oi, aqui no RH os emails que envio voltam, preciso resolver esta semana.", "categoria": "email", "prioridade": "media", "setor": "rh"}
+{"id": "teste_igual-0054", "texto": "Pessoal, abrindo chamado: a impressao sai com listras. aqui no logistica. preciso resolver ate hoje.", "categoria": "impressora", "prioridade": "alta", "setor": "logistica"}
+{"id": "teste_igual-0055", "texto": "Oi, o teclado parou de responder. ninguem consegue trabalhar. Falo no setor TI.", "categoria": "hardware", "prioridade": "critica", "setor": "ti"}
+{"id": "teste_igual-0056", "texto": "Ola time de suporte, abrindo chamado: o monitor ficou preto. no setor RH. tem cliente importante esperando agora.", "categoria": "hardware", "prioridade": "critica", "setor": "rh"}
+{"id": "teste_igual-0057", "texto": "Ola time de suporte, no setor TI, nao estou recebendo emails. so estou avisando.", "categoria": "email", "prioridade": "baixa", "setor": "ti"}
+{"id": "teste_igual-0058", "texto": "Oi, sou do logistica, o wifi do andar nao conecta. preciso resolver esta semana.", "categoria": "rede", "prioridade": "media", "setor": "logistica"}
+{"id": "teste_igual-0059", "texto": "Bom dia, preciso resolver esta semana. sou do RH, o monitor ficou preto.", "categoria": "hardware", "prioridade": "media", "setor": "rh"}
+{"id": "teste_igual-0060", "texto": "Bom dia, aqui no TI, o notebook nao liga. atrapalha um pouco.", "categoria": "hardware", "prioridade": "media", "setor": "ti"}
+{"id": "teste_igual-0061", "texto": "Pessoal, abrindo chamado: o notebook nao liga. aqui no comercial. nao e urgente.", "categoria": "hardware", "prioridade": "baixa", "setor": "comercial"}
+{"id": "teste_igual-0062", "texto": "Bom dia, abrindo chamado: o mouse esta falhando. aqui no TI. tem cliente importante esperando agora.", "categoria": "hardware", "prioridade": "critica", "setor": "ti"}
+{"id": "teste_igual-0063", "texto": "Bom dia, no setor financeiro a rede esta muito lenta, preciso resolver ate hoje.", "categoria": "rede", "prioridade": "alta", "setor": "financeiro"}
+{"id": "teste_igual-0064", "texto": "Pessoal, tenho uma entrega hoje. no setor financeiro, o antivirus pede atualizacao e trava.", "categoria": "software", "prioridade": "alta", "setor": "financeiro"}
+{"id": "teste_igual-0065", "texto": "Bom dia, no setor financeiro o mouse esta falhando, isso atrapalha muito meu trabalho.", "categoria": "hardware", "prioridade": "alta", "setor": "financeiro"}
+{"id": "teste_igual-0066", "texto": "Oi, no setor logistica o monitor ficou preto, quando der.", "categoria": "hardware", "prioridade": "baixa", "setor": "logistica"}
+{"id": "teste_igual-0067", "texto": "Oi, sou do financeiro, o mouse esta falhando. o sistema de vendas esta fora do ar.", "categoria": "hardware", "prioridade": "critica", "setor": "financeiro"}
+{"id": "teste_igual-0068", "texto": "Pessoal, abrindo chamado: a impressora esta sem comunicacao. aqui no TI. preciso resolver esta semana.", "categoria": "impressora", "prioridade": "media", "setor": "ti"}
+{"id": "teste_igual-0069", "texto": "Ola time de suporte, atrapalha um pouco. sou do juridico, a impressora esta sem comunicacao.", "categoria": "impressora", "prioridade": "media", "setor": "juridico"}
+{"id": "teste_igual-0070", "texto": "Bom dia, o teclado parou de responder. ninguem consegue trabalhar. Falo sou do financeiro.", "categoria": "hardware", "prioridade": "critica", "setor": "financeiro"}
+{"id": "teste_igual-0071", "texto": "Ola time de suporte, abrindo chamado: a impressora esta sem comunicacao. no setor comercial. tenho uma entrega hoje.", "categoria": "impressora", "prioridade": "alta", "setor": "comercial"}
+{"id": "teste_igual-0072", "texto": "Bom dia, no setor RH o programa de planilhas fecha sozinho, sem pressa.", "categoria": "software", "prioridade": "baixa", "setor": "rh"}
+{"id": "teste_igual-0073", "texto": "Ola time de suporte, abrindo chamado: o wifi do andar nao conecta. no setor juridico. da para trabalhar mas e chato.", "categoria": "rede", "prioridade": "media", "setor": "juridico"}
+{"id": "teste_igual-0074", "texto": "Oi, minha caixa de entrada esta cheia. preciso resolver esta semana. Falo no setor TI.", "categoria": "email", "prioridade": "media", "setor": "ti"}
+{"id": "teste_igual-0075", "texto": "Ola time de suporte, sou do comercial, o mouse esta falhando. tenho uma entrega hoje.", "categoria": "hardware", "prioridade": "alta", "setor": "comercial"}
+{"id": "teste_igual-0076", "texto": "Pessoal, abrindo chamado: o calendario nao sincroniza. no setor logistica. preciso resolver ate hoje.", "categoria": "email", "prioridade": "alta", "setor": "logistica"}
+{"id": "teste_igual-0077", "texto": "Bom dia, no setor logistica, minha caixa de entrada esta cheia. atrapalha um pouco.", "categoria": "email", "prioridade": "media", "setor": "logistica"}
+{"id": "teste_igual-0078", "texto": "Oi, a rede esta muito lenta. parou tudo aqui. Falo aqui no RH.", "categoria": "rede", "prioridade": "critica", "setor": "rh"}
+{"id": "teste_igual-0079", "texto": "Oi, nao estou recebendo emails. isso atrapalha muito meu trabalho. Falo sou do logistica.", "categoria": "email", "prioridade": "alta", "setor": "logistica"}
+{"id": "teste_igual-0080", "texto": "Oi, so estou avisando. no setor comercial, nao consigo entrar no sistema.", "categoria": "acesso", "prioridade": "baixa", "setor": "comercial"}
+{"id": "teste_igual-0081", "texto": "Pessoal, sou do comercial minha caixa de entrada esta cheia, sem pressa.", "categoria": "email", "prioridade": "baixa", "setor": "comercial"}
+{"id": "teste_igual-0082", "texto": "Pessoal, aqui no logistica, nao estou recebendo emails. quando der.", "categoria": "email", "prioridade": "baixa", "setor": "logistica"}
+{"id": "teste_igual-0083", "texto": "Bom dia, aqui no TI o aplicativo de videoconferencia nao abre, preciso resolver esta semana.", "categoria": "software", "prioridade": "media", "setor": "ti"}
+{"id": "teste_igual-0084", "texto": "Ola time de suporte, abrindo chamado: a internet esta caindo toda hora. no setor TI. da para trabalhar mas e chato.", "categoria": "rede", "prioridade": "media", "setor": "ti"}
+{"id": "teste_igual-0085", "texto": "Pessoal, abrindo chamado: o aplicativo de videoconferencia nao abre. aqui no logistica. atrapalha um pouco.", "categoria": "software", "prioridade": "media", "setor": "logistica"}
+{"id": "teste_igual-0086", "texto": "Ola time de suporte, a impressao sai com listras. o sistema de vendas esta fora do ar. Falo aqui no TI.", "categoria": "impressora", "prioridade": "critica", "setor": "ti"}
+{"id": "teste_igual-0087", "texto": "Ola time de suporte, aqui no juridico o notebook nao liga, ninguem consegue trabalhar.", "categoria": "hardware", "prioridade": "critica", "setor": "juridico"}
+{"id": "teste_igual-0088", "texto": "Oi, abrindo chamado: o monitor ficou preto. aqui no RH. preciso resolver ate hoje.", "categoria": "hardware", "prioridade": "alta", "setor": "rh"}
+{"id": "teste_igual-0089", "texto": "Bom dia, a internet esta caindo toda hora. ninguem consegue trabalhar. Falo aqui no juridico.", "categoria": "rede", "prioridade": "critica", "setor": "juridico"}
+{"id": "teste_igual-0090", "texto": "Bom dia, sou do RH, o aplicativo de videoconferencia nao abre. o sistema de vendas esta fora do ar.", "categoria": "software", "prioridade": "critica", "setor": "rh"}
+{"id": "teste_igual-0091", "texto": "Oi, sou do logistica, o programa de planilhas fecha sozinho. so estou avisando.", "categoria": "software", "prioridade": "baixa", "setor": "logistica"}
+{"id": "teste_igual-0092", "texto": "Bom dia, o aplicativo de videoconferencia nao abre. quando der. Falo sou do RH.", "categoria": "software", "prioridade": "baixa", "setor": "rh"}
+{"id": "teste_igual-0093", "texto": "Pessoal, aqui no juridico, a internet esta caindo toda hora. isso atrapalha muito meu trabalho.", "categoria": "rede", "prioridade": "alta", "setor": "juridico"}
+{"id": "teste_igual-0094", "texto": "Ola time de suporte, aqui no TI o teclado parou de responder, preciso resolver ate hoje.", "categoria": "hardware", "prioridade": "alta", "setor": "ti"}
+{"id": "teste_igual-0095", "texto": "Bom dia, no setor comercial, o mouse esta falhando. preciso resolver ate hoje.", "categoria": "hardware", "prioridade": "alta", "setor": "comercial"}
+{"id": "teste_igual-0096", "texto": "Bom dia, aqui no financeiro, minha caixa de entrada esta cheia. sem pressa.", "categoria": "email", "prioridade": "baixa", "setor": "financeiro"}
+{"id": "teste_igual-0097", "texto": "Pessoal, nao e urgente. aqui no RH, o aplicativo de videoconferencia nao abre.", "categoria": "software", "prioridade": "baixa", "setor": "rh"}
+{"id": "teste_igual-0098", "texto": "Ola time de suporte, sou do logistica, o aplicativo de videoconferencia nao abre. preciso resolver ate hoje.", "categoria": "software", "prioridade": "alta", "setor": "logistica"}
+{"id": "teste_igual-0099", "texto": "Ola time de suporte, no setor TI, o teclado parou de responder. da para trabalhar mas e chato.", "categoria": "hardware", "prioridade": "media", "setor": "ti"}
+{"id": "teste_igual-0100", "texto": "Pessoal, abrindo chamado: a impressao sai com listras. aqui no RH. tem cliente importante esperando agora.", "categoria": "impressora", "prioridade": "critica", "setor": "rh"}
+{"id": "teste_igual-0101", "texto": "Pessoal, abrindo chamado: o sistema de notas fiscais da erro ao salvar. sou do TI. da para trabalhar mas e chato.", "categoria": "software", "prioridade": "media", "setor": "ti"}
+{"id": "teste_igual-0102", "texto": "Oi, aqui no TI, a impressora esta sem comunicacao. tem cliente importante esperando agora.", "categoria": "impressora", "prioridade": "critica", "setor": "ti"}
+{"id": "teste_igual-0103", "texto": "Bom dia, nao consigo entrar no sistema. so estou avisando. Falo no setor comercial.", "categoria": "acesso", "prioridade": "baixa", "setor": "comercial"}
+{"id": "teste_igual-0104", "texto": "Bom dia, aqui no comercial, o aplicativo de videoconferencia nao abre. preciso resolver ate hoje.", "categoria": "software", "prioridade": "alta", "setor": "comercial"}
+{"id": "teste_igual-0105", "texto": "Bom dia, abrindo chamado: o monitor ficou preto. no setor financeiro. preciso resolver ate hoje.", "categoria": "hardware", "prioridade": "alta", "setor": "financeiro"}
+{"id": "teste_igual-0106", "texto": "Bom dia, o papel esta enroscando. nao e urgente. Falo aqui no RH.", "categoria": "impressora", "prioridade": "baixa", "setor": "rh"}
+{"id": "teste_igual-0107", "texto": "Ola time de suporte, da para trabalhar mas e chato. no setor juridico, a vpn nao fecha conexao.", "categoria": "rede", "prioridade": "media", "setor": "juridico"}
+{"id": "teste_igual-0108", "texto": "Bom dia, parou tudo aqui. aqui no RH, a internet esta caindo toda hora.", "categoria": "rede", "prioridade": "critica", "setor": "rh"}
+{"id": "teste_igual-0109", "texto": "Bom dia, sou do comercial, perdi o acesso a pasta compartilhada. preciso resolver esta semana.", "categoria": "acesso", "prioridade": "media", "setor": "comercial"}
+{"id": "teste_igual-0110", "texto": "Pessoal, abrindo chamado: nao encontro a impressora do andar. sou do logistica. sem pressa.", "categoria": "impressora", "prioridade": "baixa", "setor": "logistica"}
+{"id": "teste_igual-0111", "texto": "Bom dia, o notebook nao liga. tem cliente importante esperando agora. Falo no setor TI.", "categoria": "hardware", "prioridade": "critica", "setor": "ti"}
+{"id": "teste_igual-0112", "texto": "Oi, sou do comercial o notebook nao liga, nao e urgente.", "categoria": "hardware", "prioridade": "baixa", "setor": "comercial"}
+{"id": "teste_igual-0113", "texto": "Oi, sem pressa. aqui no juridico, o antivirus pede atualizacao e trava.", "categoria": "software", "prioridade": "baixa", "setor": "juridico"}
+{"id": "teste_igual-0114", "texto": "Bom dia, abrindo chamado: o monitor ficou preto. sou do TI. atrapalha um pouco.", "categoria": "hardware", "prioridade": "media", "setor": "ti"}
+{"id": "teste_igual-0115", "texto": "Ola time de suporte, a rede esta muito lenta. atrapalha um pouco. Falo no setor logistica.", "categoria": "rede", "prioridade": "media", "setor": "logistica"}
+{"id": "teste_igual-0116", "texto": "Ola time de suporte, abrindo chamado: a internet esta caindo toda hora. no setor TI. o sistema de vendas esta fora do ar.", "categoria": "rede", "prioridade": "critica", "setor": "ti"}
+{"id": "teste_igual-0117", "texto": "Oi, sou do financeiro, nao consigo entrar no sistema. da para trabalhar mas e chato.", "categoria": "acesso", "prioridade": "media", "setor": "financeiro"}
+{"id": "teste_igual-0118", "texto": "Pessoal, o aplicativo de videoconferencia nao abre. sem pressa. Falo sou do RH.", "categoria": "software", "prioridade": "baixa", "setor": "rh"}
+{"id": "teste_igual-0119", "texto": "Pessoal, o notebook nao liga. tem cliente importante esperando agora. Falo aqui no logistica.", "categoria": "hardware", "prioridade": "critica", "setor": "logistica"}
+{"id": "teste_igual-0120", "texto": "Oi, aqui no TI, o mouse esta falhando. o sistema de vendas esta fora do ar.", "categoria": "hardware", "prioridade": "critica", "setor": "ti"}
+{"id": "teste_igual-0121", "texto": "Pessoal, abrindo chamado: o aplicativo de videoconferencia nao abre. sou do RH. isso atrapalha muito meu trabalho.", "categoria": "software", "prioridade": "alta", "setor": "rh"}
+{"id": "teste_igual-0122", "texto": "Pessoal, aqui no comercial o calendario nao sincroniza, atrapalha um pouco.", "categoria": "email", "prioridade": "media", "setor": "comercial"}
+{"id": "teste_igual-0123", "texto": "Bom dia, o monitor ficou preto. isso atrapalha muito meu trabalho. Falo aqui no logistica.", "categoria": "hardware", "prioridade": "alta", "setor": "logistica"}
+{"id": "teste_igual-0124", "texto": "Oi, aqui no juridico, nao estou recebendo emails. preciso resolver esta semana.", "categoria": "email", "prioridade": "media", "setor": "juridico"}
+{"id": "teste_igual-0125", "texto": "Bom dia, preciso resolver ate hoje. sou do comercial, o sistema de notas fiscais da erro ao salvar.", "categoria": "software", "prioridade": "alta", "setor": "comercial"}
+{"id": "teste_igual-0126", "texto": "Bom dia, no setor TI nao consigo entrar no sistema, tenho uma entrega hoje.", "categoria": "acesso", "prioridade": "alta", "setor": "ti"}
+{"id": "teste_igual-0127", "texto": "Ola time de suporte, abrindo chamado: o teclado parou de responder. no setor RH. tenho uma entrega hoje.", "categoria": "hardware", "prioridade": "alta", "setor": "rh"}
+{"id": "teste_igual-0128", "texto": "Oi, no setor TI, minha senha expirou e nao consigo trocar. quando der.", "categoria": "acesso", "prioridade": "baixa", "setor": "ti"}
+{"id": "teste_igual-0129", "texto": "Oi, sou do juridico a impressora esta sem comunicacao, ninguem consegue trabalhar.", "categoria": "impressora", "prioridade": "critica", "setor": "juridico"}
+{"id": "teste_igual-0130", "texto": "Ola time de suporte, sou do TI, perdi o acesso a pasta compartilhada. nao e urgente.", "categoria": "acesso", "prioridade": "baixa", "setor": "ti"}
+{"id": "teste_igual-0131", "texto": "Bom dia, minha caixa de entrada esta cheia. da para trabalhar mas e chato. Falo no setor comercial.", "categoria": "email", "prioridade": "media", "setor": "comercial"}
+{"id": "teste_igual-0132", "texto": "Ola time de suporte, abrindo chamado: o login diz usuario bloqueado. sou do comercial. tem cliente importante esperando agora.", "categoria": "acesso", "prioridade": "critica", "setor": "comercial"}
+{"id": "teste_igual-0133", "texto": "Oi, no setor juridico o notebook nao liga, atrapalha um pouco.", "categoria": "hardware", "prioridade": "media", "setor": "juridico"}
+{"id": "teste_igual-0134", "texto": "Pessoal, da para trabalhar mas e chato. aqui no TI, o antivirus pede atualizacao e trava.", "categoria": "software", "prioridade": "media", "setor": "ti"}
+{"id": "teste_igual-0135", "texto": "Pessoal, os emails que envio voltam. sem pressa. Falo no setor TI.", "categoria": "email", "prioridade": "baixa", "setor": "ti"}
+{"id": "teste_igual-0136", "texto": "Ola time de suporte, no setor comercial, o aplicativo de videoconferencia nao abre. quando der.", "categoria": "software", "prioridade": "baixa", "setor": "comercial"}
+{"id": "teste_igual-0137", "texto": "Ola time de suporte, abrindo chamado: o notebook nao liga. sou do RH. tenho uma entrega hoje.", "categoria": "hardware", "prioridade": "alta", "setor": "rh"}
+{"id": "teste_igual-0138", "texto": "Ola time de suporte, no setor comercial a vpn nao fecha conexao, sem pressa.", "categoria": "rede", "prioridade": "baixa", "setor": "comercial"}
+{"id": "teste_igual-0139", "texto": "Bom dia, abrindo chamado: o wifi do andar nao conecta. sou do comercial. ninguem consegue trabalhar.", "categoria": "rede", "prioridade": "critica", "setor": "comercial"}
+{"id": "teste_igual-0140", "texto": "Bom dia, sem pressa. no setor logistica, a impressora esta sem comunicacao.", "categoria": "impressora", "prioridade": "baixa", "setor": "logistica"}
+{"id": "teste_igual-0141", "texto": "Ola time de suporte, sou do TI o teclado parou de responder, nao e urgente.", "categoria": "hardware", "prioridade": "baixa", "setor": "ti"}
+{"id": "teste_igual-0142", "texto": "Ola time de suporte, minha caixa de entrada esta cheia. quando der. Falo aqui no RH.", "categoria": "email", "prioridade": "baixa", "setor": "rh"}
+{"id": "teste_igual-0143", "texto": "Ola time de suporte, abrindo chamado: a impressora esta sem comunicacao. no setor logistica. preciso resolver esta semana.", "categoria": "impressora", "prioridade": "media", "setor": "logistica"}
+{"id": "teste_igual-0144", "texto": "Pessoal, o sistema de notas fiscais da erro ao salvar. quando der. Falo aqui no RH.", "categoria": "software", "prioridade": "baixa", "setor": "rh"}
+{"id": "teste_igual-0145", "texto": "Ola time de suporte, perdi o acesso a pasta compartilhada. atrapalha um pouco. Falo aqui no juridico.", "categoria": "acesso", "prioridade": "media", "setor": "juridico"}
+{"id": "teste_igual-0146", "texto": "Oi, aqui no comercial, o wifi do andar nao conecta. nao e urgente.", "categoria": "rede", "prioridade": "baixa", "setor": "comercial"}
+{"id": "teste_igual-0147", "texto": "Bom dia, o sistema de vendas esta fora do ar. aqui no comercial, a internet esta caindo toda hora.", "categoria": "rede", "prioridade": "critica", "setor": "comercial"}
+{"id": "teste_igual-0148", "texto": "Pessoal, no setor RH, a rede esta muito lenta. parou tudo aqui.", "categoria": "rede", "prioridade": "critica", "setor": "rh"}
+{"id": "teste_igual-0149", "texto": "Pessoal, no setor TI, nao encontro a impressora do andar. isso atrapalha muito meu trabalho.", "categoria": "impressora", "prioridade": "alta", "setor": "ti"}
+{"id": "teste_igual-0150", "texto": "Pessoal, tem cliente importante esperando agora. sou do juridico, o sistema de notas fiscais da erro ao salvar.", "categoria": "software", "prioridade": "critica", "setor": "juridico"}
+{"id": "teste_igual-0151", "texto": "Oi, sou do juridico o sistema de notas fiscais da erro ao salvar, atrapalha um pouco.", "categoria": "software", "prioridade": "media", "setor": "juridico"}
+{"id": "teste_igual-0152", "texto": "Bom dia, sou do RH, o monitor ficou preto. preciso resolver esta semana.", "categoria": "hardware", "prioridade": "media", "setor": "rh"}
+{"id": "teste_igual-0153", "texto": "Ola time de suporte, no setor RH, os emails que envio voltam. nao e urgente.", "categoria": "email", "prioridade": "baixa", "setor": "rh"}
+{"id": "teste_igual-0154", "texto": "Ola time de suporte, ninguem consegue trabalhar. sou do juridico, minha senha expirou e nao consigo trocar.", "categoria": "acesso", "prioridade": "critica", "setor": "juridico"}
+{"id": "teste_igual-0155", "texto": "Pessoal, o sistema de vendas esta fora do ar. no setor juridico, o teclado parou de responder.", "categoria": "hardware", "prioridade": "critica", "setor": "juridico"}
+{"id": "teste_igual-0156", "texto": "Pessoal, sou do logistica a impressao sai com listras, preciso resolver ate hoje.", "categoria": "impressora", "prioridade": "alta", "setor": "logistica"}
+{"id": "teste_igual-0157", "texto": "Oi, sou do logistica perdi o acesso a pasta compartilhada, atrapalha um pouco.", "categoria": "acesso", "prioridade": "media", "setor": "logistica"}
+{"id": "teste_igual-0158", "texto": "Oi, no setor TI o aplicativo de videoconferencia nao abre, da para trabalhar mas e chato.", "categoria": "software", "prioridade": "media", "setor": "ti"}
+{"id": "teste_igual-0159", "texto": "Pessoal, abrindo chamado: minha senha expirou e nao consigo trocar. aqui no TI. so estou avisando.", "categoria": "acesso", "prioridade": "baixa", "setor": "ti"}
+{"id": "teste_igual-0160", "texto": "Oi, aqui no financeiro o aplicativo de videoconferencia nao abre, preciso resolver esta semana.", "categoria": "software", "prioridade": "media", "setor": "financeiro"}
+{"id": "teste_igual-0161", "texto": "Pessoal, o sistema de vendas esta fora do ar. aqui no logistica, o antivirus pede atualizacao e trava.", "categoria": "software", "prioridade": "critica", "setor": "logistica"}
+{"id": "teste_igual-0162", "texto": "Pessoal, abrindo chamado: nao estou recebendo emails. no setor TI. isso atrapalha muito meu trabalho.", "categoria": "email", "prioridade": "alta", "setor": "ti"}
+{"id": "teste_igual-0163", "texto": "Bom dia, o programa de planilhas fecha sozinho. da para trabalhar mas e chato. Falo sou do comercial.", "categoria": "software", "prioridade": "media", "setor": "comercial"}
+{"id": "teste_igual-0164", "texto": "Pessoal, o login diz usuario bloqueado. preciso resolver esta semana. Falo sou do financeiro.", "categoria": "acesso", "prioridade": "media", "setor": "financeiro"}
+{"id": "teste_igual-0165", "texto": "Ola time de suporte, no setor juridico o login diz usuario bloqueado, quando der.", "categoria": "acesso", "prioridade": "baixa", "setor": "juridico"}
+{"id": "teste_igual-0166", "texto": "Bom dia, preciso resolver ate hoje. no setor logistica, o aplicativo de videoconferencia nao abre.", "categoria": "software", "prioridade": "alta", "setor": "logistica"}
+{"id": "teste_igual-0167", "texto": "Oi, aqui no comercial o sistema de notas fiscais da erro ao salvar, da para trabalhar mas e chato.", "categoria": "software", "prioridade": "media", "setor": "comercial"}
+{"id": "teste_igual-0168", "texto": "Ola time de suporte, aqui no financeiro perdi o acesso a pasta compartilhada, ninguem consegue trabalhar.", "categoria": "acesso", "prioridade": "critica", "setor": "financeiro"}
+{"id": "teste_igual-0169", "texto": "Oi, abrindo chamado: o aplicativo de videoconferencia nao abre. no setor RH. isso atrapalha muito meu trabalho.", "categoria": "software", "prioridade": "alta", "setor": "rh"}
+{"id": "teste_igual-0170", "texto": "Bom dia, no setor TI a impressora esta sem comunicacao, preciso resolver ate hoje.", "categoria": "impressora", "prioridade": "alta", "setor": "ti"}
+{"id": "teste_igual-0171", "texto": "Pessoal, sou do financeiro, o aplicativo de videoconferencia nao abre. isso atrapalha muito meu trabalho.", "categoria": "software", "prioridade": "alta", "setor": "financeiro"}
+{"id": "teste_igual-0172", "texto": "Oi, abrindo chamado: minha senha expirou e nao consigo trocar. sou do logistica. isso atrapalha muito meu trabalho.", "categoria": "acesso", "prioridade": "alta", "setor": "logistica"}
+{"id": "teste_igual-0173", "texto": "Bom dia, sem pressa. no setor financeiro, o sistema de notas fiscais da erro ao salvar.", "categoria": "software", "prioridade": "baixa", "setor": "financeiro"}
+{"id": "teste_igual-0174", "texto": "Ola time de suporte, atrapalha um pouco. sou do TI, a vpn nao fecha conexao.", "categoria": "rede", "prioridade": "media", "setor": "ti"}
+{"id": "teste_igual-0175", "texto": "Pessoal, da para trabalhar mas e chato. sou do RH, o papel esta enroscando.", "categoria": "impressora", "prioridade": "media", "setor": "rh"}
+{"id": "teste_igual-0176", "texto": "Pessoal, tenho uma entrega hoje. sou do juridico, minha caixa de entrada esta cheia.", "categoria": "email", "prioridade": "alta", "setor": "juridico"}
+{"id": "teste_igual-0177", "texto": "Ola time de suporte, minha senha expirou e nao consigo trocar. parou tudo aqui. Falo aqui no comercial.", "categoria": "acesso", "prioridade": "critica", "setor": "comercial"}
+{"id": "teste_igual-0178", "texto": "Oi, abrindo chamado: o sistema de notas fiscais da erro ao salvar. sou do juridico. sem pressa.", "categoria": "software", "prioridade": "baixa", "setor": "juridico"}
+{"id": "teste_igual-0179", "texto": "Bom dia, abrindo chamado: o mouse esta falhando. aqui no RH. o sistema de vendas esta fora do ar.", "categoria": "hardware", "prioridade": "critica", "setor": "rh"}
+{"id": "teste_igual-0180", "texto": "Pessoal, sou do RH o antivirus pede atualizacao e trava, preciso resolver esta semana.", "categoria": "software", "prioridade": "media", "setor": "rh"}
+{"id": "teste_igual-0181", "texto": "Oi, aqui no logistica, a impressao sai com listras. tenho uma entrega hoje.", "categoria": "impressora", "prioridade": "alta", "setor": "logistica"}
+{"id": "teste_igual-0182", "texto": "Oi, abrindo chamado: a vpn nao fecha conexao. aqui no RH. da para trabalhar mas e chato.", "categoria": "rede", "prioridade": "media", "setor": "rh"}
+{"id": "teste_igual-0183", "texto": "Ola time de suporte, da para trabalhar mas e chato. no setor logistica, a rede esta muito lenta.", "categoria": "rede", "prioridade": "media", "setor": "logistica"}
+{"id": "teste_igual-0184", "texto": "Bom dia, aqui no TI a rede esta muito lenta, tenho uma entrega hoje.", "categoria": "rede", "prioridade": "alta", "setor": "ti"}
+{"id": "teste_igual-0185", "texto": "Ola time de suporte, preciso resolver esta semana. no setor comercial, perdi o acesso a pasta compartilhada.", "categoria": "acesso", "prioridade": "media", "setor": "comercial"}
+{"id": "teste_igual-0186", "texto": "Ola time de suporte, abrindo chamado: o programa de planilhas fecha sozinho. aqui no comercial. tem cliente importante esperando agora.", "categoria": "software", "prioridade": "critica", "setor": "comercial"}
+{"id": "teste_igual-0187", "texto": "Bom dia, sou do juridico o monitor ficou preto, atrapalha um pouco.", "categoria": "hardware", "prioridade": "media", "setor": "juridico"}
+{"id": "teste_igual-0188", "texto": "Ola time de suporte, aqui no TI o antivirus pede atualizacao e trava, da para trabalhar mas e chato.", "categoria": "software", "prioridade": "media", "setor": "ti"}
+{"id": "teste_igual-0189", "texto": "Pessoal, nao e urgente. no setor logistica, a vpn nao fecha conexao.", "categoria": "rede", "prioridade": "baixa", "setor": "logistica"}
+{"id": "teste_igual-0190", "texto": "Pessoal, abrindo chamado: o aplicativo de videoconferencia nao abre. sou do financeiro. tenho uma entrega hoje.", "categoria": "software", "prioridade": "alta", "setor": "financeiro"}
+{"id": "teste_igual-0191", "texto": "Oi, no setor RH o calendario nao sincroniza, da para trabalhar mas e chato.", "categoria": "email", "prioridade": "media", "setor": "rh"}
+{"id": "teste_igual-0192", "texto": "Pessoal, perdi o acesso a pasta compartilhada. preciso resolver ate hoje. Falo no setor juridico.", "categoria": "acesso", "prioridade": "alta", "setor": "juridico"}
+{"id": "teste_igual-0193", "texto": "Ola time de suporte, os emails que envio voltam. parou tudo aqui. Falo no setor TI.", "categoria": "email", "prioridade": "critica", "setor": "ti"}
+{"id": "teste_igual-0194", "texto": "Oi, abrindo chamado: o papel esta enroscando. aqui no juridico. sem pressa.", "categoria": "impressora", "prioridade": "baixa", "setor": "juridico"}
+{"id": "teste_igual-0195", "texto": "Pessoal, sem pressa. sou do TI, o login diz usuario bloqueado.", "categoria": "acesso", "prioridade": "baixa", "setor": "ti"}
+{"id": "teste_igual-0196", "texto": "Oi, sou do logistica o programa de planilhas fecha sozinho, preciso resolver ate hoje.", "categoria": "software", "prioridade": "alta", "setor": "logistica"}
+{"id": "teste_igual-0197", "texto": "Oi, abrindo chamado: o login diz usuario bloqueado. sou do comercial. ninguem consegue trabalhar.", "categoria": "acesso", "prioridade": "critica", "setor": "comercial"}
+{"id": "teste_igual-0198", "texto": "Oi, o teclado parou de responder. da para trabalhar mas e chato. Falo sou do logistica.", "categoria": "hardware", "prioridade": "media", "setor": "logistica"}
+{"id": "teste_igual-0199", "texto": "Bom dia, o mouse esta falhando. nao e urgente. Falo aqui no financeiro.", "categoria": "hardware", "prioridade": "baixa", "setor": "financeiro"}
+{"id": "teste_igual-0200", "texto": "Bom dia, perdi o acesso a pasta compartilhada. tenho uma entrega hoje. Falo no setor RH.", "categoria": "acesso", "prioridade": "alta", "setor": "rh"}
+{"id": "teste_igual-0201", "texto": "Ola time de suporte, abrindo chamado: o calendario nao sincroniza. no setor comercial. atrapalha um pouco.", "categoria": "email", "prioridade": "media", "setor": "comercial"}
+{"id": "teste_igual-0202", "texto": "Ola time de suporte, aqui no juridico o notebook nao liga, preciso resolver ate hoje.", "categoria": "hardware", "prioridade": "alta", "setor": "juridico"}
+{"id": "teste_igual-0203", "texto": "Oi, aqui no logistica, o wifi do andar nao conecta. o sistema de vendas esta fora do ar.", "categoria": "rede", "prioridade": "critica", "setor": "logistica"}
+{"id": "teste_igual-0204", "texto": "Pessoal, quando der. aqui no logistica, o notebook nao liga.", "categoria": "hardware", "prioridade": "baixa", "setor": "logistica"}
+{"id": "teste_igual-0205", "texto": "Pessoal, abrindo chamado: a internet esta caindo toda hora. aqui no TI. nao e urgente.", "categoria": "rede", "prioridade": "baixa", "setor": "ti"}
+{"id": "teste_igual-0206", "texto": "Bom dia, a impressora esta sem comunicacao. da para trabalhar mas e chato. Falo no setor comercial.", "categoria": "impressora", "prioridade": "media", "setor": "comercial"}
+{"id": "teste_igual-0207", "texto": "Ola time de suporte, no setor financeiro, a rede esta muito lenta. so estou avisando.", "categoria": "rede", "prioridade": "baixa", "setor": "financeiro"}
+{"id": "teste_igual-0208", "texto": "Bom dia, sou do logistica, o mouse esta falhando. preciso resolver esta semana.", "categoria": "hardware", "prioridade": "media", "setor": "logistica"}
+{"id": "teste_igual-0209", "texto": "Pessoal, sem pressa. sou do comercial, nao consigo entrar no sistema.", "categoria": "acesso", "prioridade": "baixa", "setor": "comercial"}
+{"id": "teste_igual-0210", "texto": "Ola time de suporte, ninguem consegue trabalhar. no setor financeiro, a vpn nao fecha conexao.", "categoria": "rede", "prioridade": "critica", "setor": "financeiro"}
+{"id": "teste_igual-0211", "texto": "Pessoal, aqui no RH, o sistema de notas fiscais da erro ao salvar. ninguem consegue trabalhar.", "categoria": "software", "prioridade": "critica", "setor": "rh"}
+{"id": "teste_igual-0212", "texto": "Pessoal, abrindo chamado: o programa de planilhas fecha sozinho. no setor financeiro. ninguem consegue trabalhar.", "categoria": "software", "prioridade": "critica", "setor": "financeiro"}
+{"id": "teste_igual-0213", "texto": "Bom dia, abrindo chamado: o teclado parou de responder. no setor financeiro. quando der.", "categoria": "hardware", "prioridade": "baixa", "setor": "financeiro"}
+{"id": "teste_igual-0214", "texto": "Pessoal, ninguem consegue trabalhar. no setor juridico, a rede esta muito lenta.", "categoria": "rede", "prioridade": "critica", "setor": "juridico"}
+{"id": "teste_igual-0215", "texto": "Bom dia, aqui no logistica o calendario nao sincroniza, parou tudo aqui.", "categoria": "email", "prioridade": "critica", "setor": "logistica"}
+{"id": "teste_igual-0216", "texto": "Oi, preciso resolver esta semana. sou do TI, o monitor ficou preto.", "categoria": "hardware", "prioridade": "media", "setor": "ti"}
+{"id": "teste_igual-0217", "texto": "Ola time de suporte, aqui no financeiro, o mouse esta falhando. preciso resolver ate hoje.", "categoria": "hardware", "prioridade": "alta", "setor": "financeiro"}
+{"id": "teste_igual-0218", "texto": "Bom dia, sou do financeiro, a impressora esta sem comunicacao. parou tudo aqui.", "categoria": "impressora", "prioridade": "critica", "setor": "financeiro"}
+{"id": "teste_igual-0219", "texto": "Pessoal, no setor financeiro, a impressao sai com listras. o sistema de vendas esta fora do ar.", "categoria": "impressora", "prioridade": "critica", "setor": "financeiro"}
+{"id": "teste_igual-0220", "texto": "Oi, sou do comercial o programa de planilhas fecha sozinho, tem cliente importante esperando agora.", "categoria": "software", "prioridade": "critica", "setor": "comercial"}
+{"id": "teste_igual-0221", "texto": "Oi, o papel esta enroscando. so estou avisando. Falo aqui no financeiro.", "categoria": "impressora", "prioridade": "baixa", "setor": "financeiro"}
+{"id": "teste_igual-0222", "texto": "Bom dia, os emails que envio voltam. da para trabalhar mas e chato. Falo no setor logistica.", "categoria": "email", "prioridade": "media", "setor": "logistica"}
+{"id": "teste_igual-0223", "texto": "Pessoal, no setor TI, o calendario nao sincroniza. sem pressa.", "categoria": "email", "prioridade": "baixa", "setor": "ti"}
+{"id": "teste_igual-0224", "texto": "Ola time de suporte, abrindo chamado: o antivirus pede atualizacao e trava. sou do juridico. isso atrapalha muito meu trabalho.", "categoria": "software", "prioridade": "alta", "setor": "juridico"}
+{"id": "teste_igual-0225", "texto": "Pessoal, abrindo chamado: o login diz usuario bloqueado. sou do comercial. preciso resolver ate hoje.", "categoria": "acesso", "prioridade": "alta", "setor": "comercial"}
+{"id": "teste_igual-0226", "texto": "Ola time de suporte, sou do logistica o mouse esta falhando, quando der.", "categoria": "hardware", "prioridade": "baixa", "setor": "logistica"}
+{"id": "teste_igual-0227", "texto": "Oi, no setor juridico, a impressora esta sem comunicacao. isso atrapalha muito meu trabalho.", "categoria": "impressora", "prioridade": "alta", "setor": "juridico"}
+{"id": "teste_igual-0228", "texto": "Pessoal, o sistema de notas fiscais da erro ao salvar. da para trabalhar mas e chato. Falo aqui no TI.", "categoria": "software", "prioridade": "media", "setor": "ti"}
+{"id": "teste_igual-0229", "texto": "Pessoal, abrindo chamado: o aplicativo de videoconferencia nao abre. sou do TI. preciso resolver ate hoje.", "categoria": "software", "prioridade": "alta", "setor": "ti"}
+{"id": "teste_igual-0230", "texto": "Pessoal, abrindo chamado: o monitor ficou preto. no setor comercial. ninguem consegue trabalhar.", "categoria": "hardware", "prioridade": "critica", "setor": "comercial"}
+{"id": "teste_igual-0231", "texto": "Ola time de suporte, no setor juridico, a internet esta caindo toda hora. da para trabalhar mas e chato.", "categoria": "rede", "prioridade": "media", "setor": "juridico"}
+{"id": "teste_igual-0232", "texto": "Ola time de suporte, abrindo chamado: o sistema de notas fiscais da erro ao salvar. no setor TI. tem cliente importante esperando agora.", "categoria": "software", "prioridade": "critica", "setor": "ti"}
+{"id": "teste_igual-0233", "texto": "Oi, sem pressa. aqui no logistica, o sistema de notas fiscais da erro ao salvar.", "categoria": "software", "prioridade": "baixa", "setor": "logistica"}
+{"id": "teste_igual-0234", "texto": "Bom dia, aqui no juridico, o wifi do andar nao conecta. o sistema de vendas esta fora do ar.", "categoria": "rede", "prioridade": "critica", "setor": "juridico"}
+{"id": "teste_igual-0235", "texto": "Oi, abrindo chamado: minha caixa de entrada esta cheia. aqui no TI. da para trabalhar mas e chato.", "categoria": "email", "prioridade": "media", "setor": "ti"}
+{"id": "teste_igual-0236", "texto": "Ola time de suporte, no setor TI a impressora esta sem comunicacao, o sistema de vendas esta fora do ar.", "categoria": "impressora", "prioridade": "critica", "setor": "ti"}
+{"id": "teste_igual-0237", "texto": "Pessoal, no setor juridico o calendario nao sincroniza, quando der.", "categoria": "email", "prioridade": "baixa", "setor": "juridico"}
+{"id": "teste_igual-0238", "texto": "Oi, sou do RH, minha senha expirou e nao consigo trocar. preciso resolver ate hoje.", "categoria": "acesso", "prioridade": "alta", "setor": "rh"}
+{"id": "teste_igual-0239", "texto": "Pessoal, no setor logistica, o teclado parou de responder. preciso resolver esta semana.", "categoria": "hardware", "prioridade": "media", "setor": "logistica"}
+{"id": "teste_igual-0240", "texto": "Bom dia, abrindo chamado: os emails que envio voltam. no setor juridico. preciso resolver esta semana.", "categoria": "email", "prioridade": "media", "setor": "juridico"}
+{"id": "teste_igual-0241", "texto": "Pessoal, sou do juridico, o wifi do andar nao conecta. tenho uma entrega hoje.", "categoria": "rede", "prioridade": "alta", "setor": "juridico"}
+{"id": "teste_igual-0242", "texto": "Bom dia, a rede esta muito lenta. tenho uma entrega hoje. Falo sou do RH.", "categoria": "rede", "prioridade": "alta", "setor": "rh"}
+{"id": "teste_igual-0243", "texto": "Pessoal, tem cliente importante esperando agora. no setor comercial, minha senha expirou e nao consigo trocar.", "categoria": "acesso", "prioridade": "critica", "setor": "comercial"}
+{"id": "teste_igual-0244", "texto": "Bom dia, sou do comercial, a rede esta muito lenta. isso atrapalha muito meu trabalho.", "categoria": "rede", "prioridade": "alta", "setor": "comercial"}
+{"id": "teste_igual-0245", "texto": "Bom dia, aqui no comercial, o monitor ficou preto. atrapalha um pouco.", "categoria": "hardware", "prioridade": "media", "setor": "comercial"}
+{"id": "teste_igual-0246", "texto": "Bom dia, aqui no RH o teclado parou de responder, da para trabalhar mas e chato.", "categoria": "hardware", "prioridade": "media", "setor": "rh"}
+{"id": "teste_igual-0247", "texto": "Pessoal, aqui no TI o calendario nao sincroniza, so estou avisando.", "categoria": "email", "prioridade": "baixa", "setor": "ti"}
+{"id": "teste_igual-0248", "texto": "Bom dia, abrindo chamado: o papel esta enroscando. aqui no RH. o sistema de vendas esta fora do ar.", "categoria": "impressora", "prioridade": "critica", "setor": "rh"}
+{"id": "teste_igual-0249", "texto": "Oi, tenho uma entrega hoje. sou do TI, o aplicativo de videoconferencia nao abre.", "categoria": "software", "prioridade": "alta", "setor": "ti"}
+{"id": "teste_igual-0250", "texto": "Pessoal, sou do logistica, o mouse esta falhando. isso atrapalha muito meu trabalho.", "categoria": "hardware", "prioridade": "alta", "setor": "logistica"}
+{"id": "teste_igual-0251", "texto": "Pessoal, aqui no TI, o sistema de notas fiscais da erro ao salvar. sem pressa.", "categoria": "software", "prioridade": "baixa", "setor": "ti"}
+{"id": "teste_igual-0252", "texto": "Pessoal, aqui no RH a impressao sai com listras, da para trabalhar mas e chato.", "categoria": "impressora", "prioridade": "media", "setor": "rh"}
+{"id": "teste_igual-0253", "texto": "Bom dia, sou do comercial, minha senha expirou e nao consigo trocar. preciso resolver esta semana.", "categoria": "acesso", "prioridade": "media", "setor": "comercial"}
+{"id": "teste_igual-0254", "texto": "Bom dia, abrindo chamado: nao encontro a impressora do andar. sou do comercial. parou tudo aqui.", "categoria": "impressora", "prioridade": "critica", "setor": "comercial"}
+{"id": "teste_igual-0255", "texto": "Oi, aqui no logistica, o login diz usuario bloqueado. sem pressa.", "categoria": "acesso", "prioridade": "baixa", "setor": "logistica"}
+{"id": "teste_igual-0256", "texto": "Bom dia, nao encontro a impressora do andar. preciso resolver ate hoje. Falo no setor financeiro.", "categoria": "impressora", "prioridade": "alta", "setor": "financeiro"}
+{"id": "teste_igual-0257", "texto": "Pessoal, abrindo chamado: nao consigo entrar no sistema. sou do comercial. preciso resolver esta semana.", "categoria": "acesso", "prioridade": "media", "setor": "comercial"}
+{"id": "teste_igual-0258", "texto": "Ola time de suporte, so estou avisando. aqui no RH, a impressao sai com listras.", "categoria": "impressora", "prioridade": "baixa", "setor": "rh"}
+{"id": "teste_igual-0259", "texto": "Oi, abrindo chamado: os emails que envio voltam. no setor logistica. o sistema de vendas esta fora do ar.", "categoria": "email", "prioridade": "critica", "setor": "logistica"}
+{"id": "teste_igual-0260", "texto": "Pessoal, preciso resolver esta semana. sou do RH, perdi o acesso a pasta compartilhada.", "categoria": "acesso", "prioridade": "media", "setor": "rh"}
+{"id": "teste_igual-0261", "texto": "Pessoal, aqui no comercial os emails que envio voltam, tenho uma entrega hoje.", "categoria": "email", "prioridade": "alta", "setor": "comercial"}
+{"id": "teste_igual-0262", "texto": "Ola time de suporte, sou do TI perdi o acesso a pasta compartilhada, preciso resolver esta semana.", "categoria": "acesso", "prioridade": "media", "setor": "ti"}
+{"id": "teste_igual-0263", "texto": "Pessoal, isso atrapalha muito meu trabalho. sou do financeiro, nao consigo entrar no sistema.", "categoria": "acesso", "prioridade": "alta", "setor": "financeiro"}
+{"id": "teste_igual-0264", "texto": "Pessoal, tem cliente importante esperando agora. no setor juridico, nao encontro a impressora do andar.", "categoria": "impressora", "prioridade": "critica", "setor": "juridico"}
+{"id": "teste_igual-0265", "texto": "Bom dia, sou do comercial, nao encontro a impressora do andar. atrapalha um pouco.", "categoria": "impressora", "prioridade": "media", "setor": "comercial"}
+{"id": "teste_igual-0266", "texto": "Oi, no setor RH a impressao sai com listras, preciso resolver esta semana.", "categoria": "impressora", "prioridade": "media", "setor": "rh"}
+{"id": "teste_igual-0267", "texto": "Ola time de suporte, a internet esta caindo toda hora. atrapalha um pouco. Falo no setor logistica.", "categoria": "rede", "prioridade": "media", "setor": "logistica"}
+{"id": "teste_igual-0268", "texto": "Bom dia, sou do juridico, o mouse esta falhando. atrapalha um pouco.", "categoria": "hardware", "prioridade": "media", "setor": "juridico"}
+{"id": "teste_igual-0269", "texto": "Pessoal, aqui no logistica o aplicativo de videoconferencia nao abre, so estou avisando.", "categoria": "software", "prioridade": "baixa", "setor": "logistica"}
+{"id": "teste_igual-0270", "texto": "Bom dia, o notebook nao liga. o sistema de vendas esta fora do ar. Falo aqui no comercial.", "categoria": "hardware", "prioridade": "critica", "setor": "comercial"}
+{"id": "teste_igual-0271", "texto": "Oi, aqui no comercial, o calendario nao sincroniza. quando der.", "categoria": "email", "prioridade": "baixa", "setor": "comercial"}
+{"id": "teste_igual-0272", "texto": "Oi, sou do RH o notebook nao liga, sem pressa.", "categoria": "hardware", "prioridade": "baixa", "setor": "rh"}
+{"id": "teste_igual-0273", "texto": "Oi, no setor logistica os emails que envio voltam, da para trabalhar mas e chato.", "categoria": "email", "prioridade": "media", "setor": "logistica"}
+{"id": "teste_igual-0274", "texto": "Ola time de suporte, tenho uma entrega hoje. aqui no comercial, a rede esta muito lenta.", "categoria": "rede", "prioridade": "alta", "setor": "comercial"}
+{"id": "teste_igual-0275", "texto": "Ola time de suporte, abrindo chamado: a impressora esta sem comunicacao. aqui no financeiro. o sistema de vendas esta fora do ar.", "categoria": "impressora", "prioridade": "critica", "setor": "financeiro"}
+{"id": "teste_igual-0276", "texto": "Bom dia, aqui no comercial, o programa de planilhas fecha sozinho. tenho uma entrega hoje.", "categoria": "software", "prioridade": "alta", "setor": "comercial"}
+{"id": "teste_igual-0277", "texto": "Oi, abrindo chamado: a impressora esta sem comunicacao. no setor TI. so estou avisando.", "categoria": "impressora", "prioridade": "baixa", "setor": "ti"}
+{"id": "teste_igual-0278", "texto": "Ola time de suporte, o login diz usuario bloqueado. tenho uma entrega hoje. Falo no setor comercial.", "categoria": "acesso", "prioridade": "alta", "setor": "comercial"}
+{"id": "teste_igual-0279", "texto": "Pessoal, so estou avisando. no setor RH, o papel esta enroscando.", "categoria": "impressora", "prioridade": "baixa", "setor": "rh"}
+{"id": "teste_igual-0280", "texto": "Oi, isso atrapalha muito meu trabalho. aqui no comercial, o teclado parou de responder.", "categoria": "hardware", "prioridade": "alta", "setor": "comercial"}
+{"id": "teste_igual-0281", "texto": "Ola time de suporte, minha senha expirou e nao consigo trocar. preciso resolver esta semana. Falo sou do logistica.", "categoria": "acesso", "prioridade": "media", "setor": "logistica"}
+{"id": "teste_igual-0282", "texto": "Ola time de suporte, o sistema de vendas esta fora do ar. aqui no juridico, o calendario nao sincroniza.", "categoria": "email", "prioridade": "critica", "setor": "juridico"}
+{"id": "teste_igual-0283", "texto": "Ola time de suporte, o programa de planilhas fecha sozinho. ninguem consegue trabalhar. Falo no setor financeiro.", "categoria": "software", "prioridade": "critica", "setor": "financeiro"}
+{"id": "teste_igual-0284", "texto": "Pessoal, no setor comercial nao encontro a impressora do andar, isso atrapalha muito meu trabalho.", "categoria": "impressora", "prioridade": "alta", "setor": "comercial"}
+{"id": "teste_igual-0285", "texto": "Bom dia, sou do RH os emails que envio voltam, o sistema de vendas esta fora do ar.", "categoria": "email", "prioridade": "critica", "setor": "rh"}
+{"id": "teste_igual-0286", "texto": "Oi, abrindo chamado: o papel esta enroscando. no setor RH. da para trabalhar mas e chato.", "categoria": "impressora", "prioridade": "media", "setor": "rh"}
+{"id": "teste_igual-0287", "texto": "Ola time de suporte, aqui no juridico a internet esta caindo toda hora, isso atrapalha muito meu trabalho.", "categoria": "rede", "prioridade": "alta", "setor": "juridico"}
+{"id": "teste_igual-0288", "texto": "Ola time de suporte, nao e urgente. aqui no logistica, o login diz usuario bloqueado.", "categoria": "acesso", "prioridade": "baixa", "setor": "logistica"}
+{"id": "teste_igual-0289", "texto": "Oi, tenho uma entrega hoje. sou do RH, minha caixa de entrada esta cheia.", "categoria": "email", "prioridade": "alta", "setor": "rh"}
+{"id": "teste_igual-0290", "texto": "Oi, parou tudo aqui. aqui no comercial, nao encontro a impressora do andar.", "categoria": "impressora", "prioridade": "critica", "setor": "comercial"}
+{"id": "teste_igual-0291", "texto": "Ola time de suporte, tenho uma entrega hoje. aqui no financeiro, a rede esta muito lenta.", "categoria": "rede", "prioridade": "alta", "setor": "financeiro"}
+{"id": "teste_igual-0292", "texto": "Pessoal, abrindo chamado: perdi o acesso a pasta compartilhada. sou do comercial. parou tudo aqui.", "categoria": "acesso", "prioridade": "critica", "setor": "comercial"}
+{"id": "teste_igual-0293", "texto": "Ola time de suporte, no setor financeiro o programa de planilhas fecha sozinho, atrapalha um pouco.", "categoria": "software", "prioridade": "media", "setor": "financeiro"}
+{"id": "teste_igual-0294", "texto": "Pessoal, nao e urgente. sou do RH, minha caixa de entrada esta cheia.", "categoria": "email", "prioridade": "baixa", "setor": "rh"}
+{"id": "teste_igual-0295", "texto": "Bom dia, quando der. aqui no financeiro, o sistema de notas fiscais da erro ao salvar.", "categoria": "software", "prioridade": "baixa", "setor": "financeiro"}
+{"id": "teste_igual-0296", "texto": "Oi, no setor RH a impressora esta sem comunicacao, quando der.", "categoria": "impressora", "prioridade": "baixa", "setor": "rh"}
+{"id": "teste_igual-0297", "texto": "Pessoal, aqui no financeiro, o aplicativo de videoconferencia nao abre. tem cliente importante esperando agora.", "categoria": "software", "prioridade": "critica", "setor": "financeiro"}
+{"id": "teste_igual-0298", "texto": "Bom dia, no setor financeiro, a vpn nao fecha conexao. quando der.", "categoria": "rede", "prioridade": "baixa", "setor": "financeiro"}
+{"id": "teste_igual-0299", "texto": "Pessoal, aqui no RH, a rede esta muito lenta. ninguem consegue trabalhar.", "categoria": "rede", "prioridade": "critica", "setor": "rh"}

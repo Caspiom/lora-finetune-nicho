@@ -1,0 +1,220 @@
+{
+  "teste_igual": {
+    "classe_majoritaria": {
+      "sistema": "classe_majoritaria",
+      "valido": 1.0,
+      "no_esquema": 1.0,
+      "categoria": 0.153,
+      "prioridade": 0.273,
+      "setor": 0.167,
+      "exato": 0.007
+    },
+    "regras_palavras_chave": {
+      "sistema": "regras_palavras_chave",
+      "valido": 1.0,
+      "no_esquema": 1.0,
+      "categoria": 1.0,
+      "prioridade": 1.0,
+      "setor": 1.0,
+      "exato": 1.0
+    },
+    "base_zero_shot": {
+      "sistema": "base_zero_shot",
+      "valido": 1.0,
+      "no_esquema": 0.74,
+      "categoria": 0.167,
+      "prioridade": 0.273,
+      "setor": 0.83,
+      "exato": 0.04,
+      "segundos": 13.49,
+      "ms_por_exemplo": 45.0,
+      "tokens_gerados": 8214
+    },
+    "base_few_shot_8": {
+      "sistema": "base_few_shot_8",
+      "valido": 1.0,
+      "no_esquema": 0.903,
+      "categoria": 0.47,
+      "prioridade": 0.347,
+      "setor": 0.98,
+      "exato": 0.15,
+      "segundos": 29.25,
+      "ms_por_exemplo": 97.5,
+      "tokens_gerados": 6733
+    },
+    "lora_semente1": {
+      "sistema": "lora_semente1",
+      "valido": 1.0,
+      "no_esquema": 1.0,
+      "categoria": 1.0,
+      "prioridade": 1.0,
+      "setor": 1.0,
+      "exato": 1.0,
+      "segundos": 23.27,
+      "ms_por_exemplo": 77.6,
+      "tokens_gerados": 6829
+    },
+    "lora_semente2": {
+      "sistema": "lora_semente2",
+      "valido": 1.0,
+      "no_esquema": 1.0,
+      "categoria": 1.0,
+      "prioridade": 1.0,
+      "setor": 1.0,
+      "exato": 1.0,
+      "segundos": 24.0,
+      "ms_por_exemplo": 80.0,
+      "tokens_gerados": 6829
+    },
+    "lora_semente3": {
+      "sistema": "lora_semente3",
+      "valido": 1.0,
+      "no_esquema": 1.0,
+      "categoria": 1.0,
+      "prioridade": 1.0,
+      "setor": 1.0,
+      "exato": 1.0,
+      "segundos": 23.6,
+      "ms_por_exemplo": 78.7,
+      "tokens_gerados": 6829
+    },
+    "lora_media_das_sementes": {
+      "valido": 1.0,
+      "no_esquema": 1.0,
+      "categoria": 1.0,
+      "prioridade": 1.0,
+      "setor": 1.0,
+      "exato": 1.0,
+      "exato_min": 1.0,
+      "exato_max": 1.0,
+      "n_sementes": 3
+    },
+    "lora_semente1_menos_base_few_shot_8": {
+      "diff": 0.85,
+      "ic95": [
+        0.81,
+        0.89
+      ],
+      "vitorias": 255,
+      "derrotas": 0
+    },
+    "lora_semente1_menos_regras_palavras_chave": {
+      "diff": 0.0,
+      "ic95": [
+        0.0,
+        0.0
+      ],
+      "vitorias": 0,
+      "derrotas": 0
+    }
+  },
+  "teste_novo": {
+    "classe_majoritaria": {
+      "sistema": "classe_majoritaria",
+      "valido": 1.0,
+      "no_esquema": 1.0,
+      "categoria": 0.19,
+      "prioridade": 0.31,
+      "setor": 0.16,
+      "exato": 0.01
+    },
+    "regras_palavras_chave": {
+      "sistema": "regras_palavras_chave",
+      "valido": 1.0,
+      "no_esquema": 1.0,
+      "categoria": 0.417,
+      "prioridade": 0.31,
+      "setor": 1.0,
+      "exato": 0.117
+    },
+    "base_zero_shot": {
+      "sistema": "base_zero_shot",
+      "valido": 1.0,
+      "no_esquema": 0.823,
+      "categoria": 0.183,
+      "prioridade": 0.307,
+      "setor": 0.527,
+      "exato": 0.023,
+      "segundos": 13.39,
+      "ms_por_exemplo": 44.6,
+      "tokens_gerados": 8141
+    },
+    "base_few_shot_8": {
+      "sistema": "base_few_shot_8",
+      "valido": 1.0,
+      "no_esquema": 0.947,
+      "categoria": 0.41,
+      "prioridade": 0.387,
+      "setor": 0.86,
+      "exato": 0.12,
+      "segundos": 31.15,
+      "ms_por_exemplo": 103.8,
+      "tokens_gerados": 6691
+    },
+    "lora_semente1": {
+      "sistema": "lora_semente1",
+      "valido": 1.0,
+      "no_esquema": 0.957,
+      "categoria": 0.7,
+      "prioridade": 0.793,
+      "setor": 1.0,
+      "exato": 0.557,
+      "segundos": 23.89,
+      "ms_por_exemplo": 79.6,
+      "tokens_gerados": 6804
+    },
+    "lora_semente2": {
+      "sistema": "lora_semente2",
+      "valido": 1.0,
+      "no_esquema": 0.947,
+      "categoria": 0.73,
+      "prioridade": 0.783,
+      "setor": 0.997,
+      "exato": 0.583,
+      "segundos": 24.14,
+      "ms_por_exemplo": 80.5,
+      "tokens_gerados": 6882
+    },
+    "lora_semente3": {
+      "sistema": "lora_semente3",
+      "valido": 1.0,
+      "no_esquema": 0.95,
+      "categoria": 0.56,
+      "prioridade": 0.867,
+      "setor": 0.997,
+      "exato": 0.497,
+      "segundos": 23.74,
+      "ms_por_exemplo": 79.1,
+      "tokens_gerados": 6871
+    },
+    "lora_media_das_sementes": {
+      "valido": 1.0,
+      "no_esquema": 0.951,
+      "categoria": 0.663,
+      "prioridade": 0.814,
+      "setor": 0.998,
+      "exato": 0.546,
+      "exato_min": 0.497,
+      "exato_max": 0.583,
+      "n_sementes": 3
+    },
+    "lora_semente1_menos_base_few_shot_8": {
+      "diff": 0.437,
+      "ic95": [
+        0.367,
+        0.503
+      ],
+      "vitorias": 152,
+      "derrotas": 21
+    },
+    "lora_semente1_menos_regras_palavras_chave": {
+      "diff": 0.44,
+      "ic95": [
+        0.373,
+        0.507
+      ],
+      "vitorias": 150,
+      "derrotas": 18
+    }
+  }
+}

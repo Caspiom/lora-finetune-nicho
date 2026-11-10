@@ -1,0 +1,900 @@
+{"id": "treino-0000", "texto": "Ola time de suporte, sou do comercial, a rede esta muito lenta. so estou avisando.", "categoria": "rede", "prioridade": "baixa", "setor": "comercial"}
+{"id": "treino-0001", "texto": "Ola time de suporte, sou do TI, a internet esta caindo toda hora. so estou avisando.", "categoria": "rede", "prioridade": "baixa", "setor": "ti"}
+{"id": "treino-0002", "texto": "Pessoal, aqui no juridico, o notebook nao liga. preciso resolver esta semana.", "categoria": "hardware", "prioridade": "media", "setor": "juridico"}
+{"id": "treino-0003", "texto": "Ola time de suporte, a impressora esta sem comunicacao. quando der. Falo no setor TI.", "categoria": "impressora", "prioridade": "baixa", "setor": "ti"}
+{"id": "treino-0004", "texto": "Pessoal, o sistema de notas fiscais da erro ao salvar. tem cliente importante esperando agora. Falo aqui no juridico.", "categoria": "software", "prioridade": "critica", "setor": "juridico"}
+{"id": "treino-0005", "texto": "Bom dia, sem pressa. aqui no TI, o teclado parou de responder.", "categoria": "hardware", "prioridade": "baixa", "setor": "ti"}
+{"id": "treino-0006", "texto": "Ola time de suporte, tenho uma entrega hoje. no setor logistica, o papel esta enroscando.", "categoria": "impressora", "prioridade": "alta", "setor": "logistica"}
+{"id": "treino-0007", "texto": "Bom dia, abrindo chamado: o monitor ficou preto. sou do juridico. tem cliente importante esperando agora.", "categoria": "hardware", "prioridade": "critica", "setor": "juridico"}
+{"id": "treino-0008", "texto": "Pessoal, da para trabalhar mas e chato. aqui no comercial, o aplicativo de videoconferencia nao abre.", "categoria": "software", "prioridade": "media", "setor": "comercial"}
+{"id": "treino-0009", "texto": "Ola time de suporte, sem pressa. sou do RH, o calendario nao sincroniza.", "categoria": "email", "prioridade": "baixa", "setor": "rh"}
+{"id": "treino-0010", "texto": "Ola time de suporte, quando der. no setor comercial, o sistema de notas fiscais da erro ao salvar.", "categoria": "software", "prioridade": "baixa", "setor": "comercial"}
+{"id": "treino-0011", "texto": "Oi, os emails que envio voltam. da para trabalhar mas e chato. Falo sou do financeiro.", "categoria": "email", "prioridade": "media", "setor": "financeiro"}
+{"id": "treino-0012", "texto": "Bom dia, ninguem consegue trabalhar. sou do comercial, o monitor ficou preto.", "categoria": "hardware", "prioridade": "critica", "setor": "comercial"}
+{"id": "treino-0013", "texto": "Oi, no setor TI o aplicativo de videoconferencia nao abre, so estou avisando.", "categoria": "software", "prioridade": "baixa", "setor": "ti"}
+{"id": "treino-0014", "texto": "Pessoal, sou do comercial, o notebook nao liga. ninguem consegue trabalhar.", "categoria": "hardware", "prioridade": "critica", "setor": "comercial"}
+{"id": "treino-0015", "texto": "Oi, preciso resolver esta semana. aqui no juridico, a impressao sai com listras.", "categoria": "impressora", "prioridade": "media", "setor": "juridico"}
+{"id": "treino-0016", "texto": "Ola time de suporte, aqui no financeiro, a impressao sai com listras. quando der.", "categoria": "impressora", "prioridade": "baixa", "setor": "financeiro"}
+{"id": "treino-0017", "texto": "Pessoal, o notebook nao liga. quando der. Falo sou do juridico.", "categoria": "hardware", "prioridade": "baixa", "setor": "juridico"}
+{"id": "treino-0018", "texto": "Pessoal, a vpn nao fecha conexao. tenho uma entrega hoje. Falo no setor juridico.", "categoria": "rede", "prioridade": "alta", "setor": "juridico"}
+{"id": "treino-0019", "texto": "Bom dia, abrindo chamado: a impressao sai com listras. aqui no TI. tenho uma entrega hoje.", "categoria": "impressora", "prioridade": "alta", "setor": "ti"}
+{"id": "treino-0020", "texto": "Bom dia, sou do RH o monitor ficou preto, tem cliente importante esperando agora.", "categoria": "hardware", "prioridade": "critica", "setor": "rh"}
+{"id": "treino-0021", "texto": "Oi, abrindo chamado: minha senha expirou e nao consigo trocar. aqui no financeiro. atrapalha um pouco.", "categoria": "acesso", "prioridade": "media", "setor": "financeiro"}
+{"id": "treino-0022", "texto": "Ola time de suporte, a impressora esta sem comunicacao. tem cliente importante esperando agora. Falo aqui no juridico.", "categoria": "impressora", "prioridade": "critica", "setor": "juridico"}
+{"id": "treino-0023", "texto": "Bom dia, abrindo chamado: a impressao sai com listras. no setor logistica. preciso resolver ate hoje.", "categoria": "impressora", "prioridade": "alta", "setor": "logistica"}
+{"id": "treino-0024", "texto": "Bom dia, sou do comercial, a vpn nao fecha conexao. quando der.", "categoria": "rede", "prioridade": "baixa", "setor": "comercial"}
+{"id": "treino-0025", "texto": "Bom dia, no setor RH, o sistema de notas fiscais da erro ao salvar. isso atrapalha muito meu trabalho.", "categoria": "software", "prioridade": "alta", "setor": "rh"}
+{"id": "treino-0026", "texto": "Bom dia, atrapalha um pouco. sou do logistica, o sistema de notas fiscais da erro ao salvar.", "categoria": "software", "prioridade": "media", "setor": "logistica"}
+{"id": "treino-0027", "texto": "Oi, abrindo chamado: nao consigo entrar no sistema. sou do juridico. da para trabalhar mas e chato.", "categoria": "acesso", "prioridade": "media", "setor": "juridico"}
+{"id": "treino-0028", "texto": "Bom dia, abrindo chamado: o aplicativo de videoconferencia nao abre. sou do juridico. tenho uma entrega hoje.", "categoria": "software", "prioridade": "alta", "setor": "juridico"}
+{"id": "treino-0029", "texto": "Oi, sou do RH perdi o acesso a pasta compartilhada, preciso resolver esta semana.", "categoria": "acesso", "prioridade": "media", "setor": "rh"}
+{"id": "treino-0030", "texto": "Pessoal, quando der. no setor TI, o mouse esta falhando.", "categoria": "hardware", "prioridade": "baixa", "setor": "ti"}
+{"id": "treino-0031", "texto": "Oi, minha senha expirou e nao consigo trocar. nao e urgente. Falo aqui no financeiro.", "categoria": "acesso", "prioridade": "baixa", "setor": "financeiro"}
+{"id": "treino-0032", "texto": "Pessoal, aqui no comercial o teclado parou de responder, preciso resolver ate hoje.", "categoria": "hardware", "prioridade": "alta", "setor": "comercial"}
+{"id": "treino-0033", "texto": "Bom dia, tem cliente importante esperando agora. sou do RH, nao estou recebendo emails.", "categoria": "email", "prioridade": "critica", "setor": "rh"}
+{"id": "treino-0034", "texto": "Pessoal, perdi o acesso a pasta compartilhada. parou tudo aqui. Falo aqui no RH.", "categoria": "acesso", "prioridade": "critica", "setor": "rh"}
+{"id": "treino-0035", "texto": "Pessoal, sou do juridico, os emails que envio voltam. da para trabalhar mas e chato.", "categoria": "email", "prioridade": "media", "setor": "juridico"}
+{"id": "treino-0036", "texto": "Bom dia, aqui no TI os emails que envio voltam, sem pressa.", "categoria": "email", "prioridade": "baixa", "setor": "ti"}
+{"id": "treino-0037", "texto": "Bom dia, abrindo chamado: minha caixa de entrada esta cheia. aqui no financeiro. quando der.", "categoria": "email", "prioridade": "baixa", "setor": "financeiro"}
+{"id": "treino-0038", "texto": "Ola time de suporte, aqui no RH, minha caixa de entrada esta cheia. ninguem consegue trabalhar.", "categoria": "email", "prioridade": "critica", "setor": "rh"}
+{"id": "treino-0039", "texto": "Pessoal, abrindo chamado: a impressao sai com listras. no setor TI. so estou avisando.", "categoria": "impressora", "prioridade": "baixa", "setor": "ti"}
+{"id": "treino-0040", "texto": "Bom dia, aqui no RH o notebook nao liga, nao e urgente.", "categoria": "hardware", "prioridade": "baixa", "setor": "rh"}
+{"id": "treino-0041", "texto": "Pessoal, abrindo chamado: a impressora esta sem comunicacao. sou do TI. preciso resolver ate hoje.", "categoria": "impressora", "prioridade": "alta", "setor": "ti"}
+{"id": "treino-0042", "texto": "Oi, no setor financeiro o mouse esta falhando, o sistema de vendas esta fora do ar.", "categoria": "hardware", "prioridade": "critica", "setor": "financeiro"}
+{"id": "treino-0043", "texto": "Pessoal, o monitor ficou preto. atrapalha um pouco. Falo aqui no juridico.", "categoria": "hardware", "prioridade": "media", "setor": "juridico"}
+{"id": "treino-0044", "texto": "Bom dia, abrindo chamado: o login diz usuario bloqueado. no setor financeiro. preciso resolver ate hoje.", "categoria": "acesso", "prioridade": "alta", "setor": "financeiro"}
+{"id": "treino-0045", "texto": "Oi, sou do financeiro o antivirus pede atualizacao e trava, preciso resolver ate hoje.", "categoria": "software", "prioridade": "alta", "setor": "financeiro"}
+{"id": "treino-0046", "texto": "Bom dia, sem pressa. aqui no juridico, o monitor ficou preto.", "categoria": "hardware", "prioridade": "baixa", "setor": "juridico"}
+{"id": "treino-0047", "texto": "Bom dia, no setor financeiro a internet esta caindo toda hora, parou tudo aqui.", "categoria": "rede", "prioridade": "critica", "setor": "financeiro"}
+{"id": "treino-0048", "texto": "Ola time de suporte, sou do comercial o papel esta enroscando, sem pressa.", "categoria": "impressora", "prioridade": "baixa", "setor": "comercial"}
+{"id": "treino-0049", "texto": "Oi, preciso resolver ate hoje. aqui no financeiro, minha caixa de entrada esta cheia.", "categoria": "email", "prioridade": "alta", "setor": "financeiro"}
+{"id": "treino-0050", "texto": "Pessoal, preciso resolver ate hoje. aqui no financeiro, o monitor ficou preto.", "categoria": "hardware", "prioridade": "alta", "setor": "financeiro"}
+{"id": "treino-0051", "texto": "Oi, so estou avisando. aqui no comercial, os emails que envio voltam.", "categoria": "email", "prioridade": "baixa", "setor": "comercial"}
+{"id": "treino-0052", "texto": "Pessoal, o calendario nao sincroniza. atrapalha um pouco. Falo aqui no financeiro.", "categoria": "email", "prioridade": "media", "setor": "financeiro"}
+{"id": "treino-0053", "texto": "Ola time de suporte, abrindo chamado: o calendario nao sincroniza. aqui no juridico. tenho uma entrega hoje.", "categoria": "email", "prioridade": "alta", "setor": "juridico"}
+{"id": "treino-0054", "texto": "Ola time de suporte, no setor TI, a internet esta caindo toda hora. preciso resolver ate hoje.", "categoria": "rede", "prioridade": "alta", "setor": "ti"}
+{"id": "treino-0055", "texto": "Oi, a impressao sai com listras. tenho uma entrega hoje. Falo aqui no juridico.", "categoria": "impressora", "prioridade": "alta", "setor": "juridico"}
+{"id": "treino-0056", "texto": "Bom dia, parou tudo aqui. aqui no RH, o aplicativo de videoconferencia nao abre.", "categoria": "software", "prioridade": "critica", "setor": "rh"}
+{"id": "treino-0057", "texto": "Oi, abrindo chamado: a vpn nao fecha conexao. aqui no juridico. tenho uma entrega hoje.", "categoria": "rede", "prioridade": "alta", "setor": "juridico"}
+{"id": "treino-0058", "texto": "Pessoal, abrindo chamado: a impressao sai com listras. no setor RH. ninguem consegue trabalhar.", "categoria": "impressora", "prioridade": "critica", "setor": "rh"}
+{"id": "treino-0059", "texto": "Oi, no setor juridico minha senha expirou e nao consigo trocar, nao e urgente.", "categoria": "acesso", "prioridade": "baixa", "setor": "juridico"}
+{"id": "treino-0060", "texto": "Oi, no setor juridico o mouse esta falhando, isso atrapalha muito meu trabalho.", "categoria": "hardware", "prioridade": "alta", "setor": "juridico"}
+{"id": "treino-0061", "texto": "Ola time de suporte, nao e urgente. aqui no juridico, minha senha expirou e nao consigo trocar.", "categoria": "acesso", "prioridade": "baixa", "setor": "juridico"}
+{"id": "treino-0062", "texto": "Ola time de suporte, no setor juridico, o aplicativo de videoconferencia nao abre. da para trabalhar mas e chato.", "categoria": "software", "prioridade": "media", "setor": "juridico"}
+{"id": "treino-0063", "texto": "Oi, isso atrapalha muito meu trabalho. no setor TI, a impressora esta sem comunicacao.", "categoria": "impressora", "prioridade": "alta", "setor": "ti"}
+{"id": "treino-0064", "texto": "Pessoal, no setor logistica, nao consigo entrar no sistema. preciso resolver ate hoje.", "categoria": "acesso", "prioridade": "alta", "setor": "logistica"}
+{"id": "treino-0065", "texto": "Ola time de suporte, o calendario nao sincroniza. quando der. Falo sou do TI.", "categoria": "email", "prioridade": "baixa", "setor": "ti"}
+{"id": "treino-0066", "texto": "Ola time de suporte, tem cliente importante esperando agora. aqui no RH, o notebook nao liga.", "categoria": "hardware", "prioridade": "critica", "setor": "rh"}
+{"id": "treino-0067", "texto": "Pessoal, aqui no financeiro o calendario nao sincroniza, parou tudo aqui.", "categoria": "email", "prioridade": "critica", "setor": "financeiro"}
+{"id": "treino-0068", "texto": "Bom dia, no setor juridico, o wifi do andar nao conecta. o sistema de vendas esta fora do ar.", "categoria": "rede", "prioridade": "critica", "setor": "juridico"}
+{"id": "treino-0069", "texto": "Oi, a vpn nao fecha conexao. da para trabalhar mas e chato. Falo sou do comercial.", "categoria": "rede", "prioridade": "media", "setor": "comercial"}
+{"id": "treino-0070", "texto": "Pessoal, parou tudo aqui. sou do RH, o mouse esta falhando.", "categoria": "hardware", "prioridade": "critica", "setor": "rh"}
+{"id": "treino-0071", "texto": "Bom dia, aqui no RH a internet esta caindo toda hora, parou tudo aqui.", "categoria": "rede", "prioridade": "critica", "setor": "rh"}
+{"id": "treino-0072", "texto": "Bom dia, os emails que envio voltam. isso atrapalha muito meu trabalho. Falo no setor logistica.", "categoria": "email", "prioridade": "alta", "setor": "logistica"}
+{"id": "treino-0073", "texto": "Pessoal, aqui no juridico o notebook nao liga, tem cliente importante esperando agora.", "categoria": "hardware", "prioridade": "critica", "setor": "juridico"}
+{"id": "treino-0074", "texto": "Ola time de suporte, sou do comercial nao encontro a impressora do andar, parou tudo aqui.", "categoria": "impressora", "prioridade": "critica", "setor": "comercial"}
+{"id": "treino-0075", "texto": "Bom dia, o papel esta enroscando. tem cliente importante esperando agora. Falo sou do TI.", "categoria": "impressora", "prioridade": "critica", "setor": "ti"}
+{"id": "treino-0076", "texto": "Oi, sou do logistica minha caixa de entrada esta cheia, o sistema de vendas esta fora do ar.", "categoria": "email", "prioridade": "critica", "setor": "logistica"}
+{"id": "treino-0077", "texto": "Ola time de suporte, abrindo chamado: os emails que envio voltam. sou do logistica. sem pressa.", "categoria": "email", "prioridade": "baixa", "setor": "logistica"}
+{"id": "treino-0078", "texto": "Bom dia, sou do logistica o sistema de notas fiscais da erro ao salvar, da para trabalhar mas e chato.", "categoria": "software", "prioridade": "media", "setor": "logistica"}
+{"id": "treino-0079", "texto": "Bom dia, sou do RH, o antivirus pede atualizacao e trava. isso atrapalha muito meu trabalho.", "categoria": "software", "prioridade": "alta", "setor": "rh"}
+{"id": "treino-0080", "texto": "Pessoal, abrindo chamado: o sistema de notas fiscais da erro ao salvar. sou do RH. tenho uma entrega hoje.", "categoria": "software", "prioridade": "alta", "setor": "rh"}
+{"id": "treino-0081", "texto": "Bom dia, sem pressa. no setor comercial, o calendario nao sincroniza.", "categoria": "email", "prioridade": "baixa", "setor": "comercial"}
+{"id": "treino-0082", "texto": "Bom dia, abrindo chamado: o monitor ficou preto. aqui no logistica. sem pressa.", "categoria": "hardware", "prioridade": "baixa", "setor": "logistica"}
+{"id": "treino-0083", "texto": "Oi, no setor juridico o sistema de notas fiscais da erro ao salvar, preciso resolver ate hoje.", "categoria": "software", "prioridade": "alta", "setor": "juridico"}
+{"id": "treino-0084", "texto": "Pessoal, sou do financeiro, o notebook nao liga. preciso resolver ate hoje.", "categoria": "hardware", "prioridade": "alta", "setor": "financeiro"}
+{"id": "treino-0085", "texto": "Oi, preciso resolver ate hoje. sou do comercial, o mouse esta falhando.", "categoria": "hardware", "prioridade": "alta", "setor": "comercial"}
+{"id": "treino-0086", "texto": "Oi, sou do juridico o sistema de notas fiscais da erro ao salvar, isso atrapalha muito meu trabalho.", "categoria": "software", "prioridade": "alta", "setor": "juridico"}
+{"id": "treino-0087", "texto": "Oi, abrindo chamado: minha senha expirou e nao consigo trocar. sou do comercial. parou tudo aqui.", "categoria": "acesso", "prioridade": "critica", "setor": "comercial"}
+{"id": "treino-0088", "texto": "Oi, abrindo chamado: a impressao sai com listras. no setor juridico. atrapalha um pouco.", "categoria": "impressora", "prioridade": "media", "setor": "juridico"}
+{"id": "treino-0089", "texto": "Ola time de suporte, os emails que envio voltam. atrapalha um pouco. Falo sou do RH.", "categoria": "email", "prioridade": "media", "setor": "rh"}
+{"id": "treino-0090", "texto": "Pessoal, a internet esta caindo toda hora. quando der. Falo aqui no logistica.", "categoria": "rede", "prioridade": "baixa", "setor": "logistica"}
+{"id": "treino-0091", "texto": "Oi, aqui no TI, o programa de planilhas fecha sozinho. isso atrapalha muito meu trabalho.", "categoria": "software", "prioridade": "alta", "setor": "ti"}
+{"id": "treino-0092", "texto": "Ola time de suporte, no setor logistica, perdi o acesso a pasta compartilhada. atrapalha um pouco.", "categoria": "acesso", "prioridade": "media", "setor": "logistica"}
+{"id": "treino-0093", "texto": "Oi, tenho uma entrega hoje. aqui no financeiro, o papel esta enroscando.", "categoria": "impressora", "prioridade": "alta", "setor": "financeiro"}
+{"id": "treino-0094", "texto": "Oi, abrindo chamado: o wifi do andar nao conecta. aqui no TI. o sistema de vendas esta fora do ar.", "categoria": "rede", "prioridade": "critica", "setor": "ti"}
+{"id": "treino-0095", "texto": "Pessoal, abrindo chamado: o aplicativo de videoconferencia nao abre. sou do RH. parou tudo aqui.", "categoria": "software", "prioridade": "critica", "setor": "rh"}
+{"id": "treino-0096", "texto": "Bom dia, sou do financeiro, a vpn nao fecha conexao. so estou avisando.", "categoria": "rede", "prioridade": "baixa", "setor": "financeiro"}
+{"id": "treino-0097", "texto": "Oi, abrindo chamado: minha caixa de entrada esta cheia. no setor RH. preciso resolver ate hoje.", "categoria": "email", "prioridade": "alta", "setor": "rh"}
+{"id": "treino-0098", "texto": "Bom dia, o sistema de vendas esta fora do ar. no setor RH, perdi o acesso a pasta compartilhada.", "categoria": "acesso", "prioridade": "critica", "setor": "rh"}
+{"id": "treino-0099", "texto": "Bom dia, aqui no TI a internet esta caindo toda hora, quando der.", "categoria": "rede", "prioridade": "baixa", "setor": "ti"}
+{"id": "treino-0100", "texto": "Bom dia, abrindo chamado: nao consigo entrar no sistema. aqui no financeiro. tenho uma entrega hoje.", "categoria": "acesso", "prioridade": "alta", "setor": "financeiro"}
+{"id": "treino-0101", "texto": "Oi, no setor logistica nao encontro a impressora do andar, atrapalha um pouco.", "categoria": "impressora", "prioridade": "media", "setor": "logistica"}
+{"id": "treino-0102", "texto": "Oi, o monitor ficou preto. tenho uma entrega hoje. Falo aqui no comercial.", "categoria": "hardware", "prioridade": "alta", "setor": "comercial"}
+{"id": "treino-0103", "texto": "Ola time de suporte, so estou avisando. no setor comercial, o sistema de notas fiscais da erro ao salvar.", "categoria": "software", "prioridade": "baixa", "setor": "comercial"}
+{"id": "treino-0104", "texto": "Bom dia, sou do logistica o papel esta enroscando, sem pressa.", "categoria": "impressora", "prioridade": "baixa", "setor": "logistica"}
+{"id": "treino-0105", "texto": "Bom dia, abrindo chamado: a internet esta caindo toda hora. aqui no RH. so estou avisando.", "categoria": "rede", "prioridade": "baixa", "setor": "rh"}
+{"id": "treino-0106", "texto": "Bom dia, aqui no financeiro nao estou recebendo emails, tenho uma entrega hoje.", "categoria": "email", "prioridade": "alta", "setor": "financeiro"}
+{"id": "treino-0107", "texto": "Bom dia, abrindo chamado: a impressao sai com listras. no setor TI. preciso resolver esta semana.", "categoria": "impressora", "prioridade": "media", "setor": "ti"}
+{"id": "treino-0108", "texto": "Bom dia, sou do financeiro o notebook nao liga, isso atrapalha muito meu trabalho.", "categoria": "hardware", "prioridade": "alta", "setor": "financeiro"}
+{"id": "treino-0109", "texto": "Pessoal, o notebook nao liga. isso atrapalha muito meu trabalho. Falo sou do logistica.", "categoria": "hardware", "prioridade": "alta", "setor": "logistica"}
+{"id": "treino-0110", "texto": "Oi, o teclado parou de responder. so estou avisando. Falo sou do TI.", "categoria": "hardware", "prioridade": "baixa", "setor": "ti"}
+{"id": "treino-0111", "texto": "Ola time de suporte, nao estou recebendo emails. o sistema de vendas esta fora do ar. Falo no setor financeiro.", "categoria": "email", "prioridade": "critica", "setor": "financeiro"}
+{"id": "treino-0112", "texto": "Ola time de suporte, no setor RH a impressao sai com listras, preciso resolver esta semana.", "categoria": "impressora", "prioridade": "media", "setor": "rh"}
+{"id": "treino-0113", "texto": "Bom dia, isso atrapalha muito meu trabalho. aqui no RH, o antivirus pede atualizacao e trava.", "categoria": "software", "prioridade": "alta", "setor": "rh"}
+{"id": "treino-0114", "texto": "Pessoal, sou do TI os emails que envio voltam, tenho uma entrega hoje.", "categoria": "email", "prioridade": "alta", "setor": "ti"}
+{"id": "treino-0115", "texto": "Oi, sou do juridico, a impressao sai com listras. nao e urgente.", "categoria": "impressora", "prioridade": "baixa", "setor": "juridico"}
+{"id": "treino-0116", "texto": "Ola time de suporte, sou do TI os emails que envio voltam, so estou avisando.", "categoria": "email", "prioridade": "baixa", "setor": "ti"}
+{"id": "treino-0117", "texto": "Ola time de suporte, no setor RH, o login diz usuario bloqueado. quando der.", "categoria": "acesso", "prioridade": "baixa", "setor": "rh"}
+{"id": "treino-0118", "texto": "Ola time de suporte, sou do comercial nao encontro a impressora do andar, isso atrapalha muito meu trabalho.", "categoria": "impressora", "prioridade": "alta", "setor": "comercial"}
+{"id": "treino-0119", "texto": "Pessoal, o monitor ficou preto. da para trabalhar mas e chato. Falo no setor financeiro.", "categoria": "hardware", "prioridade": "media", "setor": "financeiro"}
+{"id": "treino-0120", "texto": "Bom dia, abrindo chamado: a vpn nao fecha conexao. aqui no RH. sem pressa.", "categoria": "rede", "prioridade": "baixa", "setor": "rh"}
+{"id": "treino-0121", "texto": "Bom dia, isso atrapalha muito meu trabalho. aqui no financeiro, o wifi do andar nao conecta.", "categoria": "rede", "prioridade": "alta", "setor": "financeiro"}
+{"id": "treino-0122", "texto": "Pessoal, ninguem consegue trabalhar. sou do financeiro, a vpn nao fecha conexao.", "categoria": "rede", "prioridade": "critica", "setor": "financeiro"}
+{"id": "treino-0123", "texto": "Ola time de suporte, abrindo chamado: a vpn nao fecha conexao. no setor RH. ninguem consegue trabalhar.", "categoria": "rede", "prioridade": "critica", "setor": "rh"}
+{"id": "treino-0124", "texto": "Oi, abrindo chamado: o aplicativo de videoconferencia nao abre. aqui no comercial. so estou avisando.", "categoria": "software", "prioridade": "baixa", "setor": "comercial"}
+{"id": "treino-0125", "texto": "Ola time de suporte, tem cliente importante esperando agora. aqui no juridico, o login diz usuario bloqueado.", "categoria": "acesso", "prioridade": "critica", "setor": "juridico"}
+{"id": "treino-0126", "texto": "Bom dia, sou do comercial, o login diz usuario bloqueado. da para trabalhar mas e chato.", "categoria": "acesso", "prioridade": "media", "setor": "comercial"}
+{"id": "treino-0127", "texto": "Ola time de suporte, abrindo chamado: a impressao sai com listras. no setor juridico. tenho uma entrega hoje.", "categoria": "impressora", "prioridade": "alta", "setor": "juridico"}
+{"id": "treino-0128", "texto": "Oi, abrindo chamado: o monitor ficou preto. no setor juridico. atrapalha um pouco.", "categoria": "hardware", "prioridade": "media", "setor": "juridico"}
+{"id": "treino-0129", "texto": "Bom dia, so estou avisando. sou do TI, nao encontro a impressora do andar.", "categoria": "impressora", "prioridade": "baixa", "setor": "ti"}
+{"id": "treino-0130", "texto": "Bom dia, sou do financeiro, o teclado parou de responder. so estou avisando.", "categoria": "hardware", "prioridade": "baixa", "setor": "financeiro"}
+{"id": "treino-0131", "texto": "Pessoal, abrindo chamado: o mouse esta falhando. sou do logistica. preciso resolver ate hoje.", "categoria": "hardware", "prioridade": "alta", "setor": "logistica"}
+{"id": "treino-0132", "texto": "Oi, abrindo chamado: o sistema de notas fiscais da erro ao salvar. aqui no RH. tenho uma entrega hoje.", "categoria": "software", "prioridade": "alta", "setor": "rh"}
+{"id": "treino-0133", "texto": "Ola time de suporte, sou do juridico o teclado parou de responder, da para trabalhar mas e chato.", "categoria": "hardware", "prioridade": "media", "setor": "juridico"}
+{"id": "treino-0134", "texto": "Ola time de suporte, aqui no TI o aplicativo de videoconferencia nao abre, tenho uma entrega hoje.", "categoria": "software", "prioridade": "alta", "setor": "ti"}
+{"id": "treino-0135", "texto": "Oi, aqui no financeiro, o papel esta enroscando. ninguem consegue trabalhar.", "categoria": "impressora", "prioridade": "critica", "setor": "financeiro"}
+{"id": "treino-0136", "texto": "Oi, sou do financeiro a impressora esta sem comunicacao, so estou avisando.", "categoria": "impressora", "prioridade": "baixa", "setor": "financeiro"}
+{"id": "treino-0137", "texto": "Ola time de suporte, no setor financeiro, a impressora esta sem comunicacao. da para trabalhar mas e chato.", "categoria": "impressora", "prioridade": "media", "setor": "financeiro"}
+{"id": "treino-0138", "texto": "Bom dia, no setor comercial, a rede esta muito lenta. parou tudo aqui.", "categoria": "rede", "prioridade": "critica", "setor": "comercial"}
+{"id": "treino-0139", "texto": "Bom dia, abrindo chamado: o notebook nao liga. aqui no RH. tenho uma entrega hoje.", "categoria": "hardware", "prioridade": "alta", "setor": "rh"}
+{"id": "treino-0140", "texto": "Ola time de suporte, tem cliente importante esperando agora. sou do comercial, nao consigo entrar no sistema.", "categoria": "acesso", "prioridade": "critica", "setor": "comercial"}
+{"id": "treino-0141", "texto": "Oi, atrapalha um pouco. aqui no TI, o login diz usuario bloqueado.", "categoria": "acesso", "prioridade": "media", "setor": "ti"}
+{"id": "treino-0142", "texto": "Oi, tenho uma entrega hoje. no setor TI, a impressao sai com listras.", "categoria": "impressora", "prioridade": "alta", "setor": "ti"}
+{"id": "treino-0143", "texto": "Pessoal, aqui no logistica perdi o acesso a pasta compartilhada, nao e urgente.", "categoria": "acesso", "prioridade": "baixa", "setor": "logistica"}
+{"id": "treino-0144", "texto": "Pessoal, no setor juridico minha senha expirou e nao consigo trocar, atrapalha um pouco.", "categoria": "acesso", "prioridade": "media", "setor": "juridico"}
+{"id": "treino-0145", "texto": "Ola time de suporte, a internet esta caindo toda hora. da para trabalhar mas e chato. Falo no setor comercial.", "categoria": "rede", "prioridade": "media", "setor": "comercial"}
+{"id": "treino-0146", "texto": "Pessoal, sou do TI os emails que envio voltam, atrapalha um pouco.", "categoria": "email", "prioridade": "media", "setor": "ti"}
+{"id": "treino-0147", "texto": "Ola time de suporte, aqui no TI o antivirus pede atualizacao e trava, preciso resolver esta semana.", "categoria": "software", "prioridade": "media", "setor": "ti"}
+{"id": "treino-0148", "texto": "Ola time de suporte, preciso resolver esta semana. no setor logistica, minha caixa de entrada esta cheia.", "categoria": "email", "prioridade": "media", "setor": "logistica"}
+{"id": "treino-0149", "texto": "Oi, o calendario nao sincroniza. tenho uma entrega hoje. Falo sou do juridico.", "categoria": "email", "prioridade": "alta", "setor": "juridico"}
+{"id": "treino-0150", "texto": "Pessoal, o notebook nao liga. sem pressa. Falo aqui no RH.", "categoria": "hardware", "prioridade": "baixa", "setor": "rh"}
+{"id": "treino-0151", "texto": "Oi, no setor logistica, minha caixa de entrada esta cheia. da para trabalhar mas e chato.", "categoria": "email", "prioridade": "media", "setor": "logistica"}
+{"id": "treino-0152", "texto": "Bom dia, aqui no TI os emails que envio voltam, isso atrapalha muito meu trabalho.", "categoria": "email", "prioridade": "alta", "setor": "ti"}
+{"id": "treino-0153", "texto": "Pessoal, a vpn nao fecha conexao. nao e urgente. Falo no setor logistica.", "categoria": "rede", "prioridade": "baixa", "setor": "logistica"}
+{"id": "treino-0154", "texto": "Pessoal, sou do financeiro, minha caixa de entrada esta cheia. parou tudo aqui.", "categoria": "email", "prioridade": "critica", "setor": "financeiro"}
+{"id": "treino-0155", "texto": "Bom dia, preciso resolver esta semana. sou do logistica, o notebook nao liga.", "categoria": "hardware", "prioridade": "media", "setor": "logistica"}
+{"id": "treino-0156", "texto": "Oi, sou do comercial a impressora esta sem comunicacao, nao e urgente.", "categoria": "impressora", "prioridade": "baixa", "setor": "comercial"}
+{"id": "treino-0157", "texto": "Pessoal, abrindo chamado: minha senha expirou e nao consigo trocar. no setor RH. sem pressa.", "categoria": "acesso", "prioridade": "baixa", "setor": "rh"}
+{"id": "treino-0158", "texto": "Pessoal, aqui no comercial, a impressao sai com listras. isso atrapalha muito meu trabalho.", "categoria": "impressora", "prioridade": "alta", "setor": "comercial"}
+{"id": "treino-0159", "texto": "Ola time de suporte, aqui no juridico nao encontro a impressora do andar, da para trabalhar mas e chato.", "categoria": "impressora", "prioridade": "media", "setor": "juridico"}
+{"id": "treino-0160", "texto": "Pessoal, o sistema de notas fiscais da erro ao salvar. parou tudo aqui. Falo no setor comercial.", "categoria": "software", "prioridade": "critica", "setor": "comercial"}
+{"id": "treino-0161", "texto": "Oi, os emails que envio voltam. sem pressa. Falo sou do RH.", "categoria": "email", "prioridade": "baixa", "setor": "rh"}
+{"id": "treino-0162", "texto": "Ola time de suporte, aqui no juridico o mouse esta falhando, isso atrapalha muito meu trabalho.", "categoria": "hardware", "prioridade": "alta", "setor": "juridico"}
+{"id": "treino-0163", "texto": "Pessoal, isso atrapalha muito meu trabalho. no setor financeiro, nao consigo entrar no sistema.", "categoria": "acesso", "prioridade": "alta", "setor": "financeiro"}
+{"id": "treino-0164", "texto": "Oi, o monitor ficou preto. ninguem consegue trabalhar. Falo aqui no logistica.", "categoria": "hardware", "prioridade": "critica", "setor": "logistica"}
+{"id": "treino-0165", "texto": "Oi, aqui no comercial o aplicativo de videoconferencia nao abre, tenho uma entrega hoje.", "categoria": "software", "prioridade": "alta", "setor": "comercial"}
+{"id": "treino-0166", "texto": "Pessoal, o programa de planilhas fecha sozinho. sem pressa. Falo sou do juridico.", "categoria": "software", "prioridade": "baixa", "setor": "juridico"}
+{"id": "treino-0167", "texto": "Bom dia, atrapalha um pouco. sou do TI, a impressora esta sem comunicacao.", "categoria": "impressora", "prioridade": "media", "setor": "ti"}
+{"id": "treino-0168", "texto": "Ola time de suporte, sou do comercial o calendario nao sincroniza, parou tudo aqui.", "categoria": "email", "prioridade": "critica", "setor": "comercial"}
+{"id": "treino-0169", "texto": "Bom dia, aqui no financeiro, minha senha expirou e nao consigo trocar. o sistema de vendas esta fora do ar.", "categoria": "acesso", "prioridade": "critica", "setor": "financeiro"}
+{"id": "treino-0170", "texto": "Ola time de suporte, no setor juridico minha caixa de entrada esta cheia, isso atrapalha muito meu trabalho.", "categoria": "email", "prioridade": "alta", "setor": "juridico"}
+{"id": "treino-0171", "texto": "Oi, aqui no juridico a internet esta caindo toda hora, nao e urgente.", "categoria": "rede", "prioridade": "baixa", "setor": "juridico"}
+{"id": "treino-0172", "texto": "Ola time de suporte, sou do comercial, o aplicativo de videoconferencia nao abre. tenho uma entrega hoje.", "categoria": "software", "prioridade": "alta", "setor": "comercial"}
+{"id": "treino-0173", "texto": "Oi, o teclado parou de responder. isso atrapalha muito meu trabalho. Falo aqui no TI.", "categoria": "hardware", "prioridade": "alta", "setor": "ti"}
+{"id": "treino-0174", "texto": "Pessoal, abrindo chamado: nao consigo entrar no sistema. no setor juridico. da para trabalhar mas e chato.", "categoria": "acesso", "prioridade": "media", "setor": "juridico"}
+{"id": "treino-0175", "texto": "Oi, abrindo chamado: minha senha expirou e nao consigo trocar. sou do RH. parou tudo aqui.", "categoria": "acesso", "prioridade": "critica", "setor": "rh"}
+{"id": "treino-0176", "texto": "Ola time de suporte, a rede esta muito lenta. tenho uma entrega hoje. Falo no setor comercial.", "categoria": "rede", "prioridade": "alta", "setor": "comercial"}
+{"id": "treino-0177", "texto": "Ola time de suporte, abrindo chamado: o programa de planilhas fecha sozinho. no setor TI. da para trabalhar mas e chato.", "categoria": "software", "prioridade": "media", "setor": "ti"}
+{"id": "treino-0178", "texto": "Bom dia, o aplicativo de videoconferencia nao abre. preciso resolver ate hoje. Falo sou do RH.", "categoria": "software", "prioridade": "alta", "setor": "rh"}
+{"id": "treino-0179", "texto": "Ola time de suporte, abrindo chamado: o login diz usuario bloqueado. no setor RH. quando der.", "categoria": "acesso", "prioridade": "baixa", "setor": "rh"}
+{"id": "treino-0180", "texto": "Ola time de suporte, sou do comercial, o wifi do andar nao conecta. so estou avisando.", "categoria": "rede", "prioridade": "baixa", "setor": "comercial"}
+{"id": "treino-0181", "texto": "Oi, minha senha expirou e nao consigo trocar. preciso resolver esta semana. Falo sou do TI.", "categoria": "acesso", "prioridade": "media", "setor": "ti"}
+{"id": "treino-0182", "texto": "Bom dia, abrindo chamado: minha caixa de entrada esta cheia. no setor RH. atrapalha um pouco.", "categoria": "email", "prioridade": "media", "setor": "rh"}
+{"id": "treino-0183", "texto": "Bom dia, a rede esta muito lenta. so estou avisando. Falo aqui no juridico.", "categoria": "rede", "prioridade": "baixa", "setor": "juridico"}
+{"id": "treino-0184", "texto": "Bom dia, no setor TI, perdi o acesso a pasta compartilhada. sem pressa.", "categoria": "acesso", "prioridade": "baixa", "setor": "ti"}
+{"id": "treino-0185", "texto": "Pessoal, sou do financeiro, os emails que envio voltam. da para trabalhar mas e chato.", "categoria": "email", "prioridade": "media", "setor": "financeiro"}
+{"id": "treino-0186", "texto": "Pessoal, o aplicativo de videoconferencia nao abre. da para trabalhar mas e chato. Falo no setor juridico.", "categoria": "software", "prioridade": "media", "setor": "juridico"}
+{"id": "treino-0187", "texto": "Ola time de suporte, abrindo chamado: o aplicativo de videoconferencia nao abre. aqui no logistica. atrapalha um pouco.", "categoria": "software", "prioridade": "media", "setor": "logistica"}
+{"id": "treino-0188", "texto": "Pessoal, da para trabalhar mas e chato. aqui no comercial, o notebook nao liga.", "categoria": "hardware", "prioridade": "media", "setor": "comercial"}
+{"id": "treino-0189", "texto": "Pessoal, sou do RH o teclado parou de responder, tenho uma entrega hoje.", "categoria": "hardware", "prioridade": "alta", "setor": "rh"}
+{"id": "treino-0190", "texto": "Oi, o monitor ficou preto. ninguem consegue trabalhar. Falo sou do financeiro.", "categoria": "hardware", "prioridade": "critica", "setor": "financeiro"}
+{"id": "treino-0191", "texto": "Oi, abrindo chamado: minha senha expirou e nao consigo trocar. no setor juridico. da para trabalhar mas e chato.", "categoria": "acesso", "prioridade": "media", "setor": "juridico"}
+{"id": "treino-0192", "texto": "Bom dia, o programa de planilhas fecha sozinho. ninguem consegue trabalhar. Falo no setor logistica.", "categoria": "software", "prioridade": "critica", "setor": "logistica"}
+{"id": "treino-0193", "texto": "Ola time de suporte, abrindo chamado: o papel esta enroscando. sou do financeiro. quando der.", "categoria": "impressora", "prioridade": "baixa", "setor": "financeiro"}
+{"id": "treino-0194", "texto": "Oi, abrindo chamado: o papel esta enroscando. sou do RH. so estou avisando.", "categoria": "impressora", "prioridade": "baixa", "setor": "rh"}
+{"id": "treino-0195", "texto": "Oi, sou do RH o mouse esta falhando, da para trabalhar mas e chato.", "categoria": "hardware", "prioridade": "media", "setor": "rh"}
+{"id": "treino-0196", "texto": "Oi, no setor juridico o mouse esta falhando, sem pressa.", "categoria": "hardware", "prioridade": "baixa", "setor": "juridico"}
+{"id": "treino-0197", "texto": "Ola time de suporte, sou do juridico o notebook nao liga, sem pressa.", "categoria": "hardware", "prioridade": "baixa", "setor": "juridico"}
+{"id": "treino-0198", "texto": "Bom dia, sou do RH, o monitor ficou preto. da para trabalhar mas e chato.", "categoria": "hardware", "prioridade": "media", "setor": "rh"}
+{"id": "treino-0199", "texto": "Ola time de suporte, o wifi do andar nao conecta. o sistema de vendas esta fora do ar. Falo no setor financeiro.", "categoria": "rede", "prioridade": "critica", "setor": "financeiro"}
+{"id": "treino-0200", "texto": "Oi, no setor logistica, nao encontro a impressora do andar. so estou avisando.", "categoria": "impressora", "prioridade": "baixa", "setor": "logistica"}
+{"id": "treino-0201", "texto": "Oi, no setor comercial, minha caixa de entrada esta cheia. atrapalha um pouco.", "categoria": "email", "prioridade": "media", "setor": "comercial"}
+{"id": "treino-0202", "texto": "Ola time de suporte, aqui no TI o monitor ficou preto, ninguem consegue trabalhar.", "categoria": "hardware", "prioridade": "critica", "setor": "ti"}
+{"id": "treino-0203", "texto": "Ola time de suporte, aqui no TI, o calendario nao sincroniza. nao e urgente.", "categoria": "email", "prioridade": "baixa", "setor": "ti"}
+{"id": "treino-0204", "texto": "Ola time de suporte, sou do financeiro, o wifi do andar nao conecta. quando der.", "categoria": "rede", "prioridade": "baixa", "setor": "financeiro"}
+{"id": "treino-0205", "texto": "Pessoal, abrindo chamado: minha caixa de entrada esta cheia. aqui no juridico. atrapalha um pouco.", "categoria": "email", "prioridade": "media", "setor": "juridico"}
+{"id": "treino-0206", "texto": "Ola time de suporte, aqui no comercial, o papel esta enroscando. quando der.", "categoria": "impressora", "prioridade": "baixa", "setor": "comercial"}
+{"id": "treino-0207", "texto": "Bom dia, parou tudo aqui. no setor financeiro, o mouse esta falhando.", "categoria": "hardware", "prioridade": "critica", "setor": "financeiro"}
+{"id": "treino-0208", "texto": "Pessoal, sou do TI o programa de planilhas fecha sozinho, isso atrapalha muito meu trabalho.", "categoria": "software", "prioridade": "alta", "setor": "ti"}
+{"id": "treino-0209", "texto": "Pessoal, aqui no TI o antivirus pede atualizacao e trava, sem pressa.", "categoria": "software", "prioridade": "baixa", "setor": "ti"}
+{"id": "treino-0210", "texto": "Bom dia, abrindo chamado: nao estou recebendo emails. no setor TI. preciso resolver ate hoje.", "categoria": "email", "prioridade": "alta", "setor": "ti"}
+{"id": "treino-0211", "texto": "Pessoal, sou do financeiro nao estou recebendo emails, nao e urgente.", "categoria": "email", "prioridade": "baixa", "setor": "financeiro"}
+{"id": "treino-0212", "texto": "Ola time de suporte, sou do TI, nao estou recebendo emails. quando der.", "categoria": "email", "prioridade": "baixa", "setor": "ti"}
+{"id": "treino-0213", "texto": "Oi, o notebook nao liga. tenho uma entrega hoje. Falo no setor RH.", "categoria": "hardware", "prioridade": "alta", "setor": "rh"}
+{"id": "treino-0214", "texto": "Pessoal, no setor comercial o teclado parou de responder, parou tudo aqui.", "categoria": "hardware", "prioridade": "critica", "setor": "comercial"}
+{"id": "treino-0215", "texto": "Pessoal, a impressao sai com listras. sem pressa. Falo sou do logistica.", "categoria": "impressora", "prioridade": "baixa", "setor": "logistica"}
+{"id": "treino-0216", "texto": "Bom dia, abrindo chamado: o login diz usuario bloqueado. aqui no comercial. da para trabalhar mas e chato.", "categoria": "acesso", "prioridade": "media", "setor": "comercial"}
+{"id": "treino-0217", "texto": "Bom dia, nao encontro a impressora do andar. preciso resolver ate hoje. Falo sou do RH.", "categoria": "impressora", "prioridade": "alta", "setor": "rh"}
+{"id": "treino-0218", "texto": "Bom dia, tenho uma entrega hoje. no setor RH, a impressao sai com listras.", "categoria": "impressora", "prioridade": "alta", "setor": "rh"}
+{"id": "treino-0219", "texto": "Pessoal, abrindo chamado: o notebook nao liga. no setor financeiro. preciso resolver esta semana.", "categoria": "hardware", "prioridade": "media", "setor": "financeiro"}
+{"id": "treino-0220", "texto": "Bom dia, o mouse esta falhando. ninguem consegue trabalhar. Falo no setor logistica.", "categoria": "hardware", "prioridade": "critica", "setor": "logistica"}
+{"id": "treino-0221", "texto": "Oi, da para trabalhar mas e chato. no setor financeiro, a internet esta caindo toda hora.", "categoria": "rede", "prioridade": "media", "setor": "financeiro"}
+{"id": "treino-0222", "texto": "Pessoal, sou do RH, o teclado parou de responder. o sistema de vendas esta fora do ar.", "categoria": "hardware", "prioridade": "critica", "setor": "rh"}
+{"id": "treino-0223", "texto": "Bom dia, abrindo chamado: a vpn nao fecha conexao. aqui no financeiro. sem pressa.", "categoria": "rede", "prioridade": "baixa", "setor": "financeiro"}
+{"id": "treino-0224", "texto": "Oi, preciso resolver esta semana. aqui no financeiro, minha senha expirou e nao consigo trocar.", "categoria": "acesso", "prioridade": "media", "setor": "financeiro"}
+{"id": "treino-0225", "texto": "Pessoal, abrindo chamado: o aplicativo de videoconferencia nao abre. sou do RH. isso atrapalha muito meu trabalho.", "categoria": "software", "prioridade": "alta", "setor": "rh"}
+{"id": "treino-0226", "texto": "Oi, o login diz usuario bloqueado. da para trabalhar mas e chato. Falo no setor juridico.", "categoria": "acesso", "prioridade": "media", "setor": "juridico"}
+{"id": "treino-0227", "texto": "Ola time de suporte, aqui no comercial, o programa de planilhas fecha sozinho. tem cliente importante esperando agora.", "categoria": "software", "prioridade": "critica", "setor": "comercial"}
+{"id": "treino-0228", "texto": "Ola time de suporte, aqui no comercial, nao encontro a impressora do andar. isso atrapalha muito meu trabalho.", "categoria": "impressora", "prioridade": "alta", "setor": "comercial"}
+{"id": "treino-0229", "texto": "Ola time de suporte, ninguem consegue trabalhar. no setor juridico, o calendario nao sincroniza.", "categoria": "email", "prioridade": "critica", "setor": "juridico"}
+{"id": "treino-0230", "texto": "Pessoal, abrindo chamado: o teclado parou de responder. sou do juridico. preciso resolver ate hoje.", "categoria": "hardware", "prioridade": "alta", "setor": "juridico"}
+{"id": "treino-0231", "texto": "Pessoal, abrindo chamado: o calendario nao sincroniza. aqui no TI. quando der.", "categoria": "email", "prioridade": "baixa", "setor": "ti"}
+{"id": "treino-0232", "texto": "Ola time de suporte, a impressora esta sem comunicacao. parou tudo aqui. Falo sou do comercial.", "categoria": "impressora", "prioridade": "critica", "setor": "comercial"}
+{"id": "treino-0233", "texto": "Bom dia, sem pressa. sou do comercial, o mouse esta falhando.", "categoria": "hardware", "prioridade": "baixa", "setor": "comercial"}
+{"id": "treino-0234", "texto": "Bom dia, tenho uma entrega hoje. aqui no comercial, o notebook nao liga.", "categoria": "hardware", "prioridade": "alta", "setor": "comercial"}
+{"id": "treino-0235", "texto": "Ola time de suporte, no setor RH o login diz usuario bloqueado, quando der.", "categoria": "acesso", "prioridade": "baixa", "setor": "rh"}
+{"id": "treino-0236", "texto": "Pessoal, atrapalha um pouco. sou do juridico, o login diz usuario bloqueado.", "categoria": "acesso", "prioridade": "media", "setor": "juridico"}
+{"id": "treino-0237", "texto": "Ola time de suporte, o programa de planilhas fecha sozinho. ninguem consegue trabalhar. Falo aqui no financeiro.", "categoria": "software", "prioridade": "critica", "setor": "financeiro"}
+{"id": "treino-0238", "texto": "Ola time de suporte, abrindo chamado: o papel esta enroscando. aqui no RH. da para trabalhar mas e chato.", "categoria": "impressora", "prioridade": "media", "setor": "rh"}
+{"id": "treino-0239", "texto": "Ola time de suporte, sou do financeiro o monitor ficou preto, isso atrapalha muito meu trabalho.", "categoria": "hardware", "prioridade": "alta", "setor": "financeiro"}
+{"id": "treino-0240", "texto": "Pessoal, abrindo chamado: a rede esta muito lenta. no setor comercial. nao e urgente.", "categoria": "rede", "prioridade": "baixa", "setor": "comercial"}
+{"id": "treino-0241", "texto": "Pessoal, sou do juridico nao estou recebendo emails, nao e urgente.", "categoria": "email", "prioridade": "baixa", "setor": "juridico"}
+{"id": "treino-0242", "texto": "Oi, tem cliente importante esperando agora. no setor financeiro, o login diz usuario bloqueado.", "categoria": "acesso", "prioridade": "critica", "setor": "financeiro"}
+{"id": "treino-0243", "texto": "Oi, aqui no financeiro, o teclado parou de responder. preciso resolver esta semana.", "categoria": "hardware", "prioridade": "media", "setor": "financeiro"}
+{"id": "treino-0244", "texto": "Ola time de suporte, no setor financeiro, nao consigo entrar no sistema. preciso resolver esta semana.", "categoria": "acesso", "prioridade": "media", "setor": "financeiro"}
+{"id": "treino-0245", "texto": "Pessoal, sem pressa. sou do financeiro, nao consigo entrar no sistema.", "categoria": "acesso", "prioridade": "baixa", "setor": "financeiro"}
+{"id": "treino-0246", "texto": "Pessoal, os emails que envio voltam. preciso resolver esta semana. Falo sou do TI.", "categoria": "email", "prioridade": "media", "setor": "ti"}
+{"id": "treino-0247", "texto": "Oi, no setor TI, a rede esta muito lenta. preciso resolver esta semana.", "categoria": "rede", "prioridade": "media", "setor": "ti"}
+{"id": "treino-0248", "texto": "Bom dia, no setor TI, o monitor ficou preto. isso atrapalha muito meu trabalho.", "categoria": "hardware", "prioridade": "alta", "setor": "ti"}
+{"id": "treino-0249", "texto": "Oi, a impressao sai com listras. sem pressa. Falo aqui no RH.", "categoria": "impressora", "prioridade": "baixa", "setor": "rh"}
+{"id": "treino-0250", "texto": "Bom dia, minha senha expirou e nao consigo trocar. preciso resolver ate hoje. Falo sou do logistica.", "categoria": "acesso", "prioridade": "alta", "setor": "logistica"}
+{"id": "treino-0251", "texto": "Bom dia, sou do comercial, minha senha expirou e nao consigo trocar. preciso resolver ate hoje.", "categoria": "acesso", "prioridade": "alta", "setor": "comercial"}
+{"id": "treino-0252", "texto": "Oi, aqui no financeiro, a impressora esta sem comunicacao. preciso resolver esta semana.", "categoria": "impressora", "prioridade": "media", "setor": "financeiro"}
+{"id": "treino-0253", "texto": "Ola time de suporte, aqui no comercial a impressora esta sem comunicacao, da para trabalhar mas e chato.", "categoria": "impressora", "prioridade": "media", "setor": "comercial"}
+{"id": "treino-0254", "texto": "Pessoal, sou do comercial o mouse esta falhando, da para trabalhar mas e chato.", "categoria": "hardware", "prioridade": "media", "setor": "comercial"}
+{"id": "treino-0255", "texto": "Ola time de suporte, o sistema de notas fiscais da erro ao salvar. sem pressa. Falo sou do TI.", "categoria": "software", "prioridade": "baixa", "setor": "ti"}
+{"id": "treino-0256", "texto": "Pessoal, sou do TI a vpn nao fecha conexao, so estou avisando.", "categoria": "rede", "prioridade": "baixa", "setor": "ti"}
+{"id": "treino-0257", "texto": "Ola time de suporte, sou do comercial o programa de planilhas fecha sozinho, tenho uma entrega hoje.", "categoria": "software", "prioridade": "alta", "setor": "comercial"}
+{"id": "treino-0258", "texto": "Oi, no setor RH o wifi do andar nao conecta, preciso resolver ate hoje.", "categoria": "rede", "prioridade": "alta", "setor": "rh"}
+{"id": "treino-0259", "texto": "Bom dia, o antivirus pede atualizacao e trava. preciso resolver esta semana. Falo no setor RH.", "categoria": "software", "prioridade": "media", "setor": "rh"}
+{"id": "treino-0260", "texto": "Ola time de suporte, sou do RH o notebook nao liga, tenho uma entrega hoje.", "categoria": "hardware", "prioridade": "alta", "setor": "rh"}
+{"id": "treino-0261", "texto": "Oi, no setor TI, a vpn nao fecha conexao. preciso resolver ate hoje.", "categoria": "rede", "prioridade": "alta", "setor": "ti"}
+{"id": "treino-0262", "texto": "Bom dia, da para trabalhar mas e chato. aqui no TI, o papel esta enroscando.", "categoria": "impressora", "prioridade": "media", "setor": "ti"}
+{"id": "treino-0263", "texto": "Pessoal, sou do juridico o notebook nao liga, preciso resolver ate hoje.", "categoria": "hardware", "prioridade": "alta", "setor": "juridico"}
+{"id": "treino-0264", "texto": "Oi, nao e urgente. aqui no comercial, o sistema de notas fiscais da erro ao salvar.", "categoria": "software", "prioridade": "baixa", "setor": "comercial"}
+{"id": "treino-0265", "texto": "Bom dia, aqui no RH o teclado parou de responder, parou tudo aqui.", "categoria": "hardware", "prioridade": "critica", "setor": "rh"}
+{"id": "treino-0266", "texto": "Pessoal, a vpn nao fecha conexao. quando der. Falo no setor RH.", "categoria": "rede", "prioridade": "baixa", "setor": "rh"}
+{"id": "treino-0267", "texto": "Ola time de suporte, sou do financeiro a rede esta muito lenta, preciso resolver esta semana.", "categoria": "rede", "prioridade": "media", "setor": "financeiro"}
+{"id": "treino-0268", "texto": "Bom dia, abrindo chamado: minha caixa de entrada esta cheia. sou do RH. preciso resolver ate hoje.", "categoria": "email", "prioridade": "alta", "setor": "rh"}
+{"id": "treino-0269", "texto": "Oi, sou do RH, a vpn nao fecha conexao. preciso resolver esta semana.", "categoria": "rede", "prioridade": "media", "setor": "rh"}
+{"id": "treino-0270", "texto": "Oi, preciso resolver ate hoje. no setor financeiro, minha senha expirou e nao consigo trocar.", "categoria": "acesso", "prioridade": "alta", "setor": "financeiro"}
+{"id": "treino-0271", "texto": "Oi, no setor juridico o programa de planilhas fecha sozinho, preciso resolver esta semana.", "categoria": "software", "prioridade": "media", "setor": "juridico"}
+{"id": "treino-0272", "texto": "Bom dia, sou do juridico, o mouse esta falhando. o sistema de vendas esta fora do ar.", "categoria": "hardware", "prioridade": "critica", "setor": "juridico"}
+{"id": "treino-0273", "texto": "Pessoal, o sistema de vendas esta fora do ar. no setor financeiro, a vpn nao fecha conexao.", "categoria": "rede", "prioridade": "critica", "setor": "financeiro"}
+{"id": "treino-0274", "texto": "Ola time de suporte, aqui no TI os emails que envio voltam, sem pressa.", "categoria": "email", "prioridade": "baixa", "setor": "ti"}
+{"id": "treino-0275", "texto": "Pessoal, a impressao sai com listras. tenho uma entrega hoje. Falo aqui no financeiro.", "categoria": "impressora", "prioridade": "alta", "setor": "financeiro"}
+{"id": "treino-0276", "texto": "Bom dia, abrindo chamado: o monitor ficou preto. sou do TI. isso atrapalha muito meu trabalho.", "categoria": "hardware", "prioridade": "alta", "setor": "ti"}
+{"id": "treino-0277", "texto": "Ola time de suporte, abrindo chamado: o monitor ficou preto. no setor financeiro. nao e urgente.", "categoria": "hardware", "prioridade": "baixa", "setor": "financeiro"}
+{"id": "treino-0278", "texto": "Pessoal, no setor juridico o monitor ficou preto, o sistema de vendas esta fora do ar.", "categoria": "hardware", "prioridade": "critica", "setor": "juridico"}
+{"id": "treino-0279", "texto": "Pessoal, abrindo chamado: o wifi do andar nao conecta. no setor financeiro. tenho uma entrega hoje.", "categoria": "rede", "prioridade": "alta", "setor": "financeiro"}
+{"id": "treino-0280", "texto": "Bom dia, o sistema de notas fiscais da erro ao salvar. preciso resolver esta semana. Falo no setor TI.", "categoria": "software", "prioridade": "media", "setor": "ti"}
+{"id": "treino-0281", "texto": "Ola time de suporte, nao e urgente. no setor financeiro, nao encontro a impressora do andar.", "categoria": "impressora", "prioridade": "baixa", "setor": "financeiro"}
+{"id": "treino-0282", "texto": "Ola time de suporte, abrindo chamado: o calendario nao sincroniza. aqui no juridico. da para trabalhar mas e chato.", "categoria": "email", "prioridade": "media", "setor": "juridico"}
+{"id": "treino-0283", "texto": "Pessoal, o sistema de vendas esta fora do ar. aqui no RH, a impressao sai com listras.", "categoria": "impressora", "prioridade": "critica", "setor": "rh"}
+{"id": "treino-0284", "texto": "Pessoal, atrapalha um pouco. aqui no logistica, o aplicativo de videoconferencia nao abre.", "categoria": "software", "prioridade": "media", "setor": "logistica"}
+{"id": "treino-0285", "texto": "Bom dia, abrindo chamado: a vpn nao fecha conexao. sou do RH. preciso resolver esta semana.", "categoria": "rede", "prioridade": "media", "setor": "rh"}
+{"id": "treino-0286", "texto": "Oi, no setor TI, nao estou recebendo emails. tem cliente importante esperando agora.", "categoria": "email", "prioridade": "critica", "setor": "ti"}
+{"id": "treino-0287", "texto": "Ola time de suporte, a impressora esta sem comunicacao. atrapalha um pouco. Falo sou do juridico.", "categoria": "impressora", "prioridade": "media", "setor": "juridico"}
+{"id": "treino-0288", "texto": "Oi, aqui no RH o teclado parou de responder, preciso resolver esta semana.", "categoria": "hardware", "prioridade": "media", "setor": "rh"}
+{"id": "treino-0289", "texto": "Pessoal, abrindo chamado: os emails que envio voltam. aqui no TI. ninguem consegue trabalhar.", "categoria": "email", "prioridade": "critica", "setor": "ti"}
+{"id": "treino-0290", "texto": "Pessoal, aqui no logistica, o mouse esta falhando. atrapalha um pouco.", "categoria": "hardware", "prioridade": "media", "setor": "logistica"}
+{"id": "treino-0291", "texto": "Ola time de suporte, abrindo chamado: nao encontro a impressora do andar. no setor juridico. atrapalha um pouco.", "categoria": "impressora", "prioridade": "media", "setor": "juridico"}
+{"id": "treino-0292", "texto": "Bom dia, no setor financeiro, a rede esta muito lenta. quando der.", "categoria": "rede", "prioridade": "baixa", "setor": "financeiro"}
+{"id": "treino-0293", "texto": "Ola time de suporte, abrindo chamado: o programa de planilhas fecha sozinho. no setor RH. ninguem consegue trabalhar.", "categoria": "software", "prioridade": "critica", "setor": "rh"}
+{"id": "treino-0294", "texto": "Pessoal, abrindo chamado: minha caixa de entrada esta cheia. sou do TI. o sistema de vendas esta fora do ar.", "categoria": "email", "prioridade": "critica", "setor": "ti"}
+{"id": "treino-0295", "texto": "Bom dia, no setor juridico, o wifi do andar nao conecta. so estou avisando.", "categoria": "rede", "prioridade": "baixa", "setor": "juridico"}
+{"id": "treino-0296", "texto": "Ola time de suporte, aqui no comercial, o mouse esta falhando. o sistema de vendas esta fora do ar.", "categoria": "hardware", "prioridade": "critica", "setor": "comercial"}
+{"id": "treino-0297", "texto": "Bom dia, tem cliente importante esperando agora. aqui no comercial, o aplicativo de videoconferencia nao abre.", "categoria": "software", "prioridade": "critica", "setor": "comercial"}
+{"id": "treino-0298", "texto": "Pessoal, os emails que envio voltam. ninguem consegue trabalhar. Falo aqui no juridico.", "categoria": "email", "prioridade": "critica", "setor": "juridico"}
+{"id": "treino-0299", "texto": "Ola time de suporte, minha caixa de entrada esta cheia. preciso resolver esta semana. Falo no setor RH.", "categoria": "email", "prioridade": "media", "setor": "rh"}
+{"id": "treino-0300", "texto": "Ola time de suporte, aqui no TI, a impressao sai com listras. nao e urgente.", "categoria": "impressora", "prioridade": "baixa", "setor": "ti"}
+{"id": "treino-0301", "texto": "Ola time de suporte, abrindo chamado: o mouse esta falhando. no setor financeiro. o sistema de vendas esta fora do ar.", "categoria": "hardware", "prioridade": "critica", "setor": "financeiro"}
+{"id": "treino-0302", "texto": "Ola time de suporte, preciso resolver ate hoje. sou do logistica, a impressao sai com listras.", "categoria": "impressora", "prioridade": "alta", "setor": "logistica"}
+{"id": "treino-0303", "texto": "Oi, abrindo chamado: nao consigo entrar no sistema. sou do RH. parou tudo aqui.", "categoria": "acesso", "prioridade": "critica", "setor": "rh"}
+{"id": "treino-0304", "texto": "Pessoal, abrindo chamado: os emails que envio voltam. no setor comercial. isso atrapalha muito meu trabalho.", "categoria": "email", "prioridade": "alta", "setor": "comercial"}
+{"id": "treino-0305", "texto": "Ola time de suporte, abrindo chamado: minha caixa de entrada esta cheia. no setor comercial. ninguem consegue trabalhar.", "categoria": "email", "prioridade": "critica", "setor": "comercial"}
+{"id": "treino-0306", "texto": "Bom dia, a internet esta caindo toda hora. atrapalha um pouco. Falo sou do juridico.", "categoria": "rede", "prioridade": "media", "setor": "juridico"}
+{"id": "treino-0307", "texto": "Pessoal, no setor comercial o aplicativo de videoconferencia nao abre, quando der.", "categoria": "software", "prioridade": "baixa", "setor": "comercial"}
+{"id": "treino-0308", "texto": "Ola time de suporte, abrindo chamado: o monitor ficou preto. no setor comercial. preciso resolver esta semana.", "categoria": "hardware", "prioridade": "media", "setor": "comercial"}
+{"id": "treino-0309", "texto": "Oi, isso atrapalha muito meu trabalho. aqui no juridico, o programa de planilhas fecha sozinho.", "categoria": "software", "prioridade": "alta", "setor": "juridico"}
+{"id": "treino-0310", "texto": "Bom dia, sou do RH o notebook nao liga, o sistema de vendas esta fora do ar.", "categoria": "hardware", "prioridade": "critica", "setor": "rh"}
+{"id": "treino-0311", "texto": "Oi, sou do RH, minha senha expirou e nao consigo trocar. tem cliente importante esperando agora.", "categoria": "acesso", "prioridade": "critica", "setor": "rh"}
+{"id": "treino-0312", "texto": "Pessoal, preciso resolver ate hoje. aqui no juridico, o sistema de notas fiscais da erro ao salvar.", "categoria": "software", "prioridade": "alta", "setor": "juridico"}
+{"id": "treino-0313", "texto": "Ola time de suporte, no setor RH, o wifi do andar nao conecta. atrapalha um pouco.", "categoria": "rede", "prioridade": "media", "setor": "rh"}
+{"id": "treino-0314", "texto": "Oi, aqui no juridico a vpn nao fecha conexao, preciso resolver ate hoje.", "categoria": "rede", "prioridade": "alta", "setor": "juridico"}
+{"id": "treino-0315", "texto": "Ola time de suporte, abrindo chamado: a internet esta caindo toda hora. aqui no logistica. preciso resolver esta semana.", "categoria": "rede", "prioridade": "media", "setor": "logistica"}
+{"id": "treino-0316", "texto": "Oi, minha caixa de entrada esta cheia. o sistema de vendas esta fora do ar. Falo sou do juridico.", "categoria": "email", "prioridade": "critica", "setor": "juridico"}
+{"id": "treino-0317", "texto": "Ola time de suporte, abrindo chamado: nao encontro a impressora do andar. aqui no financeiro. preciso resolver ate hoje.", "categoria": "impressora", "prioridade": "alta", "setor": "financeiro"}
+{"id": "treino-0318", "texto": "Pessoal, aqui no RH, a impressao sai com listras. da para trabalhar mas e chato.", "categoria": "impressora", "prioridade": "media", "setor": "rh"}
+{"id": "treino-0319", "texto": "Ola time de suporte, sou do financeiro, a internet esta caindo toda hora. so estou avisando.", "categoria": "rede", "prioridade": "baixa", "setor": "financeiro"}
+{"id": "treino-0320", "texto": "Oi, sou do logistica a impressao sai com listras, o sistema de vendas esta fora do ar.", "categoria": "impressora", "prioridade": "critica", "setor": "logistica"}
+{"id": "treino-0321", "texto": "Oi, aqui no TI o programa de planilhas fecha sozinho, ninguem consegue trabalhar.", "categoria": "software", "prioridade": "critica", "setor": "ti"}
+{"id": "treino-0322", "texto": "Ola time de suporte, a rede esta muito lenta. da para trabalhar mas e chato. Falo sou do financeiro.", "categoria": "rede", "prioridade": "media", "setor": "financeiro"}
+{"id": "treino-0323", "texto": "Bom dia, nao e urgente. aqui no RH, perdi o acesso a pasta compartilhada.", "categoria": "acesso", "prioridade": "baixa", "setor": "rh"}
+{"id": "treino-0324", "texto": "Ola time de suporte, sou do RH o programa de planilhas fecha sozinho, da para trabalhar mas e chato.", "categoria": "software", "prioridade": "media", "setor": "rh"}
+{"id": "treino-0325", "texto": "Pessoal, atrapalha um pouco. no setor logistica, o programa de planilhas fecha sozinho.", "categoria": "software", "prioridade": "media", "setor": "logistica"}
+{"id": "treino-0326", "texto": "Ola time de suporte, aqui no logistica, nao consigo entrar no sistema. atrapalha um pouco.", "categoria": "acesso", "prioridade": "media", "setor": "logistica"}
+{"id": "treino-0327", "texto": "Ola time de suporte, no setor comercial, a internet esta caindo toda hora. atrapalha um pouco.", "categoria": "rede", "prioridade": "media", "setor": "comercial"}
+{"id": "treino-0328", "texto": "Bom dia, abrindo chamado: perdi o acesso a pasta compartilhada. aqui no financeiro. tem cliente importante esperando agora.", "categoria": "acesso", "prioridade": "critica", "setor": "financeiro"}
+{"id": "treino-0329", "texto": "Ola time de suporte, aqui no TI a internet esta caindo toda hora, ninguem consegue trabalhar.", "categoria": "rede", "prioridade": "critica", "setor": "ti"}
+{"id": "treino-0330", "texto": "Pessoal, aqui no financeiro, minha caixa de entrada esta cheia. preciso resolver ate hoje.", "categoria": "email", "prioridade": "alta", "setor": "financeiro"}
+{"id": "treino-0331", "texto": "Ola time de suporte, nao e urgente. aqui no financeiro, a impressora esta sem comunicacao.", "categoria": "impressora", "prioridade": "baixa", "setor": "financeiro"}
+{"id": "treino-0332", "texto": "Pessoal, abrindo chamado: o programa de planilhas fecha sozinho. sou do juridico. sem pressa.", "categoria": "software", "prioridade": "baixa", "setor": "juridico"}
+{"id": "treino-0333", "texto": "Pessoal, o mouse esta falhando. tem cliente importante esperando agora. Falo sou do TI.", "categoria": "hardware", "prioridade": "critica", "setor": "ti"}
+{"id": "treino-0334", "texto": "Oi, so estou avisando. no setor comercial, o calendario nao sincroniza.", "categoria": "email", "prioridade": "baixa", "setor": "comercial"}
+{"id": "treino-0335", "texto": "Ola time de suporte, da para trabalhar mas e chato. no setor comercial, o mouse esta falhando.", "categoria": "hardware", "prioridade": "media", "setor": "comercial"}
+{"id": "treino-0336", "texto": "Pessoal, nao estou recebendo emails. ninguem consegue trabalhar. Falo aqui no TI.", "categoria": "email", "prioridade": "critica", "setor": "ti"}
+{"id": "treino-0337", "texto": "Pessoal, no setor comercial o antivirus pede atualizacao e trava, quando der.", "categoria": "software", "prioridade": "baixa", "setor": "comercial"}
+{"id": "treino-0338", "texto": "Ola time de suporte, sou do TI, o login diz usuario bloqueado. da para trabalhar mas e chato.", "categoria": "acesso", "prioridade": "media", "setor": "ti"}
+{"id": "treino-0339", "texto": "Oi, sou do logistica, o notebook nao liga. atrapalha um pouco.", "categoria": "hardware", "prioridade": "media", "setor": "logistica"}
+{"id": "treino-0340", "texto": "Bom dia, no setor logistica o mouse esta falhando, sem pressa.", "categoria": "hardware", "prioridade": "baixa", "setor": "logistica"}
+{"id": "treino-0341", "texto": "Ola time de suporte, isso atrapalha muito meu trabalho. aqui no juridico, perdi o acesso a pasta compartilhada.", "categoria": "acesso", "prioridade": "alta", "setor": "juridico"}
+{"id": "treino-0342", "texto": "Bom dia, o notebook nao liga. sem pressa. Falo no setor RH.", "categoria": "hardware", "prioridade": "baixa", "setor": "rh"}
+{"id": "treino-0343", "texto": "Oi, minha senha expirou e nao consigo trocar. preciso resolver ate hoje. Falo aqui no RH.", "categoria": "acesso", "prioridade": "alta", "setor": "rh"}
+{"id": "treino-0344", "texto": "Ola time de suporte, tenho uma entrega hoje. sou do logistica, minha caixa de entrada esta cheia.", "categoria": "email", "prioridade": "alta", "setor": "logistica"}
+{"id": "treino-0345", "texto": "Pessoal, atrapalha um pouco. aqui no financeiro, nao estou recebendo emails.", "categoria": "email", "prioridade": "media", "setor": "financeiro"}
+{"id": "treino-0346", "texto": "Ola time de suporte, abrindo chamado: minha caixa de entrada esta cheia. aqui no TI. preciso resolver ate hoje.", "categoria": "email", "prioridade": "alta", "setor": "ti"}
+{"id": "treino-0347", "texto": "Ola time de suporte, abrindo chamado: a impressao sai com listras. sou do logistica. quando der.", "categoria": "impressora", "prioridade": "baixa", "setor": "logistica"}
+{"id": "treino-0348", "texto": "Pessoal, aqui no RH, a rede esta muito lenta. atrapalha um pouco.", "categoria": "rede", "prioridade": "media", "setor": "rh"}
+{"id": "treino-0349", "texto": "Ola time de suporte, a rede esta muito lenta. da para trabalhar mas e chato. Falo aqui no comercial.", "categoria": "rede", "prioridade": "media", "setor": "comercial"}
+{"id": "treino-0350", "texto": "Pessoal, no setor TI a impressao sai com listras, quando der.", "categoria": "impressora", "prioridade": "baixa", "setor": "ti"}
+{"id": "treino-0351", "texto": "Ola time de suporte, sou do logistica, a internet esta caindo toda hora. ninguem consegue trabalhar.", "categoria": "rede", "prioridade": "critica", "setor": "logistica"}
+{"id": "treino-0352", "texto": "Pessoal, no setor logistica, a rede esta muito lenta. ninguem consegue trabalhar.", "categoria": "rede", "prioridade": "critica", "setor": "logistica"}
+{"id": "treino-0353", "texto": "Oi, nao estou recebendo emails. preciso resolver ate hoje. Falo sou do financeiro.", "categoria": "email", "prioridade": "alta", "setor": "financeiro"}
+{"id": "treino-0354", "texto": "Ola time de suporte, preciso resolver ate hoje. sou do logistica, o aplicativo de videoconferencia nao abre.", "categoria": "software", "prioridade": "alta", "setor": "logistica"}
+{"id": "treino-0355", "texto": "Oi, abrindo chamado: a impressao sai com listras. aqui no RH. tem cliente importante esperando agora.", "categoria": "impressora", "prioridade": "critica", "setor": "rh"}
+{"id": "treino-0356", "texto": "Oi, no setor logistica, os emails que envio voltam. tem cliente importante esperando agora.", "categoria": "email", "prioridade": "critica", "setor": "logistica"}
+{"id": "treino-0357", "texto": "Bom dia, o sistema de vendas esta fora do ar. sou do comercial, minha caixa de entrada esta cheia.", "categoria": "email", "prioridade": "critica", "setor": "comercial"}
+{"id": "treino-0358", "texto": "Pessoal, sou do juridico, a impressao sai com listras. sem pressa.", "categoria": "impressora", "prioridade": "baixa", "setor": "juridico"}
+{"id": "treino-0359", "texto": "Ola time de suporte, abrindo chamado: o mouse esta falhando. aqui no financeiro. da para trabalhar mas e chato.", "categoria": "hardware", "prioridade": "media", "setor": "financeiro"}
+{"id": "treino-0360", "texto": "Ola time de suporte, abrindo chamado: a impressora esta sem comunicacao. aqui no juridico. atrapalha um pouco.", "categoria": "impressora", "prioridade": "media", "setor": "juridico"}
+{"id": "treino-0361", "texto": "Oi, no setor juridico, nao consigo entrar no sistema. tem cliente importante esperando agora.", "categoria": "acesso", "prioridade": "critica", "setor": "juridico"}
+{"id": "treino-0362", "texto": "Pessoal, aqui no juridico, nao consigo entrar no sistema. preciso resolver ate hoje.", "categoria": "acesso", "prioridade": "alta", "setor": "juridico"}
+{"id": "treino-0363", "texto": "Bom dia, no setor comercial perdi o acesso a pasta compartilhada, isso atrapalha muito meu trabalho.", "categoria": "acesso", "prioridade": "alta", "setor": "comercial"}
+{"id": "treino-0364", "texto": "Oi, sou do RH o monitor ficou preto, preciso resolver ate hoje.", "categoria": "hardware", "prioridade": "alta", "setor": "rh"}
+{"id": "treino-0365", "texto": "Pessoal, no setor comercial a impressao sai com listras, da para trabalhar mas e chato.", "categoria": "impressora", "prioridade": "media", "setor": "comercial"}
+{"id": "treino-0366", "texto": "Oi, minha senha expirou e nao consigo trocar. parou tudo aqui. Falo aqui no comercial.", "categoria": "acesso", "prioridade": "critica", "setor": "comercial"}
+{"id": "treino-0367", "texto": "Oi, o notebook nao liga. o sistema de vendas esta fora do ar. Falo no setor RH.", "categoria": "hardware", "prioridade": "critica", "setor": "rh"}
+{"id": "treino-0368", "texto": "Ola time de suporte, aqui no RH, o aplicativo de videoconferencia nao abre. preciso resolver esta semana.", "categoria": "software", "prioridade": "media", "setor": "rh"}
+{"id": "treino-0369", "texto": "Ola time de suporte, sou do RH a impressora esta sem comunicacao, preciso resolver ate hoje.", "categoria": "impressora", "prioridade": "alta", "setor": "rh"}
+{"id": "treino-0370", "texto": "Ola time de suporte, preciso resolver esta semana. no setor financeiro, perdi o acesso a pasta compartilhada.", "categoria": "acesso", "prioridade": "media", "setor": "financeiro"}
+{"id": "treino-0371", "texto": "Bom dia, abrindo chamado: nao estou recebendo emails. aqui no TI. preciso resolver esta semana.", "categoria": "email", "prioridade": "media", "setor": "ti"}
+{"id": "treino-0372", "texto": "Pessoal, atrapalha um pouco. sou do juridico, o teclado parou de responder.", "categoria": "hardware", "prioridade": "media", "setor": "juridico"}
+{"id": "treino-0373", "texto": "Bom dia, no setor financeiro, o mouse esta falhando. preciso resolver ate hoje.", "categoria": "hardware", "prioridade": "alta", "setor": "financeiro"}
+{"id": "treino-0374", "texto": "Pessoal, abrindo chamado: o wifi do andar nao conecta. aqui no comercial. sem pressa.", "categoria": "rede", "prioridade": "baixa", "setor": "comercial"}
+{"id": "treino-0375", "texto": "Bom dia, a internet esta caindo toda hora. quando der. Falo sou do RH.", "categoria": "rede", "prioridade": "baixa", "setor": "rh"}
+{"id": "treino-0376", "texto": "Oi, aqui no juridico, o programa de planilhas fecha sozinho. preciso resolver esta semana.", "categoria": "software", "prioridade": "media", "setor": "juridico"}
+{"id": "treino-0377", "texto": "Pessoal, aqui no juridico, a rede esta muito lenta. preciso resolver ate hoje.", "categoria": "rede", "prioridade": "alta", "setor": "juridico"}
+{"id": "treino-0378", "texto": "Ola time de suporte, sou do comercial o calendario nao sincroniza, tenho uma entrega hoje.", "categoria": "email", "prioridade": "alta", "setor": "comercial"}
+{"id": "treino-0379", "texto": "Ola time de suporte, da para trabalhar mas e chato. aqui no TI, minha senha expirou e nao consigo trocar.", "categoria": "acesso", "prioridade": "media", "setor": "ti"}
+{"id": "treino-0380", "texto": "Oi, perdi o acesso a pasta compartilhada. sem pressa. Falo sou do comercial.", "categoria": "acesso", "prioridade": "baixa", "setor": "comercial"}
+{"id": "treino-0381", "texto": "Bom dia, aqui no juridico, o aplicativo de videoconferencia nao abre. tem cliente importante esperando agora.", "categoria": "software", "prioridade": "critica", "setor": "juridico"}
+{"id": "treino-0382", "texto": "Oi, aqui no juridico, os emails que envio voltam. isso atrapalha muito meu trabalho.", "categoria": "email", "prioridade": "alta", "setor": "juridico"}
+{"id": "treino-0383", "texto": "Pessoal, aqui no juridico, o sistema de notas fiscais da erro ao salvar. preciso resolver ate hoje.", "categoria": "software", "prioridade": "alta", "setor": "juridico"}
+{"id": "treino-0384", "texto": "Bom dia, perdi o acesso a pasta compartilhada. atrapalha um pouco. Falo no setor TI.", "categoria": "acesso", "prioridade": "media", "setor": "ti"}
+{"id": "treino-0385", "texto": "Ola time de suporte, sou do financeiro, minha senha expirou e nao consigo trocar. preciso resolver esta semana.", "categoria": "acesso", "prioridade": "media", "setor": "financeiro"}
+{"id": "treino-0386", "texto": "Ola time de suporte, aqui no logistica, nao estou recebendo emails. ninguem consegue trabalhar.", "categoria": "email", "prioridade": "critica", "setor": "logistica"}
+{"id": "treino-0387", "texto": "Pessoal, tem cliente importante esperando agora. sou do TI, o monitor ficou preto.", "categoria": "hardware", "prioridade": "critica", "setor": "ti"}
+{"id": "treino-0388", "texto": "Oi, abrindo chamado: o notebook nao liga. sou do comercial. ninguem consegue trabalhar.", "categoria": "hardware", "prioridade": "critica", "setor": "comercial"}
+{"id": "treino-0389", "texto": "Ola time de suporte, no setor financeiro, nao encontro a impressora do andar. preciso resolver ate hoje.", "categoria": "impressora", "prioridade": "alta", "setor": "financeiro"}
+{"id": "treino-0390", "texto": "Ola time de suporte, o programa de planilhas fecha sozinho. nao e urgente. Falo sou do logistica.", "categoria": "software", "prioridade": "baixa", "setor": "logistica"}
+{"id": "treino-0391", "texto": "Pessoal, so estou avisando. aqui no comercial, o papel esta enroscando.", "categoria": "impressora", "prioridade": "baixa", "setor": "comercial"}
+{"id": "treino-0392", "texto": "Oi, abrindo chamado: nao encontro a impressora do andar. sou do logistica. preciso resolver ate hoje.", "categoria": "impressora", "prioridade": "alta", "setor": "logistica"}
+{"id": "treino-0393", "texto": "Pessoal, aqui no financeiro nao estou recebendo emails, tenho uma entrega hoje.", "categoria": "email", "prioridade": "alta", "setor": "financeiro"}
+{"id": "treino-0394", "texto": "Bom dia, aqui no RH nao encontro a impressora do andar, atrapalha um pouco.", "categoria": "impressora", "prioridade": "media", "setor": "rh"}
+{"id": "treino-0395", "texto": "Bom dia, abrindo chamado: o aplicativo de videoconferencia nao abre. no setor logistica. parou tudo aqui.", "categoria": "software", "prioridade": "critica", "setor": "logistica"}
+{"id": "treino-0396", "texto": "Pessoal, aqui no financeiro, a impressao sai com listras. nao e urgente.", "categoria": "impressora", "prioridade": "baixa", "setor": "financeiro"}
+{"id": "treino-0397", "texto": "Bom dia, sou do juridico a vpn nao fecha conexao, ninguem consegue trabalhar.", "categoria": "rede", "prioridade": "critica", "setor": "juridico"}
+{"id": "treino-0398", "texto": "Bom dia, sou do logistica, o wifi do andar nao conecta. tenho uma entrega hoje.", "categoria": "rede", "prioridade": "alta", "setor": "logistica"}
+{"id": "treino-0399", "texto": "Ola time de suporte, aqui no RH, o wifi do andar nao conecta. atrapalha um pouco.", "categoria": "rede", "prioridade": "media", "setor": "rh"}
+{"id": "treino-0400", "texto": "Oi, ninguem consegue trabalhar. aqui no juridico, perdi o acesso a pasta compartilhada.", "categoria": "acesso", "prioridade": "critica", "setor": "juridico"}
+{"id": "treino-0401", "texto": "Ola time de suporte, sou do RH, o mouse esta falhando. tem cliente importante esperando agora.", "categoria": "hardware", "prioridade": "critica", "setor": "rh"}
+{"id": "treino-0402", "texto": "Bom dia, tem cliente importante esperando agora. aqui no comercial, o mouse esta falhando.", "categoria": "hardware", "prioridade": "critica", "setor": "comercial"}
+{"id": "treino-0403", "texto": "Oi, tem cliente importante esperando agora. sou do RH, a rede esta muito lenta.", "categoria": "rede", "prioridade": "critica", "setor": "rh"}
+{"id": "treino-0404", "texto": "Ola time de suporte, abrindo chamado: o mouse esta falhando. no setor logistica. tenho uma entrega hoje.", "categoria": "hardware", "prioridade": "alta", "setor": "logistica"}
+{"id": "treino-0405", "texto": "Oi, isso atrapalha muito meu trabalho. sou do juridico, a internet esta caindo toda hora.", "categoria": "rede", "prioridade": "alta", "setor": "juridico"}
+{"id": "treino-0406", "texto": "Oi, abrindo chamado: o login diz usuario bloqueado. sou do logistica. tenho uma entrega hoje.", "categoria": "acesso", "prioridade": "alta", "setor": "logistica"}
+{"id": "treino-0407", "texto": "Oi, aqui no TI, nao consigo entrar no sistema. atrapalha um pouco.", "categoria": "acesso", "prioridade": "media", "setor": "ti"}
+{"id": "treino-0408", "texto": "Ola time de suporte, no setor financeiro, perdi o acesso a pasta compartilhada. preciso resolver esta semana.", "categoria": "acesso", "prioridade": "media", "setor": "financeiro"}
+{"id": "treino-0409", "texto": "Ola time de suporte, tenho uma entrega hoje. no setor financeiro, minha senha expirou e nao consigo trocar.", "categoria": "acesso", "prioridade": "alta", "setor": "financeiro"}
+{"id": "treino-0410", "texto": "Pessoal, sou do financeiro o calendario nao sincroniza, o sistema de vendas esta fora do ar.", "categoria": "email", "prioridade": "critica", "setor": "financeiro"}
+{"id": "treino-0411", "texto": "Pessoal, abrindo chamado: perdi o acesso a pasta compartilhada. sou do logistica. da para trabalhar mas e chato.", "categoria": "acesso", "prioridade": "media", "setor": "logistica"}
+{"id": "treino-0412", "texto": "Oi, aqui no juridico a impressora esta sem comunicacao, o sistema de vendas esta fora do ar.", "categoria": "impressora", "prioridade": "critica", "setor": "juridico"}
+{"id": "treino-0413", "texto": "Pessoal, ninguem consegue trabalhar. no setor financeiro, o monitor ficou preto.", "categoria": "hardware", "prioridade": "critica", "setor": "financeiro"}
+{"id": "treino-0414", "texto": "Ola time de suporte, o papel esta enroscando. nao e urgente. Falo no setor juridico.", "categoria": "impressora", "prioridade": "baixa", "setor": "juridico"}
+{"id": "treino-0415", "texto": "Oi, no setor RH minha caixa de entrada esta cheia, da para trabalhar mas e chato.", "categoria": "email", "prioridade": "media", "setor": "rh"}
+{"id": "treino-0416", "texto": "Bom dia, no setor TI o programa de planilhas fecha sozinho, parou tudo aqui.", "categoria": "software", "prioridade": "critica", "setor": "ti"}
+{"id": "treino-0417", "texto": "Ola time de suporte, o teclado parou de responder. atrapalha um pouco. Falo sou do RH.", "categoria": "hardware", "prioridade": "media", "setor": "rh"}
+{"id": "treino-0418", "texto": "Bom dia, no setor TI nao estou recebendo emails, preciso resolver ate hoje.", "categoria": "email", "prioridade": "alta", "setor": "ti"}
+{"id": "treino-0419", "texto": "Bom dia, aqui no RH, nao estou recebendo emails. ninguem consegue trabalhar.", "categoria": "email", "prioridade": "critica", "setor": "rh"}
+{"id": "treino-0420", "texto": "Ola time de suporte, abrindo chamado: o teclado parou de responder. no setor logistica. da para trabalhar mas e chato.", "categoria": "hardware", "prioridade": "media", "setor": "logistica"}
+{"id": "treino-0421", "texto": "Bom dia, abrindo chamado: nao encontro a impressora do andar. no setor juridico. tenho uma entrega hoje.", "categoria": "impressora", "prioridade": "alta", "setor": "juridico"}
+{"id": "treino-0422", "texto": "Oi, no setor logistica a internet esta caindo toda hora, so estou avisando.", "categoria": "rede", "prioridade": "baixa", "setor": "logistica"}
+{"id": "treino-0423", "texto": "Bom dia, no setor comercial nao encontro a impressora do andar, nao e urgente.", "categoria": "impressora", "prioridade": "baixa", "setor": "comercial"}
+{"id": "treino-0424", "texto": "Ola time de suporte, no setor juridico nao estou recebendo emails, so estou avisando.", "categoria": "email", "prioridade": "baixa", "setor": "juridico"}
+{"id": "treino-0425", "texto": "Bom dia, abrindo chamado: a impressora esta sem comunicacao. no setor TI. sem pressa.", "categoria": "impressora", "prioridade": "baixa", "setor": "ti"}
+{"id": "treino-0426", "texto": "Ola time de suporte, nao estou recebendo emails. ninguem consegue trabalhar. Falo no setor comercial.", "categoria": "email", "prioridade": "critica", "setor": "comercial"}
+{"id": "treino-0427", "texto": "Ola time de suporte, o teclado parou de responder. o sistema de vendas esta fora do ar. Falo no setor logistica.", "categoria": "hardware", "prioridade": "critica", "setor": "logistica"}
+{"id": "treino-0428", "texto": "Ola time de suporte, quando der. aqui no TI, a impressao sai com listras.", "categoria": "impressora", "prioridade": "baixa", "setor": "ti"}
+{"id": "treino-0429", "texto": "Oi, tem cliente importante esperando agora. no setor juridico, o programa de planilhas fecha sozinho.", "categoria": "software", "prioridade": "critica", "setor": "juridico"}
+{"id": "treino-0430", "texto": "Pessoal, aqui no TI, o teclado parou de responder. tem cliente importante esperando agora.", "categoria": "hardware", "prioridade": "critica", "setor": "ti"}
+{"id": "treino-0431", "texto": "Bom dia, no setor comercial, o notebook nao liga. so estou avisando.", "categoria": "hardware", "prioridade": "baixa", "setor": "comercial"}
+{"id": "treino-0432", "texto": "Bom dia, a internet esta caindo toda hora. parou tudo aqui. Falo aqui no RH.", "categoria": "rede", "prioridade": "critica", "setor": "rh"}
+{"id": "treino-0433", "texto": "Bom dia, sou do juridico, perdi o acesso a pasta compartilhada. quando der.", "categoria": "acesso", "prioridade": "baixa", "setor": "juridico"}
+{"id": "treino-0434", "texto": "Oi, abrindo chamado: o mouse esta falhando. aqui no financeiro. quando der.", "categoria": "hardware", "prioridade": "baixa", "setor": "financeiro"}
+{"id": "treino-0435", "texto": "Oi, parou tudo aqui. sou do juridico, o notebook nao liga.", "categoria": "hardware", "prioridade": "critica", "setor": "juridico"}
+{"id": "treino-0436", "texto": "Bom dia, abrindo chamado: nao consigo entrar no sistema. aqui no financeiro. isso atrapalha muito meu trabalho.", "categoria": "acesso", "prioridade": "alta", "setor": "financeiro"}
+{"id": "treino-0437", "texto": "Pessoal, preciso resolver ate hoje. sou do juridico, o mouse esta falhando.", "categoria": "hardware", "prioridade": "alta", "setor": "juridico"}
+{"id": "treino-0438", "texto": "Bom dia, nao encontro a impressora do andar. preciso resolver esta semana. Falo sou do comercial.", "categoria": "impressora", "prioridade": "media", "setor": "comercial"}
+{"id": "treino-0439", "texto": "Pessoal, sou do comercial, o sistema de notas fiscais da erro ao salvar. atrapalha um pouco.", "categoria": "software", "prioridade": "media", "setor": "comercial"}
+{"id": "treino-0440", "texto": "Bom dia, o calendario nao sincroniza. atrapalha um pouco. Falo aqui no juridico.", "categoria": "email", "prioridade": "media", "setor": "juridico"}
+{"id": "treino-0441", "texto": "Ola time de suporte, no setor TI nao encontro a impressora do andar, preciso resolver esta semana.", "categoria": "impressora", "prioridade": "media", "setor": "ti"}
+{"id": "treino-0442", "texto": "Pessoal, aqui no juridico o monitor ficou preto, quando der.", "categoria": "hardware", "prioridade": "baixa", "setor": "juridico"}
+{"id": "treino-0443", "texto": "Pessoal, aqui no TI nao encontro a impressora do andar, da para trabalhar mas e chato.", "categoria": "impressora", "prioridade": "media", "setor": "ti"}
+{"id": "treino-0444", "texto": "Pessoal, aqui no TI, o wifi do andar nao conecta. parou tudo aqui.", "categoria": "rede", "prioridade": "critica", "setor": "ti"}
+{"id": "treino-0445", "texto": "Ola time de suporte, no setor RH, o sistema de notas fiscais da erro ao salvar. ninguem consegue trabalhar.", "categoria": "software", "prioridade": "critica", "setor": "rh"}
+{"id": "treino-0446", "texto": "Pessoal, no setor comercial a vpn nao fecha conexao, isso atrapalha muito meu trabalho.", "categoria": "rede", "prioridade": "alta", "setor": "comercial"}
+{"id": "treino-0447", "texto": "Ola time de suporte, no setor RH a internet esta caindo toda hora, nao e urgente.", "categoria": "rede", "prioridade": "baixa", "setor": "rh"}
+{"id": "treino-0448", "texto": "Pessoal, minha senha expirou e nao consigo trocar. preciso resolver esta semana. Falo no setor logistica.", "categoria": "acesso", "prioridade": "media", "setor": "logistica"}
+{"id": "treino-0449", "texto": "Oi, aqui no logistica o programa de planilhas fecha sozinho, tenho uma entrega hoje.", "categoria": "software", "prioridade": "alta", "setor": "logistica"}
+{"id": "treino-0450", "texto": "Pessoal, abrindo chamado: o teclado parou de responder. no setor logistica. tenho uma entrega hoje.", "categoria": "hardware", "prioridade": "alta", "setor": "logistica"}
+{"id": "treino-0451", "texto": "Bom dia, isso atrapalha muito meu trabalho. sou do comercial, minha caixa de entrada esta cheia.", "categoria": "email", "prioridade": "alta", "setor": "comercial"}
+{"id": "treino-0452", "texto": "Bom dia, no setor comercial, o programa de planilhas fecha sozinho. preciso resolver ate hoje.", "categoria": "software", "prioridade": "alta", "setor": "comercial"}
+{"id": "treino-0453", "texto": "Pessoal, abrindo chamado: o calendario nao sincroniza. sou do juridico. da para trabalhar mas e chato.", "categoria": "email", "prioridade": "media", "setor": "juridico"}
+{"id": "treino-0454", "texto": "Oi, perdi o acesso a pasta compartilhada. so estou avisando. Falo sou do TI.", "categoria": "acesso", "prioridade": "baixa", "setor": "ti"}
+{"id": "treino-0455", "texto": "Ola time de suporte, o login diz usuario bloqueado. parou tudo aqui. Falo aqui no logistica.", "categoria": "acesso", "prioridade": "critica", "setor": "logistica"}
+{"id": "treino-0456", "texto": "Pessoal, sou do RH o monitor ficou preto, tenho uma entrega hoje.", "categoria": "hardware", "prioridade": "alta", "setor": "rh"}
+{"id": "treino-0457", "texto": "Bom dia, sou do RH o teclado parou de responder, tenho uma entrega hoje.", "categoria": "hardware", "prioridade": "alta", "setor": "rh"}
+{"id": "treino-0458", "texto": "Pessoal, sou do RH o monitor ficou preto, tenho uma entrega hoje.", "categoria": "hardware", "prioridade": "alta", "setor": "rh"}
+{"id": "treino-0459", "texto": "Oi, abrindo chamado: o programa de planilhas fecha sozinho. sou do logistica. parou tudo aqui.", "categoria": "software", "prioridade": "critica", "setor": "logistica"}
+{"id": "treino-0460", "texto": "Pessoal, aqui no comercial, o calendario nao sincroniza. preciso resolver esta semana.", "categoria": "email", "prioridade": "media", "setor": "comercial"}
+{"id": "treino-0461", "texto": "Pessoal, aqui no RH, os emails que envio voltam. isso atrapalha muito meu trabalho.", "categoria": "email", "prioridade": "alta", "setor": "rh"}
+{"id": "treino-0462", "texto": "Bom dia, sou do juridico, o programa de planilhas fecha sozinho. da para trabalhar mas e chato.", "categoria": "software", "prioridade": "media", "setor": "juridico"}
+{"id": "treino-0463", "texto": "Oi, sou do RH o antivirus pede atualizacao e trava, quando der.", "categoria": "software", "prioridade": "baixa", "setor": "rh"}
+{"id": "treino-0464", "texto": "Bom dia, abrindo chamado: o login diz usuario bloqueado. sou do TI. so estou avisando.", "categoria": "acesso", "prioridade": "baixa", "setor": "ti"}
+{"id": "treino-0465", "texto": "Ola time de suporte, abrindo chamado: minha senha expirou e nao consigo trocar. no setor comercial. da para trabalhar mas e chato.", "categoria": "acesso", "prioridade": "media", "setor": "comercial"}
+{"id": "treino-0466", "texto": "Oi, abrindo chamado: o calendario nao sincroniza. aqui no comercial. sem pressa.", "categoria": "email", "prioridade": "baixa", "setor": "comercial"}
+{"id": "treino-0467", "texto": "Oi, abrindo chamado: a impressora esta sem comunicacao. sou do logistica. o sistema de vendas esta fora do ar.", "categoria": "impressora", "prioridade": "critica", "setor": "logistica"}
+{"id": "treino-0468", "texto": "Pessoal, perdi o acesso a pasta compartilhada. tenho uma entrega hoje. Falo sou do financeiro.", "categoria": "acesso", "prioridade": "alta", "setor": "financeiro"}
+{"id": "treino-0469", "texto": "Oi, abrindo chamado: minha senha expirou e nao consigo trocar. sou do financeiro. preciso resolver ate hoje.", "categoria": "acesso", "prioridade": "alta", "setor": "financeiro"}
+{"id": "treino-0470", "texto": "Pessoal, aqui no juridico, perdi o acesso a pasta compartilhada. o sistema de vendas esta fora do ar.", "categoria": "acesso", "prioridade": "critica", "setor": "juridico"}
+{"id": "treino-0471", "texto": "Oi, isso atrapalha muito meu trabalho. aqui no RH, minha senha expirou e nao consigo trocar.", "categoria": "acesso", "prioridade": "alta", "setor": "rh"}
+{"id": "treino-0472", "texto": "Bom dia, parou tudo aqui. aqui no juridico, nao encontro a impressora do andar.", "categoria": "impressora", "prioridade": "critica", "setor": "juridico"}
+{"id": "treino-0473", "texto": "Oi, abrindo chamado: nao encontro a impressora do andar. aqui no juridico. so estou avisando.", "categoria": "impressora", "prioridade": "baixa", "setor": "juridico"}
+{"id": "treino-0474", "texto": "Ola time de suporte, no setor RH, a vpn nao fecha conexao. da para trabalhar mas e chato.", "categoria": "rede", "prioridade": "media", "setor": "rh"}
+{"id": "treino-0475", "texto": "Pessoal, isso atrapalha muito meu trabalho. sou do RH, o papel esta enroscando.", "categoria": "impressora", "prioridade": "alta", "setor": "rh"}
+{"id": "treino-0476", "texto": "Pessoal, o teclado parou de responder. isso atrapalha muito meu trabalho. Falo sou do logistica.", "categoria": "hardware", "prioridade": "alta", "setor": "logistica"}
+{"id": "treino-0477", "texto": "Bom dia, atrapalha um pouco. aqui no RH, o papel esta enroscando.", "categoria": "impressora", "prioridade": "media", "setor": "rh"}
+{"id": "treino-0478", "texto": "Bom dia, o wifi do andar nao conecta. tenho uma entrega hoje. Falo no setor RH.", "categoria": "rede", "prioridade": "alta", "setor": "rh"}
+{"id": "treino-0479", "texto": "Ola time de suporte, aqui no RH o notebook nao liga, preciso resolver ate hoje.", "categoria": "hardware", "prioridade": "alta", "setor": "rh"}
+{"id": "treino-0480", "texto": "Pessoal, sou do TI a impressao sai com listras, ninguem consegue trabalhar.", "categoria": "impressora", "prioridade": "critica", "setor": "ti"}
+{"id": "treino-0481", "texto": "Oi, abrindo chamado: o teclado parou de responder. no setor comercial. preciso resolver ate hoje.", "categoria": "hardware", "prioridade": "alta", "setor": "comercial"}
+{"id": "treino-0482", "texto": "Bom dia, sou do financeiro o sistema de notas fiscais da erro ao salvar, so estou avisando.", "categoria": "software", "prioridade": "baixa", "setor": "financeiro"}
+{"id": "treino-0483", "texto": "Bom dia, no setor comercial o mouse esta falhando, so estou avisando.", "categoria": "hardware", "prioridade": "baixa", "setor": "comercial"}
+{"id": "treino-0484", "texto": "Ola time de suporte, tem cliente importante esperando agora. aqui no comercial, o aplicativo de videoconferencia nao abre.", "categoria": "software", "prioridade": "critica", "setor": "comercial"}
+{"id": "treino-0485", "texto": "Pessoal, o mouse esta falhando. so estou avisando. Falo sou do financeiro.", "categoria": "hardware", "prioridade": "baixa", "setor": "financeiro"}
+{"id": "treino-0486", "texto": "Oi, abrindo chamado: minha senha expirou e nao consigo trocar. aqui no financeiro. tem cliente importante esperando agora.", "categoria": "acesso", "prioridade": "critica", "setor": "financeiro"}
+{"id": "treino-0487", "texto": "Oi, o programa de planilhas fecha sozinho. da para trabalhar mas e chato. Falo no setor logistica.", "categoria": "software", "prioridade": "media", "setor": "logistica"}
+{"id": "treino-0488", "texto": "Oi, abrindo chamado: o mouse esta falhando. sou do juridico. isso atrapalha muito meu trabalho.", "categoria": "hardware", "prioridade": "alta", "setor": "juridico"}
+{"id": "treino-0489", "texto": "Oi, a internet esta caindo toda hora. nao e urgente. Falo aqui no juridico.", "categoria": "rede", "prioridade": "baixa", "setor": "juridico"}
+{"id": "treino-0490", "texto": "Pessoal, aqui no financeiro nao estou recebendo emails, nao e urgente.", "categoria": "email", "prioridade": "baixa", "setor": "financeiro"}
+{"id": "treino-0491", "texto": "Oi, no setor RH, nao encontro a impressora do andar. atrapalha um pouco.", "categoria": "impressora", "prioridade": "media", "setor": "rh"}
+{"id": "treino-0492", "texto": "Ola time de suporte, a rede esta muito lenta. so estou avisando. Falo aqui no RH.", "categoria": "rede", "prioridade": "baixa", "setor": "rh"}
+{"id": "treino-0493", "texto": "Oi, o wifi do andar nao conecta. quando der. Falo aqui no TI.", "categoria": "rede", "prioridade": "baixa", "setor": "ti"}
+{"id": "treino-0494", "texto": "Bom dia, no setor juridico a vpn nao fecha conexao, preciso resolver esta semana.", "categoria": "rede", "prioridade": "media", "setor": "juridico"}
+{"id": "treino-0495", "texto": "Ola time de suporte, preciso resolver ate hoje. sou do RH, o monitor ficou preto.", "categoria": "hardware", "prioridade": "alta", "setor": "rh"}
+{"id": "treino-0496", "texto": "Pessoal, abrindo chamado: o calendario nao sincroniza. aqui no TI. so estou avisando.", "categoria": "email", "prioridade": "baixa", "setor": "ti"}
+{"id": "treino-0497", "texto": "Pessoal, no setor financeiro, o mouse esta falhando. preciso resolver esta semana.", "categoria": "hardware", "prioridade": "media", "setor": "financeiro"}
+{"id": "treino-0498", "texto": "Pessoal, aqui no juridico nao encontro a impressora do andar, ninguem consegue trabalhar.", "categoria": "impressora", "prioridade": "critica", "setor": "juridico"}
+{"id": "treino-0499", "texto": "Oi, aqui no juridico minha caixa de entrada esta cheia, o sistema de vendas esta fora do ar.", "categoria": "email", "prioridade": "critica", "setor": "juridico"}
+{"id": "treino-0500", "texto": "Ola time de suporte, minha senha expirou e nao consigo trocar. nao e urgente. Falo no setor logistica.", "categoria": "acesso", "prioridade": "baixa", "setor": "logistica"}
+{"id": "treino-0501", "texto": "Bom dia, o antivirus pede atualizacao e trava. quando der. Falo sou do TI.", "categoria": "software", "prioridade": "baixa", "setor": "ti"}
+{"id": "treino-0502", "texto": "Ola time de suporte, aqui no TI o programa de planilhas fecha sozinho, quando der.", "categoria": "software", "prioridade": "baixa", "setor": "ti"}
+{"id": "treino-0503", "texto": "Oi, abrindo chamado: o calendario nao sincroniza. aqui no logistica. so estou avisando.", "categoria": "email", "prioridade": "baixa", "setor": "logistica"}
+{"id": "treino-0504", "texto": "Ola time de suporte, parou tudo aqui. sou do financeiro, o monitor ficou preto.", "categoria": "hardware", "prioridade": "critica", "setor": "financeiro"}
+{"id": "treino-0505", "texto": "Pessoal, minha caixa de entrada esta cheia. so estou avisando. Falo aqui no logistica.", "categoria": "email", "prioridade": "baixa", "setor": "logistica"}
+{"id": "treino-0506", "texto": "Oi, nao encontro a impressora do andar. da para trabalhar mas e chato. Falo sou do TI.", "categoria": "impressora", "prioridade": "media", "setor": "ti"}
+{"id": "treino-0507", "texto": "Ola time de suporte, abrindo chamado: minha senha expirou e nao consigo trocar. sou do financeiro. sem pressa.", "categoria": "acesso", "prioridade": "baixa", "setor": "financeiro"}
+{"id": "treino-0508", "texto": "Oi, abrindo chamado: minha caixa de entrada esta cheia. aqui no RH. ninguem consegue trabalhar.", "categoria": "email", "prioridade": "critica", "setor": "rh"}
+{"id": "treino-0509", "texto": "Ola time de suporte, no setor logistica minha caixa de entrada esta cheia, preciso resolver ate hoje.", "categoria": "email", "prioridade": "alta", "setor": "logistica"}
+{"id": "treino-0510", "texto": "Bom dia, no setor juridico, o teclado parou de responder. sem pressa.", "categoria": "hardware", "prioridade": "baixa", "setor": "juridico"}
+{"id": "treino-0511", "texto": "Bom dia, da para trabalhar mas e chato. sou do TI, minha caixa de entrada esta cheia.", "categoria": "email", "prioridade": "media", "setor": "ti"}
+{"id": "treino-0512", "texto": "Ola time de suporte, no setor comercial minha senha expirou e nao consigo trocar, atrapalha um pouco.", "categoria": "acesso", "prioridade": "media", "setor": "comercial"}
+{"id": "treino-0513", "texto": "Bom dia, sou do TI o sistema de notas fiscais da erro ao salvar, nao e urgente.", "categoria": "software", "prioridade": "baixa", "setor": "ti"}
+{"id": "treino-0514", "texto": "Ola time de suporte, abrindo chamado: o monitor ficou preto. sou do financeiro. nao e urgente.", "categoria": "hardware", "prioridade": "baixa", "setor": "financeiro"}
+{"id": "treino-0515", "texto": "Pessoal, aqui no logistica a impressora esta sem comunicacao, preciso resolver esta semana.", "categoria": "impressora", "prioridade": "media", "setor": "logistica"}
+{"id": "treino-0516", "texto": "Pessoal, abrindo chamado: nao consigo entrar no sistema. no setor juridico. atrapalha um pouco.", "categoria": "acesso", "prioridade": "media", "setor": "juridico"}
+{"id": "treino-0517", "texto": "Bom dia, o calendario nao sincroniza. tenho uma entrega hoje. Falo aqui no financeiro.", "categoria": "email", "prioridade": "alta", "setor": "financeiro"}
+{"id": "treino-0518", "texto": "Bom dia, abrindo chamado: o mouse esta falhando. sou do financeiro. ninguem consegue trabalhar.", "categoria": "hardware", "prioridade": "critica", "setor": "financeiro"}
+{"id": "treino-0519", "texto": "Bom dia, aqui no juridico o wifi do andar nao conecta, tem cliente importante esperando agora.", "categoria": "rede", "prioridade": "critica", "setor": "juridico"}
+{"id": "treino-0520", "texto": "Oi, no setor comercial, o papel esta enroscando. preciso resolver esta semana.", "categoria": "impressora", "prioridade": "media", "setor": "comercial"}
+{"id": "treino-0521", "texto": "Oi, aqui no juridico o sistema de notas fiscais da erro ao salvar, da para trabalhar mas e chato.", "categoria": "software", "prioridade": "media", "setor": "juridico"}
+{"id": "treino-0522", "texto": "Pessoal, sou do RH, a impressao sai com listras. sem pressa.", "categoria": "impressora", "prioridade": "baixa", "setor": "rh"}
+{"id": "treino-0523", "texto": "Ola time de suporte, abrindo chamado: a rede esta muito lenta. no setor financeiro. nao e urgente.", "categoria": "rede", "prioridade": "baixa", "setor": "financeiro"}
+{"id": "treino-0524", "texto": "Pessoal, abrindo chamado: a impressao sai com listras. sou do TI. atrapalha um pouco.", "categoria": "impressora", "prioridade": "media", "setor": "ti"}
+{"id": "treino-0525", "texto": "Pessoal, aqui no comercial, o programa de planilhas fecha sozinho. atrapalha um pouco.", "categoria": "software", "prioridade": "media", "setor": "comercial"}
+{"id": "treino-0526", "texto": "Ola time de suporte, quando der. aqui no financeiro, minha senha expirou e nao consigo trocar.", "categoria": "acesso", "prioridade": "baixa", "setor": "financeiro"}
+{"id": "treino-0527", "texto": "Ola time de suporte, ninguem consegue trabalhar. aqui no logistica, a impressao sai com listras.", "categoria": "impressora", "prioridade": "critica", "setor": "logistica"}
+{"id": "treino-0528", "texto": "Pessoal, sou do RH, a impressora esta sem comunicacao. preciso resolver esta semana.", "categoria": "impressora", "prioridade": "media", "setor": "rh"}
+{"id": "treino-0529", "texto": "Ola time de suporte, no setor RH nao estou recebendo emails, atrapalha um pouco.", "categoria": "email", "prioridade": "media", "setor": "rh"}
+{"id": "treino-0530", "texto": "Bom dia, minha caixa de entrada esta cheia. isso atrapalha muito meu trabalho. Falo sou do RH.", "categoria": "email", "prioridade": "alta", "setor": "rh"}
+{"id": "treino-0531", "texto": "Oi, abrindo chamado: o programa de planilhas fecha sozinho. aqui no TI. nao e urgente.", "categoria": "software", "prioridade": "baixa", "setor": "ti"}
+{"id": "treino-0532", "texto": "Pessoal, ninguem consegue trabalhar. sou do comercial, o notebook nao liga.", "categoria": "hardware", "prioridade": "critica", "setor": "comercial"}
+{"id": "treino-0533", "texto": "Pessoal, abrindo chamado: o programa de planilhas fecha sozinho. no setor juridico. tenho uma entrega hoje.", "categoria": "software", "prioridade": "alta", "setor": "juridico"}
+{"id": "treino-0534", "texto": "Ola time de suporte, no setor RH o monitor ficou preto, quando der.", "categoria": "hardware", "prioridade": "baixa", "setor": "rh"}
+{"id": "treino-0535", "texto": "Pessoal, nao e urgente. aqui no RH, o notebook nao liga.", "categoria": "hardware", "prioridade": "baixa", "setor": "rh"}
+{"id": "treino-0536", "texto": "Ola time de suporte, so estou avisando. no setor RH, o papel esta enroscando.", "categoria": "impressora", "prioridade": "baixa", "setor": "rh"}
+{"id": "treino-0537", "texto": "Pessoal, abrindo chamado: o antivirus pede atualizacao e trava. no setor RH. so estou avisando.", "categoria": "software", "prioridade": "baixa", "setor": "rh"}
+{"id": "treino-0538", "texto": "Oi, parou tudo aqui. sou do RH, perdi o acesso a pasta compartilhada.", "categoria": "acesso", "prioridade": "critica", "setor": "rh"}
+{"id": "treino-0539", "texto": "Oi, preciso resolver ate hoje. aqui no juridico, minha caixa de entrada esta cheia.", "categoria": "email", "prioridade": "alta", "setor": "juridico"}
+{"id": "treino-0540", "texto": "Ola time de suporte, perdi o acesso a pasta compartilhada. preciso resolver ate hoje. Falo no setor RH.", "categoria": "acesso", "prioridade": "alta", "setor": "rh"}
+{"id": "treino-0541", "texto": "Bom dia, sem pressa. no setor RH, o wifi do andar nao conecta.", "categoria": "rede", "prioridade": "baixa", "setor": "rh"}
+{"id": "treino-0542", "texto": "Oi, sou do juridico o login diz usuario bloqueado, da para trabalhar mas e chato.", "categoria": "acesso", "prioridade": "media", "setor": "juridico"}
+{"id": "treino-0543", "texto": "Pessoal, abrindo chamado: a internet esta caindo toda hora. no setor comercial. sem pressa.", "categoria": "rede", "prioridade": "baixa", "setor": "comercial"}
+{"id": "treino-0544", "texto": "Pessoal, sou do financeiro nao encontro a impressora do andar, o sistema de vendas esta fora do ar.", "categoria": "impressora", "prioridade": "critica", "setor": "financeiro"}
+{"id": "treino-0545", "texto": "Bom dia, no setor comercial, o programa de planilhas fecha sozinho. tem cliente importante esperando agora.", "categoria": "software", "prioridade": "critica", "setor": "comercial"}
+{"id": "treino-0546", "texto": "Oi, sou do financeiro, nao consigo entrar no sistema. preciso resolver esta semana.", "categoria": "acesso", "prioridade": "media", "setor": "financeiro"}
+{"id": "treino-0547", "texto": "Ola time de suporte, sou do comercial o monitor ficou preto, da para trabalhar mas e chato.", "categoria": "hardware", "prioridade": "media", "setor": "comercial"}
+{"id": "treino-0548", "texto": "Bom dia, sou do financeiro, o aplicativo de videoconferencia nao abre. ninguem consegue trabalhar.", "categoria": "software", "prioridade": "critica", "setor": "financeiro"}
+{"id": "treino-0549", "texto": "Ola time de suporte, nao encontro a impressora do andar. preciso resolver ate hoje. Falo sou do TI.", "categoria": "impressora", "prioridade": "alta", "setor": "ti"}
+{"id": "treino-0550", "texto": "Pessoal, sou do financeiro a rede esta muito lenta, o sistema de vendas esta fora do ar.", "categoria": "rede", "prioridade": "critica", "setor": "financeiro"}
+{"id": "treino-0551", "texto": "Ola time de suporte, abrindo chamado: perdi o acesso a pasta compartilhada. aqui no RH. sem pressa.", "categoria": "acesso", "prioridade": "baixa", "setor": "rh"}
+{"id": "treino-0552", "texto": "Ola time de suporte, abrindo chamado: o papel esta enroscando. sou do logistica. preciso resolver esta semana.", "categoria": "impressora", "prioridade": "media", "setor": "logistica"}
+{"id": "treino-0553", "texto": "Oi, da para trabalhar mas e chato. no setor financeiro, o calendario nao sincroniza.", "categoria": "email", "prioridade": "media", "setor": "financeiro"}
+{"id": "treino-0554", "texto": "Bom dia, o mouse esta falhando. tenho uma entrega hoje. Falo no setor TI.", "categoria": "hardware", "prioridade": "alta", "setor": "ti"}
+{"id": "treino-0555", "texto": "Oi, sou do TI o papel esta enroscando, isso atrapalha muito meu trabalho.", "categoria": "impressora", "prioridade": "alta", "setor": "ti"}
+{"id": "treino-0556", "texto": "Ola time de suporte, tem cliente importante esperando agora. sou do comercial, o antivirus pede atualizacao e trava.", "categoria": "software", "prioridade": "critica", "setor": "comercial"}
+{"id": "treino-0557", "texto": "Pessoal, abrindo chamado: minha senha expirou e nao consigo trocar. no setor comercial. nao e urgente.", "categoria": "acesso", "prioridade": "baixa", "setor": "comercial"}
+{"id": "treino-0558", "texto": "Oi, sou do RH a internet esta caindo toda hora, da para trabalhar mas e chato.", "categoria": "rede", "prioridade": "media", "setor": "rh"}
+{"id": "treino-0559", "texto": "Bom dia, o sistema de notas fiscais da erro ao salvar. tem cliente importante esperando agora. Falo aqui no RH.", "categoria": "software", "prioridade": "critica", "setor": "rh"}
+{"id": "treino-0560", "texto": "Ola time de suporte, sou do RH nao estou recebendo emails, o sistema de vendas esta fora do ar.", "categoria": "email", "prioridade": "critica", "setor": "rh"}
+{"id": "treino-0561", "texto": "Pessoal, abrindo chamado: a vpn nao fecha conexao. no setor logistica. so estou avisando.", "categoria": "rede", "prioridade": "baixa", "setor": "logistica"}
+{"id": "treino-0562", "texto": "Bom dia, o calendario nao sincroniza. so estou avisando. Falo aqui no logistica.", "categoria": "email", "prioridade": "baixa", "setor": "logistica"}
+{"id": "treino-0563", "texto": "Pessoal, aqui no comercial o login diz usuario bloqueado, so estou avisando.", "categoria": "acesso", "prioridade": "baixa", "setor": "comercial"}
+{"id": "treino-0564", "texto": "Oi, preciso resolver ate hoje. sou do comercial, o login diz usuario bloqueado.", "categoria": "acesso", "prioridade": "alta", "setor": "comercial"}
+{"id": "treino-0565", "texto": "Bom dia, aqui no juridico, o monitor ficou preto. tenho uma entrega hoje.", "categoria": "hardware", "prioridade": "alta", "setor": "juridico"}
+{"id": "treino-0566", "texto": "Pessoal, o teclado parou de responder. preciso resolver ate hoje. Falo aqui no TI.", "categoria": "hardware", "prioridade": "alta", "setor": "ti"}
+{"id": "treino-0567", "texto": "Ola time de suporte, sem pressa. aqui no TI, o calendario nao sincroniza.", "categoria": "email", "prioridade": "baixa", "setor": "ti"}
+{"id": "treino-0568", "texto": "Ola time de suporte, aqui no TI, o login diz usuario bloqueado. sem pressa.", "categoria": "acesso", "prioridade": "baixa", "setor": "ti"}
+{"id": "treino-0569", "texto": "Oi, aqui no juridico o sistema de notas fiscais da erro ao salvar, tem cliente importante esperando agora.", "categoria": "software", "prioridade": "critica", "setor": "juridico"}
+{"id": "treino-0570", "texto": "Bom dia, isso atrapalha muito meu trabalho. sou do TI, o aplicativo de videoconferencia nao abre.", "categoria": "software", "prioridade": "alta", "setor": "ti"}
+{"id": "treino-0571", "texto": "Ola time de suporte, aqui no financeiro, os emails que envio voltam. preciso resolver ate hoje.", "categoria": "email", "prioridade": "alta", "setor": "financeiro"}
+{"id": "treino-0572", "texto": "Pessoal, no setor comercial, nao consigo entrar no sistema. ninguem consegue trabalhar.", "categoria": "acesso", "prioridade": "critica", "setor": "comercial"}
+{"id": "treino-0573", "texto": "Pessoal, minha caixa de entrada esta cheia. isso atrapalha muito meu trabalho. Falo aqui no RH.", "categoria": "email", "prioridade": "alta", "setor": "rh"}
+{"id": "treino-0574", "texto": "Ola time de suporte, so estou avisando. no setor TI, o mouse esta falhando.", "categoria": "hardware", "prioridade": "baixa", "setor": "ti"}
+{"id": "treino-0575", "texto": "Bom dia, o teclado parou de responder. ninguem consegue trabalhar. Falo aqui no RH.", "categoria": "hardware", "prioridade": "critica", "setor": "rh"}
+{"id": "treino-0576", "texto": "Oi, o papel esta enroscando. preciso resolver esta semana. Falo sou do RH.", "categoria": "impressora", "prioridade": "media", "setor": "rh"}
+{"id": "treino-0577", "texto": "Ola time de suporte, tem cliente importante esperando agora. no setor TI, o aplicativo de videoconferencia nao abre.", "categoria": "software", "prioridade": "critica", "setor": "ti"}
+{"id": "treino-0578", "texto": "Ola time de suporte, o teclado parou de responder. ninguem consegue trabalhar. Falo aqui no RH.", "categoria": "hardware", "prioridade": "critica", "setor": "rh"}
+{"id": "treino-0579", "texto": "Ola time de suporte, abrindo chamado: o programa de planilhas fecha sozinho. no setor RH. atrapalha um pouco.", "categoria": "software", "prioridade": "media", "setor": "rh"}
+{"id": "treino-0580", "texto": "Pessoal, nao encontro a impressora do andar. atrapalha um pouco. Falo no setor logistica.", "categoria": "impressora", "prioridade": "media", "setor": "logistica"}
+{"id": "treino-0581", "texto": "Ola time de suporte, sem pressa. no setor logistica, a internet esta caindo toda hora.", "categoria": "rede", "prioridade": "baixa", "setor": "logistica"}
+{"id": "treino-0582", "texto": "Bom dia, aqui no logistica, o login diz usuario bloqueado. sem pressa.", "categoria": "acesso", "prioridade": "baixa", "setor": "logistica"}
+{"id": "treino-0583", "texto": "Pessoal, aqui no comercial o wifi do andar nao conecta, tem cliente importante esperando agora.", "categoria": "rede", "prioridade": "critica", "setor": "comercial"}
+{"id": "treino-0584", "texto": "Ola time de suporte, abrindo chamado: nao consigo entrar no sistema. sou do financeiro. preciso resolver ate hoje.", "categoria": "acesso", "prioridade": "alta", "setor": "financeiro"}
+{"id": "treino-0585", "texto": "Oi, abrindo chamado: a impressora esta sem comunicacao. aqui no RH. quando der.", "categoria": "impressora", "prioridade": "baixa", "setor": "rh"}
+{"id": "treino-0586", "texto": "Pessoal, quando der. no setor comercial, o antivirus pede atualizacao e trava.", "categoria": "software", "prioridade": "baixa", "setor": "comercial"}
+{"id": "treino-0587", "texto": "Oi, aqui no financeiro o antivirus pede atualizacao e trava, sem pressa.", "categoria": "software", "prioridade": "baixa", "setor": "financeiro"}
+{"id": "treino-0588", "texto": "Pessoal, a rede esta muito lenta. tenho uma entrega hoje. Falo no setor financeiro.", "categoria": "rede", "prioridade": "alta", "setor": "financeiro"}
+{"id": "treino-0589", "texto": "Bom dia, no setor RH o wifi do andar nao conecta, quando der.", "categoria": "rede", "prioridade": "baixa", "setor": "rh"}
+{"id": "treino-0590", "texto": "Ola time de suporte, preciso resolver esta semana. aqui no RH, a impressora esta sem comunicacao.", "categoria": "impressora", "prioridade": "media", "setor": "rh"}
+{"id": "treino-0591", "texto": "Pessoal, nao estou recebendo emails. tenho uma entrega hoje. Falo aqui no logistica.", "categoria": "email", "prioridade": "alta", "setor": "logistica"}
+{"id": "treino-0592", "texto": "Oi, o sistema de vendas esta fora do ar. sou do comercial, o wifi do andar nao conecta.", "categoria": "rede", "prioridade": "critica", "setor": "comercial"}
+{"id": "treino-0593", "texto": "Bom dia, so estou avisando. aqui no comercial, o calendario nao sincroniza.", "categoria": "email", "prioridade": "baixa", "setor": "comercial"}
+{"id": "treino-0594", "texto": "Ola time de suporte, abrindo chamado: a impressora esta sem comunicacao. no setor financeiro. nao e urgente.", "categoria": "impressora", "prioridade": "baixa", "setor": "financeiro"}
+{"id": "treino-0595", "texto": "Oi, aqui no TI nao encontro a impressora do andar, ninguem consegue trabalhar.", "categoria": "impressora", "prioridade": "critica", "setor": "ti"}
+{"id": "treino-0596", "texto": "Oi, abrindo chamado: os emails que envio voltam. no setor RH. atrapalha um pouco.", "categoria": "email", "prioridade": "media", "setor": "rh"}
+{"id": "treino-0597", "texto": "Pessoal, aqui no RH, a internet esta caindo toda hora. quando der.", "categoria": "rede", "prioridade": "baixa", "setor": "rh"}
+{"id": "treino-0598", "texto": "Ola time de suporte, abrindo chamado: o aplicativo de videoconferencia nao abre. sou do logistica. isso atrapalha muito meu trabalho.", "categoria": "software", "prioridade": "alta", "setor": "logistica"}
+{"id": "treino-0599", "texto": "Oi, no setor comercial, os emails que envio voltam. ninguem consegue trabalhar.", "categoria": "email", "prioridade": "critica", "setor": "comercial"}
+{"id": "treino-0600", "texto": "Pessoal, nao estou recebendo emails. quando der. Falo aqui no TI.", "categoria": "email", "prioridade": "baixa", "setor": "ti"}
+{"id": "treino-0601", "texto": "Pessoal, no setor RH a vpn nao fecha conexao, ninguem consegue trabalhar.", "categoria": "rede", "prioridade": "critica", "setor": "rh"}
+{"id": "treino-0602", "texto": "Pessoal, aqui no juridico nao consigo entrar no sistema, preciso resolver esta semana.", "categoria": "acesso", "prioridade": "media", "setor": "juridico"}
+{"id": "treino-0603", "texto": "Ola time de suporte, da para trabalhar mas e chato. sou do logistica, o mouse esta falhando.", "categoria": "hardware", "prioridade": "media", "setor": "logistica"}
+{"id": "treino-0604", "texto": "Bom dia, aqui no juridico minha senha expirou e nao consigo trocar, preciso resolver esta semana.", "categoria": "acesso", "prioridade": "media", "setor": "juridico"}
+{"id": "treino-0605", "texto": "Ola time de suporte, abrindo chamado: a vpn nao fecha conexao. no setor RH. parou tudo aqui.", "categoria": "rede", "prioridade": "critica", "setor": "rh"}
+{"id": "treino-0606", "texto": "Pessoal, no setor juridico o login diz usuario bloqueado, o sistema de vendas esta fora do ar.", "categoria": "acesso", "prioridade": "critica", "setor": "juridico"}
+{"id": "treino-0607", "texto": "Pessoal, abrindo chamado: o notebook nao liga. sou do financeiro. so estou avisando.", "categoria": "hardware", "prioridade": "baixa", "setor": "financeiro"}
+{"id": "treino-0608", "texto": "Ola time de suporte, no setor TI o mouse esta falhando, quando der.", "categoria": "hardware", "prioridade": "baixa", "setor": "ti"}
+{"id": "treino-0609", "texto": "Oi, sou do TI o wifi do andar nao conecta, sem pressa.", "categoria": "rede", "prioridade": "baixa", "setor": "ti"}
+{"id": "treino-0610", "texto": "Pessoal, abrindo chamado: minha caixa de entrada esta cheia. no setor TI. preciso resolver esta semana.", "categoria": "email", "prioridade": "media", "setor": "ti"}
+{"id": "treino-0611", "texto": "Oi, sou do logistica o mouse esta falhando, preciso resolver esta semana.", "categoria": "hardware", "prioridade": "media", "setor": "logistica"}
+{"id": "treino-0612", "texto": "Oi, a internet esta caindo toda hora. tenho uma entrega hoje. Falo sou do juridico.", "categoria": "rede", "prioridade": "alta", "setor": "juridico"}
+{"id": "treino-0613", "texto": "Ola time de suporte, aqui no juridico, os emails que envio voltam. tem cliente importante esperando agora.", "categoria": "email", "prioridade": "critica", "setor": "juridico"}
+{"id": "treino-0614", "texto": "Ola time de suporte, nao e urgente. sou do logistica, o programa de planilhas fecha sozinho.", "categoria": "software", "prioridade": "baixa", "setor": "logistica"}
+{"id": "treino-0615", "texto": "Pessoal, no setor comercial nao estou recebendo emails, quando der.", "categoria": "email", "prioridade": "baixa", "setor": "comercial"}
+{"id": "treino-0616", "texto": "Bom dia, aqui no RH os emails que envio voltam, so estou avisando.", "categoria": "email", "prioridade": "baixa", "setor": "rh"}
+{"id": "treino-0617", "texto": "Ola time de suporte, atrapalha um pouco. no setor financeiro, nao estou recebendo emails.", "categoria": "email", "prioridade": "media", "setor": "financeiro"}
+{"id": "treino-0618", "texto": "Pessoal, abrindo chamado: o teclado parou de responder. no setor TI. atrapalha um pouco.", "categoria": "hardware", "prioridade": "media", "setor": "ti"}
+{"id": "treino-0619", "texto": "Bom dia, nao estou recebendo emails. quando der. Falo no setor juridico.", "categoria": "email", "prioridade": "baixa", "setor": "juridico"}
+{"id": "treino-0620", "texto": "Oi, tenho uma entrega hoje. aqui no TI, minha caixa de entrada esta cheia.", "categoria": "email", "prioridade": "alta", "setor": "ti"}
+{"id": "treino-0621", "texto": "Pessoal, no setor comercial o login diz usuario bloqueado, nao e urgente.", "categoria": "acesso", "prioridade": "baixa", "setor": "comercial"}
+{"id": "treino-0622", "texto": "Ola time de suporte, abrindo chamado: o teclado parou de responder. sou do TI. tem cliente importante esperando agora.", "categoria": "hardware", "prioridade": "critica", "setor": "ti"}
+{"id": "treino-0623", "texto": "Pessoal, abrindo chamado: a vpn nao fecha conexao. no setor logistica. atrapalha um pouco.", "categoria": "rede", "prioridade": "media", "setor": "logistica"}
+{"id": "treino-0624", "texto": "Pessoal, no setor juridico, o calendario nao sincroniza. o sistema de vendas esta fora do ar.", "categoria": "email", "prioridade": "critica", "setor": "juridico"}
+{"id": "treino-0625", "texto": "Ola time de suporte, o sistema de notas fiscais da erro ao salvar. atrapalha um pouco. Falo aqui no TI.", "categoria": "software", "prioridade": "media", "setor": "ti"}
+{"id": "treino-0626", "texto": "Ola time de suporte, abrindo chamado: o login diz usuario bloqueado. sou do RH. preciso resolver ate hoje.", "categoria": "acesso", "prioridade": "alta", "setor": "rh"}
+{"id": "treino-0627", "texto": "Pessoal, abrindo chamado: os emails que envio voltam. aqui no logistica. so estou avisando.", "categoria": "email", "prioridade": "baixa", "setor": "logistica"}
+{"id": "treino-0628", "texto": "Ola time de suporte, sou do TI, nao encontro a impressora do andar. ninguem consegue trabalhar.", "categoria": "impressora", "prioridade": "critica", "setor": "ti"}
+{"id": "treino-0629", "texto": "Bom dia, abrindo chamado: o teclado parou de responder. aqui no RH. preciso resolver esta semana.", "categoria": "hardware", "prioridade": "media", "setor": "rh"}
+{"id": "treino-0630", "texto": "Ola time de suporte, o programa de planilhas fecha sozinho. ninguem consegue trabalhar. Falo aqui no juridico.", "categoria": "software", "prioridade": "critica", "setor": "juridico"}
+{"id": "treino-0631", "texto": "Ola time de suporte, sou do comercial a impressora esta sem comunicacao, tem cliente importante esperando agora.", "categoria": "impressora", "prioridade": "critica", "setor": "comercial"}
+{"id": "treino-0632", "texto": "Pessoal, preciso resolver esta semana. sou do financeiro, o login diz usuario bloqueado.", "categoria": "acesso", "prioridade": "media", "setor": "financeiro"}
+{"id": "treino-0633", "texto": "Pessoal, abrindo chamado: o teclado parou de responder. no setor comercial. parou tudo aqui.", "categoria": "hardware", "prioridade": "critica", "setor": "comercial"}
+{"id": "treino-0634", "texto": "Oi, no setor financeiro a impressora esta sem comunicacao, isso atrapalha muito meu trabalho.", "categoria": "impressora", "prioridade": "alta", "setor": "financeiro"}
+{"id": "treino-0635", "texto": "Pessoal, aqui no financeiro nao encontro a impressora do andar, tenho uma entrega hoje.", "categoria": "impressora", "prioridade": "alta", "setor": "financeiro"}
+{"id": "treino-0636", "texto": "Ola time de suporte, o notebook nao liga. tenho uma entrega hoje. Falo aqui no comercial.", "categoria": "hardware", "prioridade": "alta", "setor": "comercial"}
+{"id": "treino-0637", "texto": "Oi, abrindo chamado: o antivirus pede atualizacao e trava. aqui no financeiro. preciso resolver ate hoje.", "categoria": "software", "prioridade": "alta", "setor": "financeiro"}
+{"id": "treino-0638", "texto": "Pessoal, aqui no RH o wifi do andar nao conecta, parou tudo aqui.", "categoria": "rede", "prioridade": "critica", "setor": "rh"}
+{"id": "treino-0639", "texto": "Ola time de suporte, abrindo chamado: os emails que envio voltam. sou do comercial. tem cliente importante esperando agora.", "categoria": "email", "prioridade": "critica", "setor": "comercial"}
+{"id": "treino-0640", "texto": "Bom dia, sou do RH o programa de planilhas fecha sozinho, so estou avisando.", "categoria": "software", "prioridade": "baixa", "setor": "rh"}
+{"id": "treino-0641", "texto": "Oi, os emails que envio voltam. tem cliente importante esperando agora. Falo aqui no comercial.", "categoria": "email", "prioridade": "critica", "setor": "comercial"}
+{"id": "treino-0642", "texto": "Bom dia, abrindo chamado: o antivirus pede atualizacao e trava. sou do comercial. parou tudo aqui.", "categoria": "software", "prioridade": "critica", "setor": "comercial"}
+{"id": "treino-0643", "texto": "Oi, sou do TI, a impressora esta sem comunicacao. atrapalha um pouco.", "categoria": "impressora", "prioridade": "media", "setor": "ti"}
+{"id": "treino-0644", "texto": "Bom dia, aqui no RH, a impressora esta sem comunicacao. da para trabalhar mas e chato.", "categoria": "impressora", "prioridade": "media", "setor": "rh"}
+{"id": "treino-0645", "texto": "Pessoal, sem pressa. sou do logistica, o mouse esta falhando.", "categoria": "hardware", "prioridade": "baixa", "setor": "logistica"}
+{"id": "treino-0646", "texto": "Ola time de suporte, abrindo chamado: o sistema de notas fiscais da erro ao salvar. sou do comercial. tem cliente importante esperando agora.", "categoria": "software", "prioridade": "critica", "setor": "comercial"}
+{"id": "treino-0647", "texto": "Pessoal, sou do TI, minha caixa de entrada esta cheia. o sistema de vendas esta fora do ar.", "categoria": "email", "prioridade": "critica", "setor": "ti"}
+{"id": "treino-0648", "texto": "Bom dia, a impressao sai com listras. nao e urgente. Falo aqui no financeiro.", "categoria": "impressora", "prioridade": "baixa", "setor": "financeiro"}
+{"id": "treino-0649", "texto": "Bom dia, abrindo chamado: perdi o acesso a pasta compartilhada. sou do TI. preciso resolver esta semana.", "categoria": "acesso", "prioridade": "media", "setor": "ti"}
+{"id": "treino-0650", "texto": "Oi, aqui no financeiro, nao encontro a impressora do andar. tem cliente importante esperando agora.", "categoria": "impressora", "prioridade": "critica", "setor": "financeiro"}
+{"id": "treino-0651", "texto": "Oi, da para trabalhar mas e chato. no setor comercial, o monitor ficou preto.", "categoria": "hardware", "prioridade": "media", "setor": "comercial"}
+{"id": "treino-0652", "texto": "Oi, o wifi do andar nao conecta. atrapalha um pouco. Falo aqui no juridico.", "categoria": "rede", "prioridade": "media", "setor": "juridico"}
+{"id": "treino-0653", "texto": "Ola time de suporte, abrindo chamado: nao estou recebendo emails. no setor comercial. tem cliente importante esperando agora.", "categoria": "email", "prioridade": "critica", "setor": "comercial"}
+{"id": "treino-0654", "texto": "Bom dia, parou tudo aqui. no setor comercial, a vpn nao fecha conexao.", "categoria": "rede", "prioridade": "critica", "setor": "comercial"}
+{"id": "treino-0655", "texto": "Oi, no setor TI o calendario nao sincroniza, da para trabalhar mas e chato.", "categoria": "email", "prioridade": "media", "setor": "ti"}
+{"id": "treino-0656", "texto": "Bom dia, no setor comercial, os emails que envio voltam. tenho uma entrega hoje.", "categoria": "email", "prioridade": "alta", "setor": "comercial"}
+{"id": "treino-0657", "texto": "Ola time de suporte, isso atrapalha muito meu trabalho. sou do TI, o aplicativo de videoconferencia nao abre.", "categoria": "software", "prioridade": "alta", "setor": "ti"}
+{"id": "treino-0658", "texto": "Oi, aqui no TI nao consigo entrar no sistema, nao e urgente.", "categoria": "acesso", "prioridade": "baixa", "setor": "ti"}
+{"id": "treino-0659", "texto": "Bom dia, abrindo chamado: minha senha expirou e nao consigo trocar. aqui no logistica. atrapalha um pouco.", "categoria": "acesso", "prioridade": "media", "setor": "logistica"}
+{"id": "treino-0660", "texto": "Ola time de suporte, no setor RH a impressao sai com listras, quando der.", "categoria": "impressora", "prioridade": "baixa", "setor": "rh"}
+{"id": "treino-0661", "texto": "Ola time de suporte, abrindo chamado: a vpn nao fecha conexao. no setor comercial. quando der.", "categoria": "rede", "prioridade": "baixa", "setor": "comercial"}
+{"id": "treino-0662", "texto": "Oi, minha senha expirou e nao consigo trocar. tenho uma entrega hoje. Falo aqui no TI.", "categoria": "acesso", "prioridade": "alta", "setor": "ti"}
+{"id": "treino-0663", "texto": "Pessoal, abrindo chamado: minha senha expirou e nao consigo trocar. no setor RH. tenho uma entrega hoje.", "categoria": "acesso", "prioridade": "alta", "setor": "rh"}
+{"id": "treino-0664", "texto": "Pessoal, quando der. aqui no comercial, o programa de planilhas fecha sozinho.", "categoria": "software", "prioridade": "baixa", "setor": "comercial"}
+{"id": "treino-0665", "texto": "Oi, abrindo chamado: o antivirus pede atualizacao e trava. sou do comercial. atrapalha um pouco.", "categoria": "software", "prioridade": "media", "setor": "comercial"}
+{"id": "treino-0666", "texto": "Oi, no setor RH nao consigo entrar no sistema, preciso resolver esta semana.", "categoria": "acesso", "prioridade": "media", "setor": "rh"}
+{"id": "treino-0667", "texto": "Oi, no setor TI a impressora esta sem comunicacao, sem pressa.", "categoria": "impressora", "prioridade": "baixa", "setor": "ti"}
+{"id": "treino-0668", "texto": "Bom dia, minha caixa de entrada esta cheia. preciso resolver esta semana. Falo sou do RH.", "categoria": "email", "prioridade": "media", "setor": "rh"}
+{"id": "treino-0669", "texto": "Pessoal, abrindo chamado: o antivirus pede atualizacao e trava. no setor financeiro. isso atrapalha muito meu trabalho.", "categoria": "software", "prioridade": "alta", "setor": "financeiro"}
+{"id": "treino-0670", "texto": "Ola time de suporte, sou do RH, o wifi do andar nao conecta. nao e urgente.", "categoria": "rede", "prioridade": "baixa", "setor": "rh"}
+{"id": "treino-0671", "texto": "Ola time de suporte, sou do RH nao consigo entrar no sistema, preciso resolver ate hoje.", "categoria": "acesso", "prioridade": "alta", "setor": "rh"}
+{"id": "treino-0672", "texto": "Bom dia, minha senha expirou e nao consigo trocar. preciso resolver ate hoje. Falo sou do juridico.", "categoria": "acesso", "prioridade": "alta", "setor": "juridico"}
+{"id": "treino-0673", "texto": "Bom dia, o login diz usuario bloqueado. so estou avisando. Falo no setor comercial.", "categoria": "acesso", "prioridade": "baixa", "setor": "comercial"}
+{"id": "treino-0674", "texto": "Bom dia, o sistema de vendas esta fora do ar. aqui no comercial, o papel esta enroscando.", "categoria": "impressora", "prioridade": "critica", "setor": "comercial"}
+{"id": "treino-0675", "texto": "Pessoal, nao encontro a impressora do andar. so estou avisando. Falo aqui no comercial.", "categoria": "impressora", "prioridade": "baixa", "setor": "comercial"}
+{"id": "treino-0676", "texto": "Bom dia, preciso resolver ate hoje. aqui no juridico, o sistema de notas fiscais da erro ao salvar.", "categoria": "software", "prioridade": "alta", "setor": "juridico"}
+{"id": "treino-0677", "texto": "Pessoal, aqui no logistica a internet esta caindo toda hora, nao e urgente.", "categoria": "rede", "prioridade": "baixa", "setor": "logistica"}
+{"id": "treino-0678", "texto": "Bom dia, aqui no logistica a rede esta muito lenta, preciso resolver ate hoje.", "categoria": "rede", "prioridade": "alta", "setor": "logistica"}
+{"id": "treino-0679", "texto": "Ola time de suporte, aqui no RH, o aplicativo de videoconferencia nao abre. preciso resolver esta semana.", "categoria": "software", "prioridade": "media", "setor": "rh"}
+{"id": "treino-0680", "texto": "Ola time de suporte, sou do comercial nao estou recebendo emails, preciso resolver esta semana.", "categoria": "email", "prioridade": "media", "setor": "comercial"}
+{"id": "treino-0681", "texto": "Ola time de suporte, abrindo chamado: a impressao sai com listras. aqui no TI. preciso resolver ate hoje.", "categoria": "impressora", "prioridade": "alta", "setor": "ti"}
+{"id": "treino-0682", "texto": "Bom dia, nao encontro a impressora do andar. tenho uma entrega hoje. Falo no setor comercial.", "categoria": "impressora", "prioridade": "alta", "setor": "comercial"}
+{"id": "treino-0683", "texto": "Oi, o mouse esta falhando. nao e urgente. Falo sou do logistica.", "categoria": "hardware", "prioridade": "baixa", "setor": "logistica"}
+{"id": "treino-0684", "texto": "Oi, abrindo chamado: o calendario nao sincroniza. sou do financeiro. quando der.", "categoria": "email", "prioridade": "baixa", "setor": "financeiro"}
+{"id": "treino-0685", "texto": "Pessoal, o teclado parou de responder. preciso resolver ate hoje. Falo aqui no juridico.", "categoria": "hardware", "prioridade": "alta", "setor": "juridico"}
+{"id": "treino-0686", "texto": "Ola time de suporte, aqui no RH, o mouse esta falhando. preciso resolver ate hoje.", "categoria": "hardware", "prioridade": "alta", "setor": "rh"}
+{"id": "treino-0687", "texto": "Ola time de suporte, aqui no TI, o calendario nao sincroniza. nao e urgente.", "categoria": "email", "prioridade": "baixa", "setor": "ti"}
+{"id": "treino-0688", "texto": "Bom dia, minha caixa de entrada esta cheia. ninguem consegue trabalhar. Falo no setor juridico.", "categoria": "email", "prioridade": "critica", "setor": "juridico"}
+{"id": "treino-0689", "texto": "Pessoal, no setor TI o programa de planilhas fecha sozinho, o sistema de vendas esta fora do ar.", "categoria": "software", "prioridade": "critica", "setor": "ti"}
+{"id": "treino-0690", "texto": "Ola time de suporte, o sistema de vendas esta fora do ar. aqui no logistica, minha senha expirou e nao consigo trocar.", "categoria": "acesso", "prioridade": "critica", "setor": "logistica"}
+{"id": "treino-0691", "texto": "Ola time de suporte, abrindo chamado: perdi o acesso a pasta compartilhada. aqui no financeiro. parou tudo aqui.", "categoria": "acesso", "prioridade": "critica", "setor": "financeiro"}
+{"id": "treino-0692", "texto": "Ola time de suporte, no setor RH os emails que envio voltam, nao e urgente.", "categoria": "email", "prioridade": "baixa", "setor": "rh"}
+{"id": "treino-0693", "texto": "Oi, abrindo chamado: nao encontro a impressora do andar. aqui no RH. isso atrapalha muito meu trabalho.", "categoria": "impressora", "prioridade": "alta", "setor": "rh"}
+{"id": "treino-0694", "texto": "Oi, a impressao sai com listras. quando der. Falo no setor RH.", "categoria": "impressora", "prioridade": "baixa", "setor": "rh"}
+{"id": "treino-0695", "texto": "Pessoal, no setor TI, o login diz usuario bloqueado. atrapalha um pouco.", "categoria": "acesso", "prioridade": "media", "setor": "ti"}
+{"id": "treino-0696", "texto": "Ola time de suporte, aqui no RH o papel esta enroscando, tem cliente importante esperando agora.", "categoria": "impressora", "prioridade": "critica", "setor": "rh"}
+{"id": "treino-0697", "texto": "Bom dia, sou do logistica a rede esta muito lenta, tenho uma entrega hoje.", "categoria": "rede", "prioridade": "alta", "setor": "logistica"}
+{"id": "treino-0698", "texto": "Oi, abrindo chamado: o notebook nao liga. sou do TI. nao e urgente.", "categoria": "hardware", "prioridade": "baixa", "setor": "ti"}
+{"id": "treino-0699", "texto": "Pessoal, abrindo chamado: o programa de planilhas fecha sozinho. sou do comercial. preciso resolver esta semana.", "categoria": "software", "prioridade": "media", "setor": "comercial"}
+{"id": "treino-0700", "texto": "Oi, sou do logistica, a impressao sai com listras. preciso resolver esta semana.", "categoria": "impressora", "prioridade": "media", "setor": "logistica"}
+{"id": "treino-0701", "texto": "Pessoal, no setor TI nao estou recebendo emails, da para trabalhar mas e chato.", "categoria": "email", "prioridade": "media", "setor": "ti"}
+{"id": "treino-0702", "texto": "Pessoal, atrapalha um pouco. sou do TI, nao encontro a impressora do andar.", "categoria": "impressora", "prioridade": "media", "setor": "ti"}
+{"id": "treino-0703", "texto": "Bom dia, aqui no TI, os emails que envio voltam. isso atrapalha muito meu trabalho.", "categoria": "email", "prioridade": "alta", "setor": "ti"}
+{"id": "treino-0704", "texto": "Oi, preciso resolver esta semana. aqui no TI, o teclado parou de responder.", "categoria": "hardware", "prioridade": "media", "setor": "ti"}
+{"id": "treino-0705", "texto": "Pessoal, parou tudo aqui. sou do logistica, o aplicativo de videoconferencia nao abre.", "categoria": "software", "prioridade": "critica", "setor": "logistica"}
+{"id": "treino-0706", "texto": "Ola time de suporte, o antivirus pede atualizacao e trava. da para trabalhar mas e chato. Falo aqui no logistica.", "categoria": "software", "prioridade": "media", "setor": "logistica"}
+{"id": "treino-0707", "texto": "Pessoal, aqui no financeiro, o calendario nao sincroniza. sem pressa.", "categoria": "email", "prioridade": "baixa", "setor": "financeiro"}
+{"id": "treino-0708", "texto": "Bom dia, a rede esta muito lenta. sem pressa. Falo no setor TI.", "categoria": "rede", "prioridade": "baixa", "setor": "ti"}
+{"id": "treino-0709", "texto": "Ola time de suporte, perdi o acesso a pasta compartilhada. atrapalha um pouco. Falo sou do TI.", "categoria": "acesso", "prioridade": "media", "setor": "ti"}
+{"id": "treino-0710", "texto": "Bom dia, no setor juridico, o login diz usuario bloqueado. preciso resolver ate hoje.", "categoria": "acesso", "prioridade": "alta", "setor": "juridico"}
+{"id": "treino-0711", "texto": "Bom dia, abrindo chamado: a vpn nao fecha conexao. aqui no financeiro. da para trabalhar mas e chato.", "categoria": "rede", "prioridade": "media", "setor": "financeiro"}
+{"id": "treino-0712", "texto": "Pessoal, abrindo chamado: o sistema de notas fiscais da erro ao salvar. sou do juridico. so estou avisando.", "categoria": "software", "prioridade": "baixa", "setor": "juridico"}
+{"id": "treino-0713", "texto": "Bom dia, no setor TI o programa de planilhas fecha sozinho, nao e urgente.", "categoria": "software", "prioridade": "baixa", "setor": "ti"}
+{"id": "treino-0714", "texto": "Ola time de suporte, preciso resolver esta semana. aqui no juridico, nao encontro a impressora do andar.", "categoria": "impressora", "prioridade": "media", "setor": "juridico"}
+{"id": "treino-0715", "texto": "Ola time de suporte, no setor RH, nao encontro a impressora do andar. nao e urgente.", "categoria": "impressora", "prioridade": "baixa", "setor": "rh"}
+{"id": "treino-0716", "texto": "Ola time de suporte, abrindo chamado: os emails que envio voltam. no setor RH. quando der.", "categoria": "email", "prioridade": "baixa", "setor": "rh"}
+{"id": "treino-0717", "texto": "Bom dia, sou do RH o calendario nao sincroniza, quando der.", "categoria": "email", "prioridade": "baixa", "setor": "rh"}
+{"id": "treino-0718", "texto": "Pessoal, abrindo chamado: a rede esta muito lenta. no setor TI. isso atrapalha muito meu trabalho.", "categoria": "rede", "prioridade": "alta", "setor": "ti"}
+{"id": "treino-0719", "texto": "Bom dia, ninguem consegue trabalhar. aqui no logistica, o monitor ficou preto.", "categoria": "hardware", "prioridade": "critica", "setor": "logistica"}
+{"id": "treino-0720", "texto": "Bom dia, preciso resolver ate hoje. aqui no TI, a internet esta caindo toda hora.", "categoria": "rede", "prioridade": "alta", "setor": "ti"}
+{"id": "treino-0721", "texto": "Oi, a impressora esta sem comunicacao. isso atrapalha muito meu trabalho. Falo no setor RH.", "categoria": "impressora", "prioridade": "alta", "setor": "rh"}
+{"id": "treino-0722", "texto": "Pessoal, sou do comercial a rede esta muito lenta, nao e urgente.", "categoria": "rede", "prioridade": "baixa", "setor": "comercial"}
+{"id": "treino-0723", "texto": "Ola time de suporte, so estou avisando. aqui no juridico, o wifi do andar nao conecta.", "categoria": "rede", "prioridade": "baixa", "setor": "juridico"}
+{"id": "treino-0724", "texto": "Pessoal, aqui no financeiro perdi o acesso a pasta compartilhada, da para trabalhar mas e chato.", "categoria": "acesso", "prioridade": "media", "setor": "financeiro"}
+{"id": "treino-0725", "texto": "Oi, preciso resolver esta semana. sou do TI, a rede esta muito lenta.", "categoria": "rede", "prioridade": "media", "setor": "ti"}
+{"id": "treino-0726", "texto": "Bom dia, a vpn nao fecha conexao. quando der. Falo aqui no logistica.", "categoria": "rede", "prioridade": "baixa", "setor": "logistica"}
+{"id": "treino-0727", "texto": "Oi, no setor juridico minha caixa de entrada esta cheia, ninguem consegue trabalhar.", "categoria": "email", "prioridade": "critica", "setor": "juridico"}
+{"id": "treino-0728", "texto": "Ola time de suporte, aqui no TI, os emails que envio voltam. atrapalha um pouco.", "categoria": "email", "prioridade": "media", "setor": "ti"}
+{"id": "treino-0729", "texto": "Bom dia, ninguem consegue trabalhar. no setor RH, o monitor ficou preto.", "categoria": "hardware", "prioridade": "critica", "setor": "rh"}
+{"id": "treino-0730", "texto": "Pessoal, abrindo chamado: o monitor ficou preto. no setor logistica. atrapalha um pouco.", "categoria": "hardware", "prioridade": "media", "setor": "logistica"}
+{"id": "treino-0731", "texto": "Pessoal, abrindo chamado: o sistema de notas fiscais da erro ao salvar. aqui no RH. ninguem consegue trabalhar.", "categoria": "software", "prioridade": "critica", "setor": "rh"}
+{"id": "treino-0732", "texto": "Bom dia, sou do TI, o calendario nao sincroniza. da para trabalhar mas e chato.", "categoria": "email", "prioridade": "media", "setor": "ti"}
+{"id": "treino-0733", "texto": "Bom dia, o sistema de notas fiscais da erro ao salvar. ninguem consegue trabalhar. Falo sou do financeiro.", "categoria": "software", "prioridade": "critica", "setor": "financeiro"}
+{"id": "treino-0734", "texto": "Ola time de suporte, no setor comercial, o antivirus pede atualizacao e trava. o sistema de vendas esta fora do ar.", "categoria": "software", "prioridade": "critica", "setor": "comercial"}
+{"id": "treino-0735", "texto": "Oi, preciso resolver esta semana. aqui no TI, o notebook nao liga.", "categoria": "hardware", "prioridade": "media", "setor": "ti"}
+{"id": "treino-0736", "texto": "Oi, abrindo chamado: o login diz usuario bloqueado. sou do logistica. preciso resolver ate hoje.", "categoria": "acesso", "prioridade": "alta", "setor": "logistica"}
+{"id": "treino-0737", "texto": "Ola time de suporte, abrindo chamado: o programa de planilhas fecha sozinho. aqui no TI. tenho uma entrega hoje.", "categoria": "software", "prioridade": "alta", "setor": "ti"}
+{"id": "treino-0738", "texto": "Pessoal, no setor RH a rede esta muito lenta, atrapalha um pouco.", "categoria": "rede", "prioridade": "media", "setor": "rh"}
+{"id": "treino-0739", "texto": "Pessoal, aqui no comercial nao encontro a impressora do andar, tenho uma entrega hoje.", "categoria": "impressora", "prioridade": "alta", "setor": "comercial"}
+{"id": "treino-0740", "texto": "Oi, isso atrapalha muito meu trabalho. no setor financeiro, a impressora esta sem comunicacao.", "categoria": "impressora", "prioridade": "alta", "setor": "financeiro"}
+{"id": "treino-0741", "texto": "Oi, no setor RH nao encontro a impressora do andar, atrapalha um pouco.", "categoria": "impressora", "prioridade": "media", "setor": "rh"}
+{"id": "treino-0742", "texto": "Oi, sou do TI o notebook nao liga, quando der.", "categoria": "hardware", "prioridade": "baixa", "setor": "ti"}
+{"id": "treino-0743", "texto": "Bom dia, preciso resolver esta semana. no setor TI, o aplicativo de videoconferencia nao abre.", "categoria": "software", "prioridade": "media", "setor": "ti"}
+{"id": "treino-0744", "texto": "Ola time de suporte, no setor TI, minha senha expirou e nao consigo trocar. atrapalha um pouco.", "categoria": "acesso", "prioridade": "media", "setor": "ti"}
+{"id": "treino-0745", "texto": "Pessoal, aqui no RH, o aplicativo de videoconferencia nao abre. quando der.", "categoria": "software", "prioridade": "baixa", "setor": "rh"}
+{"id": "treino-0746", "texto": "Bom dia, o sistema de notas fiscais da erro ao salvar. tem cliente importante esperando agora. Falo sou do RH.", "categoria": "software", "prioridade": "critica", "setor": "rh"}
+{"id": "treino-0747", "texto": "Ola time de suporte, abrindo chamado: o monitor ficou preto. aqui no juridico. preciso resolver esta semana.", "categoria": "hardware", "prioridade": "media", "setor": "juridico"}
+{"id": "treino-0748", "texto": "Oi, no setor TI, nao consigo entrar no sistema. tenho uma entrega hoje.", "categoria": "acesso", "prioridade": "alta", "setor": "ti"}
+{"id": "treino-0749", "texto": "Oi, o monitor ficou preto. da para trabalhar mas e chato. Falo sou do comercial.", "categoria": "hardware", "prioridade": "media", "setor": "comercial"}
+{"id": "treino-0750", "texto": "Oi, o notebook nao liga. ninguem consegue trabalhar. Falo no setor juridico.", "categoria": "hardware", "prioridade": "critica", "setor": "juridico"}
+{"id": "treino-0751", "texto": "Ola time de suporte, aqui no comercial o calendario nao sincroniza, parou tudo aqui.", "categoria": "email", "prioridade": "critica", "setor": "comercial"}
+{"id": "treino-0752", "texto": "Pessoal, aqui no RH a internet esta caindo toda hora, tem cliente importante esperando agora.", "categoria": "rede", "prioridade": "critica", "setor": "rh"}
+{"id": "treino-0753", "texto": "Oi, no setor comercial o sistema de notas fiscais da erro ao salvar, preciso resolver ate hoje.", "categoria": "software", "prioridade": "alta", "setor": "comercial"}
+{"id": "treino-0754", "texto": "Pessoal, no setor RH o aplicativo de videoconferencia nao abre, nao e urgente.", "categoria": "software", "prioridade": "baixa", "setor": "rh"}
+{"id": "treino-0755", "texto": "Ola time de suporte, abrindo chamado: a impressora esta sem comunicacao. aqui no financeiro. tem cliente importante esperando agora.", "categoria": "impressora", "prioridade": "critica", "setor": "financeiro"}
+{"id": "treino-0756", "texto": "Ola time de suporte, da para trabalhar mas e chato. aqui no comercial, o aplicativo de videoconferencia nao abre.", "categoria": "software", "prioridade": "media", "setor": "comercial"}
+{"id": "treino-0757", "texto": "Pessoal, abrindo chamado: nao encontro a impressora do andar. sou do RH. nao e urgente.", "categoria": "impressora", "prioridade": "baixa", "setor": "rh"}
+{"id": "treino-0758", "texto": "Oi, aqui no juridico nao consigo entrar no sistema, nao e urgente.", "categoria": "acesso", "prioridade": "baixa", "setor": "juridico"}
+{"id": "treino-0759", "texto": "Bom dia, aqui no juridico, o aplicativo de videoconferencia nao abre. atrapalha um pouco.", "categoria": "software", "prioridade": "media", "setor": "juridico"}
+{"id": "treino-0760", "texto": "Oi, abrindo chamado: o sistema de notas fiscais da erro ao salvar. aqui no RH. o sistema de vendas esta fora do ar.", "categoria": "software", "prioridade": "critica", "setor": "rh"}
+{"id": "treino-0761", "texto": "Oi, sou do financeiro, o teclado parou de responder. atrapalha um pouco.", "categoria": "hardware", "prioridade": "media", "setor": "financeiro"}
+{"id": "treino-0762", "texto": "Oi, abrindo chamado: o teclado parou de responder. sou do financeiro. tenho uma entrega hoje.", "categoria": "hardware", "prioridade": "alta", "setor": "financeiro"}
+{"id": "treino-0763", "texto": "Oi, sou do financeiro o calendario nao sincroniza, isso atrapalha muito meu trabalho.", "categoria": "email", "prioridade": "alta", "setor": "financeiro"}
+{"id": "treino-0764", "texto": "Ola time de suporte, aqui no financeiro a impressora esta sem comunicacao, atrapalha um pouco.", "categoria": "impressora", "prioridade": "media", "setor": "financeiro"}
+{"id": "treino-0765", "texto": "Pessoal, o teclado parou de responder. tenho uma entrega hoje. Falo sou do financeiro.", "categoria": "hardware", "prioridade": "alta", "setor": "financeiro"}
+{"id": "treino-0766", "texto": "Oi, no setor TI o wifi do andar nao conecta, so estou avisando.", "categoria": "rede", "prioridade": "baixa", "setor": "ti"}
+{"id": "treino-0767", "texto": "Bom dia, abrindo chamado: a internet esta caindo toda hora. sou do juridico. tem cliente importante esperando agora.", "categoria": "rede", "prioridade": "critica", "setor": "juridico"}
+{"id": "treino-0768", "texto": "Bom dia, a rede esta muito lenta. ninguem consegue trabalhar. Falo aqui no TI.", "categoria": "rede", "prioridade": "critica", "setor": "ti"}
+{"id": "treino-0769", "texto": "Ola time de suporte, no setor juridico a rede esta muito lenta, nao e urgente.", "categoria": "rede", "prioridade": "baixa", "setor": "juridico"}
+{"id": "treino-0770", "texto": "Pessoal, no setor juridico nao estou recebendo emails, preciso resolver ate hoje.", "categoria": "email", "prioridade": "alta", "setor": "juridico"}
+{"id": "treino-0771", "texto": "Pessoal, no setor TI o sistema de notas fiscais da erro ao salvar, preciso resolver esta semana.", "categoria": "software", "prioridade": "media", "setor": "ti"}
+{"id": "treino-0772", "texto": "Bom dia, tenho uma entrega hoje. sou do comercial, o calendario nao sincroniza.", "categoria": "email", "prioridade": "alta", "setor": "comercial"}
+{"id": "treino-0773", "texto": "Oi, atrapalha um pouco. aqui no financeiro, a impressao sai com listras.", "categoria": "impressora", "prioridade": "media", "setor": "financeiro"}
+{"id": "treino-0774", "texto": "Oi, perdi o acesso a pasta compartilhada. da para trabalhar mas e chato. Falo no setor juridico.", "categoria": "acesso", "prioridade": "media", "setor": "juridico"}
+{"id": "treino-0775", "texto": "Ola time de suporte, minha caixa de entrada esta cheia. preciso resolver ate hoje. Falo no setor logistica.", "categoria": "email", "prioridade": "alta", "setor": "logistica"}
+{"id": "treino-0776", "texto": "Ola time de suporte, sou do financeiro, a rede esta muito lenta. quando der.", "categoria": "rede", "prioridade": "baixa", "setor": "financeiro"}
+{"id": "treino-0777", "texto": "Oi, aqui no TI, a rede esta muito lenta. sem pressa.", "categoria": "rede", "prioridade": "baixa", "setor": "ti"}
+{"id": "treino-0778", "texto": "Oi, isso atrapalha muito meu trabalho. sou do juridico, o notebook nao liga.", "categoria": "hardware", "prioridade": "alta", "setor": "juridico"}
+{"id": "treino-0779", "texto": "Ola time de suporte, aqui no logistica, o mouse esta falhando. parou tudo aqui.", "categoria": "hardware", "prioridade": "critica", "setor": "logistica"}
+{"id": "treino-0780", "texto": "Pessoal, aqui no financeiro o aplicativo de videoconferencia nao abre, tem cliente importante esperando agora.", "categoria": "software", "prioridade": "critica", "setor": "financeiro"}
+{"id": "treino-0781", "texto": "Ola time de suporte, no setor financeiro, o aplicativo de videoconferencia nao abre. isso atrapalha muito meu trabalho.", "categoria": "software", "prioridade": "alta", "setor": "financeiro"}
+{"id": "treino-0782", "texto": "Oi, a rede esta muito lenta. atrapalha um pouco. Falo sou do comercial.", "categoria": "rede", "prioridade": "media", "setor": "comercial"}
+{"id": "treino-0783", "texto": "Bom dia, sou do comercial minha senha expirou e nao consigo trocar, isso atrapalha muito meu trabalho.", "categoria": "acesso", "prioridade": "alta", "setor": "comercial"}
+{"id": "treino-0784", "texto": "Pessoal, sou do RH, a impressao sai com listras. sem pressa.", "categoria": "impressora", "prioridade": "baixa", "setor": "rh"}
+{"id": "treino-0785", "texto": "Pessoal, minha senha expirou e nao consigo trocar. atrapalha um pouco. Falo aqui no RH.", "categoria": "acesso", "prioridade": "media", "setor": "rh"}
+{"id": "treino-0786", "texto": "Pessoal, o wifi do andar nao conecta. tem cliente importante esperando agora. Falo no setor comercial.", "categoria": "rede", "prioridade": "critica", "setor": "comercial"}
+{"id": "treino-0787", "texto": "Bom dia, no setor logistica, minha senha expirou e nao consigo trocar. atrapalha um pouco.", "categoria": "acesso", "prioridade": "media", "setor": "logistica"}
+{"id": "treino-0788", "texto": "Bom dia, nao encontro a impressora do andar. isso atrapalha muito meu trabalho. Falo aqui no juridico.", "categoria": "impressora", "prioridade": "alta", "setor": "juridico"}
+{"id": "treino-0789", "texto": "Ola time de suporte, abrindo chamado: o notebook nao liga. no setor juridico. o sistema de vendas esta fora do ar.", "categoria": "hardware", "prioridade": "critica", "setor": "juridico"}
+{"id": "treino-0790", "texto": "Oi, aqui no RH, minha senha expirou e nao consigo trocar. preciso resolver ate hoje.", "categoria": "acesso", "prioridade": "alta", "setor": "rh"}
+{"id": "treino-0791", "texto": "Oi, o papel esta enroscando. tem cliente importante esperando agora. Falo no setor TI.", "categoria": "impressora", "prioridade": "critica", "setor": "ti"}
+{"id": "treino-0792", "texto": "Ola time de suporte, sou do logistica, a impressao sai com listras. da para trabalhar mas e chato.", "categoria": "impressora", "prioridade": "media", "setor": "logistica"}
+{"id": "treino-0793", "texto": "Bom dia, abrindo chamado: o login diz usuario bloqueado. aqui no logistica. ninguem consegue trabalhar.", "categoria": "acesso", "prioridade": "critica", "setor": "logistica"}
+{"id": "treino-0794", "texto": "Bom dia, sou do financeiro os emails que envio voltam, ninguem consegue trabalhar.", "categoria": "email", "prioridade": "critica", "setor": "financeiro"}
+{"id": "treino-0795", "texto": "Oi, no setor comercial, minha caixa de entrada esta cheia. quando der.", "categoria": "email", "prioridade": "baixa", "setor": "comercial"}
+{"id": "treino-0796", "texto": "Bom dia, nao e urgente. aqui no juridico, a impressora esta sem comunicacao.", "categoria": "impressora", "prioridade": "baixa", "setor": "juridico"}
+{"id": "treino-0797", "texto": "Bom dia, sem pressa. sou do logistica, o aplicativo de videoconferencia nao abre.", "categoria": "software", "prioridade": "baixa", "setor": "logistica"}
+{"id": "treino-0798", "texto": "Pessoal, aqui no TI, o monitor ficou preto. preciso resolver ate hoje.", "categoria": "hardware", "prioridade": "alta", "setor": "ti"}
+{"id": "treino-0799", "texto": "Oi, abrindo chamado: minha caixa de entrada esta cheia. no setor juridico. quando der.", "categoria": "email", "prioridade": "baixa", "setor": "juridico"}
+{"id": "treino-0800", "texto": "Ola time de suporte, quando der. no setor comercial, o programa de planilhas fecha sozinho.", "categoria": "software", "prioridade": "baixa", "setor": "comercial"}
+{"id": "treino-0801", "texto": "Bom dia, no setor financeiro nao estou recebendo emails, isso atrapalha muito meu trabalho.", "categoria": "email", "prioridade": "alta", "setor": "financeiro"}
+{"id": "treino-0802", "texto": "Pessoal, tem cliente importante esperando agora. sou do juridico, o teclado parou de responder.", "categoria": "hardware", "prioridade": "critica", "setor": "juridico"}
+{"id": "treino-0803", "texto": "Pessoal, os emails que envio voltam. parou tudo aqui. Falo no setor juridico.", "categoria": "email", "prioridade": "critica", "setor": "juridico"}
+{"id": "treino-0804", "texto": "Ola time de suporte, tenho uma entrega hoje. no setor financeiro, o papel esta enroscando.", "categoria": "impressora", "prioridade": "alta", "setor": "financeiro"}
+{"id": "treino-0805", "texto": "Bom dia, no setor logistica os emails que envio voltam, tenho uma entrega hoje.", "categoria": "email", "prioridade": "alta", "setor": "logistica"}
+{"id": "treino-0806", "texto": "Bom dia, atrapalha um pouco. sou do TI, o wifi do andar nao conecta.", "categoria": "rede", "prioridade": "media", "setor": "ti"}
+{"id": "treino-0807", "texto": "Bom dia, sou do RH perdi o acesso a pasta compartilhada, preciso resolver ate hoje.", "categoria": "acesso", "prioridade": "alta", "setor": "rh"}
+{"id": "treino-0808", "texto": "Ola time de suporte, sou do TI a internet esta caindo toda hora, da para trabalhar mas e chato.", "categoria": "rede", "prioridade": "media", "setor": "ti"}
+{"id": "treino-0809", "texto": "Oi, abrindo chamado: os emails que envio voltam. sou do financeiro. ninguem consegue trabalhar.", "categoria": "email", "prioridade": "critica", "setor": "financeiro"}
+{"id": "treino-0810", "texto": "Bom dia, sou do financeiro, a internet esta caindo toda hora. o sistema de vendas esta fora do ar.", "categoria": "rede", "prioridade": "critica", "setor": "financeiro"}
+{"id": "treino-0811", "texto": "Oi, o calendario nao sincroniza. ninguem consegue trabalhar. Falo no setor comercial.", "categoria": "email", "prioridade": "critica", "setor": "comercial"}
+{"id": "treino-0812", "texto": "Ola time de suporte, sou do TI a impressao sai com listras, preciso resolver esta semana.", "categoria": "impressora", "prioridade": "media", "setor": "ti"}
+{"id": "treino-0813", "texto": "Bom dia, quando der. no setor juridico, o mouse esta falhando.", "categoria": "hardware", "prioridade": "baixa", "setor": "juridico"}
+{"id": "treino-0814", "texto": "Oi, abrindo chamado: o login diz usuario bloqueado. aqui no financeiro. tem cliente importante esperando agora.", "categoria": "acesso", "prioridade": "critica", "setor": "financeiro"}
+{"id": "treino-0815", "texto": "Ola time de suporte, aqui no juridico, nao estou recebendo emails. preciso resolver esta semana.", "categoria": "email", "prioridade": "media", "setor": "juridico"}
+{"id": "treino-0816", "texto": "Pessoal, isso atrapalha muito meu trabalho. aqui no juridico, o antivirus pede atualizacao e trava.", "categoria": "software", "prioridade": "alta", "setor": "juridico"}
+{"id": "treino-0817", "texto": "Oi, abrindo chamado: nao encontro a impressora do andar. no setor RH. parou tudo aqui.", "categoria": "impressora", "prioridade": "critica", "setor": "rh"}
+{"id": "treino-0818", "texto": "Bom dia, tenho uma entrega hoje. no setor TI, o programa de planilhas fecha sozinho.", "categoria": "software", "prioridade": "alta", "setor": "ti"}
+{"id": "treino-0819", "texto": "Bom dia, no setor TI, o login diz usuario bloqueado. preciso resolver ate hoje.", "categoria": "acesso", "prioridade": "alta", "setor": "ti"}
+{"id": "treino-0820", "texto": "Ola time de suporte, o antivirus pede atualizacao e trava. tem cliente importante esperando agora. Falo aqui no TI.", "categoria": "software", "prioridade": "critica", "setor": "ti"}
+{"id": "treino-0821", "texto": "Bom dia, abrindo chamado: o papel esta enroscando. no setor TI. ninguem consegue trabalhar.", "categoria": "impressora", "prioridade": "critica", "setor": "ti"}
+{"id": "treino-0822", "texto": "Bom dia, perdi o acesso a pasta compartilhada. ninguem consegue trabalhar. Falo no setor TI.", "categoria": "acesso", "prioridade": "critica", "setor": "ti"}
+{"id": "treino-0823", "texto": "Pessoal, aqui no TI, o programa de planilhas fecha sozinho. tem cliente importante esperando agora.", "categoria": "software", "prioridade": "critica", "setor": "ti"}
+{"id": "treino-0824", "texto": "Oi, tem cliente importante esperando agora. no setor RH, o papel esta enroscando.", "categoria": "impressora", "prioridade": "critica", "setor": "rh"}
+{"id": "treino-0825", "texto": "Ola time de suporte, no setor juridico, o monitor ficou preto. so estou avisando.", "categoria": "hardware", "prioridade": "baixa", "setor": "juridico"}
+{"id": "treino-0826", "texto": "Pessoal, aqui no financeiro a vpn nao fecha conexao, tenho uma entrega hoje.", "categoria": "rede", "prioridade": "alta", "setor": "financeiro"}
+{"id": "treino-0827", "texto": "Ola time de suporte, perdi o acesso a pasta compartilhada. o sistema de vendas esta fora do ar. Falo no setor financeiro.", "categoria": "acesso", "prioridade": "critica", "setor": "financeiro"}
+{"id": "treino-0828", "texto": "Pessoal, aqui no TI, o antivirus pede atualizacao e trava. quando der.", "categoria": "software", "prioridade": "baixa", "setor": "ti"}
+{"id": "treino-0829", "texto": "Bom dia, o notebook nao liga. preciso resolver esta semana. Falo aqui no RH.", "categoria": "hardware", "prioridade": "media", "setor": "rh"}
+{"id": "treino-0830", "texto": "Ola time de suporte, isso atrapalha muito meu trabalho. aqui no TI, o mouse esta falhando.", "categoria": "hardware", "prioridade": "alta", "setor": "ti"}
+{"id": "treino-0831", "texto": "Oi, tem cliente importante esperando agora. no setor RH, nao estou recebendo emails.", "categoria": "email", "prioridade": "critica", "setor": "rh"}
+{"id": "treino-0832", "texto": "Bom dia, tem cliente importante esperando agora. no setor RH, os emails que envio voltam.", "categoria": "email", "prioridade": "critica", "setor": "rh"}
+{"id": "treino-0833", "texto": "Oi, abrindo chamado: o programa de planilhas fecha sozinho. aqui no RH. da para trabalhar mas e chato.", "categoria": "software", "prioridade": "media", "setor": "rh"}
+{"id": "treino-0834", "texto": "Ola time de suporte, abrindo chamado: o monitor ficou preto. no setor comercial. da para trabalhar mas e chato.", "categoria": "hardware", "prioridade": "media", "setor": "comercial"}
+{"id": "treino-0835", "texto": "Pessoal, aqui no comercial, o monitor ficou preto. atrapalha um pouco.", "categoria": "hardware", "prioridade": "media", "setor": "comercial"}
+{"id": "treino-0836", "texto": "Pessoal, abrindo chamado: o wifi do andar nao conecta. aqui no financeiro. atrapalha um pouco.", "categoria": "rede", "prioridade": "media", "setor": "financeiro"}
+{"id": "treino-0837", "texto": "Ola time de suporte, abrindo chamado: a impressora esta sem comunicacao. no setor TI. quando der.", "categoria": "impressora", "prioridade": "baixa", "setor": "ti"}
+{"id": "treino-0838", "texto": "Pessoal, abrindo chamado: os emails que envio voltam. sou do logistica. ninguem consegue trabalhar.", "categoria": "email", "prioridade": "critica", "setor": "logistica"}
+{"id": "treino-0839", "texto": "Oi, abrindo chamado: o teclado parou de responder. no setor financeiro. preciso resolver ate hoje.", "categoria": "hardware", "prioridade": "alta", "setor": "financeiro"}
+{"id": "treino-0840", "texto": "Pessoal, no setor logistica, o teclado parou de responder. preciso resolver esta semana.", "categoria": "hardware", "prioridade": "media", "setor": "logistica"}
+{"id": "treino-0841", "texto": "Ola time de suporte, no setor juridico, nao estou recebendo emails. preciso resolver ate hoje.", "categoria": "email", "prioridade": "alta", "setor": "juridico"}
+{"id": "treino-0842", "texto": "Oi, sou do TI, nao consigo entrar no sistema. da para trabalhar mas e chato.", "categoria": "acesso", "prioridade": "media", "setor": "ti"}
+{"id": "treino-0843", "texto": "Bom dia, abrindo chamado: a vpn nao fecha conexao. no setor RH. tem cliente importante esperando agora.", "categoria": "rede", "prioridade": "critica", "setor": "rh"}
+{"id": "treino-0844", "texto": "Bom dia, o wifi do andar nao conecta. preciso resolver ate hoje. Falo no setor logistica.", "categoria": "rede", "prioridade": "alta", "setor": "logistica"}
+{"id": "treino-0845", "texto": "Oi, a impressora esta sem comunicacao. parou tudo aqui. Falo sou do RH.", "categoria": "impressora", "prioridade": "critica", "setor": "rh"}
+{"id": "treino-0846", "texto": "Oi, da para trabalhar mas e chato. aqui no financeiro, o calendario nao sincroniza.", "categoria": "email", "prioridade": "media", "setor": "financeiro"}
+{"id": "treino-0847", "texto": "Pessoal, a rede esta muito lenta. parou tudo aqui. Falo sou do comercial.", "categoria": "rede", "prioridade": "critica", "setor": "comercial"}
+{"id": "treino-0848", "texto": "Ola time de suporte, sou do comercial, minha caixa de entrada esta cheia. preciso resolver esta semana.", "categoria": "email", "prioridade": "media", "setor": "comercial"}
+{"id": "treino-0849", "texto": "Bom dia, minha senha expirou e nao consigo trocar. isso atrapalha muito meu trabalho. Falo aqui no TI.", "categoria": "acesso", "prioridade": "alta", "setor": "ti"}
+{"id": "treino-0850", "texto": "Pessoal, a impressora esta sem comunicacao. da para trabalhar mas e chato. Falo no setor RH.", "categoria": "impressora", "prioridade": "media", "setor": "rh"}
+{"id": "treino-0851", "texto": "Bom dia, aqui no TI, o calendario nao sincroniza. preciso resolver esta semana.", "categoria": "email", "prioridade": "media", "setor": "ti"}
+{"id": "treino-0852", "texto": "Oi, a impressao sai com listras. ninguem consegue trabalhar. Falo aqui no juridico.", "categoria": "impressora", "prioridade": "critica", "setor": "juridico"}
+{"id": "treino-0853", "texto": "Oi, da para trabalhar mas e chato. sou do TI, os emails que envio voltam.", "categoria": "email", "prioridade": "media", "setor": "ti"}
+{"id": "treino-0854", "texto": "Oi, atrapalha um pouco. aqui no comercial, nao estou recebendo emails.", "categoria": "email", "prioridade": "media", "setor": "comercial"}
+{"id": "treino-0855", "texto": "Ola time de suporte, o teclado parou de responder. da para trabalhar mas e chato. Falo sou do logistica.", "categoria": "hardware", "prioridade": "media", "setor": "logistica"}
+{"id": "treino-0856", "texto": "Ola time de suporte, aqui no financeiro minha senha expirou e nao consigo trocar, atrapalha um pouco.", "categoria": "acesso", "prioridade": "media", "setor": "financeiro"}
+{"id": "treino-0857", "texto": "Ola time de suporte, abrindo chamado: minha senha expirou e nao consigo trocar. no setor logistica. tem cliente importante esperando agora.", "categoria": "acesso", "prioridade": "critica", "setor": "logistica"}
+{"id": "treino-0858", "texto": "Pessoal, o login diz usuario bloqueado. preciso resolver esta semana. Falo no setor logistica.", "categoria": "acesso", "prioridade": "media", "setor": "logistica"}
+{"id": "treino-0859", "texto": "Pessoal, minha senha expirou e nao consigo trocar. tem cliente importante esperando agora. Falo sou do financeiro.", "categoria": "acesso", "prioridade": "critica", "setor": "financeiro"}
+{"id": "treino-0860", "texto": "Ola time de suporte, no setor TI, o calendario nao sincroniza. atrapalha um pouco.", "categoria": "email", "prioridade": "media", "setor": "ti"}
+{"id": "treino-0861", "texto": "Oi, no setor comercial minha senha expirou e nao consigo trocar, so estou avisando.", "categoria": "acesso", "prioridade": "baixa", "setor": "comercial"}
+{"id": "treino-0862", "texto": "Oi, aqui no TI, os emails que envio voltam. o sistema de vendas esta fora do ar.", "categoria": "email", "prioridade": "critica", "setor": "ti"}
+{"id": "treino-0863", "texto": "Pessoal, o antivirus pede atualizacao e trava. da para trabalhar mas e chato. Falo no setor logistica.", "categoria": "software", "prioridade": "media", "setor": "logistica"}
+{"id": "treino-0864", "texto": "Ola time de suporte, no setor financeiro o calendario nao sincroniza, tenho uma entrega hoje.", "categoria": "email", "prioridade": "alta", "setor": "financeiro"}
+{"id": "treino-0865", "texto": "Ola time de suporte, o aplicativo de videoconferencia nao abre. preciso resolver esta semana. Falo no setor financeiro.", "categoria": "software", "prioridade": "media", "setor": "financeiro"}
+{"id": "treino-0866", "texto": "Pessoal, abrindo chamado: perdi o acesso a pasta compartilhada. aqui no TI. nao e urgente.", "categoria": "acesso", "prioridade": "baixa", "setor": "ti"}
+{"id": "treino-0867", "texto": "Bom dia, ninguem consegue trabalhar. no setor juridico, nao estou recebendo emails.", "categoria": "email", "prioridade": "critica", "setor": "juridico"}
+{"id": "treino-0868", "texto": "Pessoal, tem cliente importante esperando agora. aqui no comercial, o sistema de notas fiscais da erro ao salvar.", "categoria": "software", "prioridade": "critica", "setor": "comercial"}
+{"id": "treino-0869", "texto": "Oi, aqui no RH o login diz usuario bloqueado, sem pressa.", "categoria": "acesso", "prioridade": "baixa", "setor": "rh"}
+{"id": "treino-0870", "texto": "Oi, aqui no TI o wifi do andar nao conecta, nao e urgente.", "categoria": "rede", "prioridade": "baixa", "setor": "ti"}
+{"id": "treino-0871", "texto": "Ola time de suporte, aqui no financeiro os emails que envio voltam, da para trabalhar mas e chato.", "categoria": "email", "prioridade": "media", "setor": "financeiro"}
+{"id": "treino-0872", "texto": "Oi, quando der. aqui no logistica, a impressao sai com listras.", "categoria": "impressora", "prioridade": "baixa", "setor": "logistica"}
+{"id": "treino-0873", "texto": "Pessoal, aqui no financeiro a internet esta caindo toda hora, o sistema de vendas esta fora do ar.", "categoria": "rede", "prioridade": "critica", "setor": "financeiro"}
+{"id": "treino-0874", "texto": "Pessoal, sou do TI, o sistema de notas fiscais da erro ao salvar. o sistema de vendas esta fora do ar.", "categoria": "software", "prioridade": "critica", "setor": "ti"}
+{"id": "treino-0875", "texto": "Oi, abrindo chamado: o mouse esta falhando. sou do RH. parou tudo aqui.", "categoria": "hardware", "prioridade": "critica", "setor": "rh"}
+{"id": "treino-0876", "texto": "Pessoal, o aplicativo de videoconferencia nao abre. nao e urgente. Falo sou do juridico.", "categoria": "software", "prioridade": "baixa", "setor": "juridico"}
+{"id": "treino-0877", "texto": "Oi, no setor RH o papel esta enroscando, isso atrapalha muito meu trabalho.", "categoria": "impressora", "prioridade": "alta", "setor": "rh"}
+{"id": "treino-0878", "texto": "Pessoal, o papel esta enroscando. quando der. Falo no setor TI.", "categoria": "impressora", "prioridade": "baixa", "setor": "ti"}
+{"id": "treino-0879", "texto": "Ola time de suporte, sou do comercial, a impressora esta sem comunicacao. sem pressa.", "categoria": "impressora", "prioridade": "baixa", "setor": "comercial"}
+{"id": "treino-0880", "texto": "Bom dia, aqui no financeiro minha caixa de entrada esta cheia, preciso resolver esta semana.", "categoria": "email", "prioridade": "media", "setor": "financeiro"}
+{"id": "treino-0881", "texto": "Bom dia, so estou avisando. no setor juridico, a rede esta muito lenta.", "categoria": "rede", "prioridade": "baixa", "setor": "juridico"}
+{"id": "treino-0882", "texto": "Oi, a impressora esta sem comunicacao. nao e urgente. Falo no setor juridico.", "categoria": "impressora", "prioridade": "baixa", "setor": "juridico"}
+{"id": "treino-0883", "texto": "Ola time de suporte, preciso resolver esta semana. sou do financeiro, o antivirus pede atualizacao e trava.", "categoria": "software", "prioridade": "media", "setor": "financeiro"}
+{"id": "treino-0884", "texto": "Ola time de suporte, abrindo chamado: o antivirus pede atualizacao e trava. sou do TI. isso atrapalha muito meu trabalho.", "categoria": "software", "prioridade": "alta", "setor": "ti"}
+{"id": "treino-0885", "texto": "Pessoal, sou do TI, a impressora esta sem comunicacao. preciso resolver esta semana.", "categoria": "impressora", "prioridade": "media", "setor": "ti"}
+{"id": "treino-0886", "texto": "Ola time de suporte, o aplicativo de videoconferencia nao abre. preciso resolver esta semana. Falo no setor TI.", "categoria": "software", "prioridade": "media", "setor": "ti"}
+{"id": "treino-0887", "texto": "Ola time de suporte, a internet esta caindo toda hora. quando der. Falo sou do juridico.", "categoria": "rede", "prioridade": "baixa", "setor": "juridico"}
+{"id": "treino-0888", "texto": "Ola time de suporte, ninguem consegue trabalhar. aqui no financeiro, minha senha expirou e nao consigo trocar.", "categoria": "acesso", "prioridade": "critica", "setor": "financeiro"}
+{"id": "treino-0889", "texto": "Bom dia, nao encontro a impressora do andar. o sistema de vendas esta fora do ar. Falo no setor comercial.", "categoria": "impressora", "prioridade": "critica", "setor": "comercial"}
+{"id": "treino-0890", "texto": "Pessoal, no setor RH nao consigo entrar no sistema, so estou avisando.", "categoria": "acesso", "prioridade": "baixa", "setor": "rh"}
+{"id": "treino-0891", "texto": "Oi, no setor TI minha caixa de entrada esta cheia, isso atrapalha muito meu trabalho.", "categoria": "email", "prioridade": "alta", "setor": "ti"}
+{"id": "treino-0892", "texto": "Bom dia, sou do logistica, minha caixa de entrada esta cheia. preciso resolver esta semana.", "categoria": "email", "prioridade": "media", "setor": "logistica"}
+{"id": "treino-0893", "texto": "Oi, abrindo chamado: o antivirus pede atualizacao e trava. no setor financeiro. so estou avisando.", "categoria": "software", "prioridade": "baixa", "setor": "financeiro"}
+{"id": "treino-0894", "texto": "Ola time de suporte, atrapalha um pouco. aqui no juridico, a impressao sai com listras.", "categoria": "impressora", "prioridade": "media", "setor": "juridico"}
+{"id": "treino-0895", "texto": "Ola time de suporte, aqui no juridico, perdi o acesso a pasta compartilhada. nao e urgente.", "categoria": "acesso", "prioridade": "baixa", "setor": "juridico"}
+{"id": "treino-0896", "texto": "Pessoal, abrindo chamado: os emails que envio voltam. aqui no financeiro. so estou avisando.", "categoria": "email", "prioridade": "baixa", "setor": "financeiro"}
+{"id": "treino-0897", "texto": "Oi, sou do TI, a internet esta caindo toda hora. isso atrapalha muito meu trabalho.", "categoria": "rede", "prioridade": "alta", "setor": "ti"}
+{"id": "treino-0898", "texto": "Bom dia, abrindo chamado: o login diz usuario bloqueado. sou do TI. quando der.", "categoria": "acesso", "prioridade": "baixa", "setor": "ti"}
+{"id": "treino-0899", "texto": "Ola time de suporte, tem cliente importante esperando agora. sou do TI, nao encontro a impressora do andar.", "categoria": "impressora", "prioridade": "critica", "setor": "ti"}

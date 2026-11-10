@@ -1,0 +1,100 @@
+{"id": "validacao-0000", "texto": "Oi, no setor financeiro o login diz usuario bloqueado, nao e urgente.", "categoria": "acesso", "prioridade": "baixa", "setor": "financeiro"}
+{"id": "validacao-0001", "texto": "Oi, sou do juridico, o calendario nao sincroniza. da para trabalhar mas e chato.", "categoria": "email", "prioridade": "media", "setor": "juridico"}
+{"id": "validacao-0002", "texto": "Pessoal, abrindo chamado: nao estou recebendo emails. aqui no juridico. tenho uma entrega hoje.", "categoria": "email", "prioridade": "alta", "setor": "juridico"}
+{"id": "validacao-0003", "texto": "Oi, abrindo chamado: o sistema de notas fiscais da erro ao salvar. no setor TI. preciso resolver ate hoje.", "categoria": "software", "prioridade": "alta", "setor": "ti"}
+{"id": "validacao-0004", "texto": "Oi, aqui no RH a vpn nao fecha conexao, quando der.", "categoria": "rede", "prioridade": "baixa", "setor": "rh"}
+{"id": "validacao-0005", "texto": "Pessoal, o sistema de vendas esta fora do ar. no setor logistica, o antivirus pede atualizacao e trava.", "categoria": "software", "prioridade": "critica", "setor": "logistica"}
+{"id": "validacao-0006", "texto": "Oi, abrindo chamado: o antivirus pede atualizacao e trava. sou do TI. atrapalha um pouco.", "categoria": "software", "prioridade": "media", "setor": "ti"}
+{"id": "validacao-0007", "texto": "Ola time de suporte, abrindo chamado: o calendario nao sincroniza. sou do logistica. tenho uma entrega hoje.", "categoria": "email", "prioridade": "alta", "setor": "logistica"}
+{"id": "validacao-0008", "texto": "Pessoal, a impressao sai com listras. atrapalha um pouco. Falo sou do comercial.", "categoria": "impressora", "prioridade": "media", "setor": "comercial"}
+{"id": "validacao-0009", "texto": "Ola time de suporte, a impressao sai com listras. parou tudo aqui. Falo no setor comercial.", "categoria": "impressora", "prioridade": "critica", "setor": "comercial"}
+{"id": "validacao-0010", "texto": "Bom dia, no setor RH, o notebook nao liga. nao e urgente.", "categoria": "hardware", "prioridade": "baixa", "setor": "rh"}
+{"id": "validacao-0011", "texto": "Oi, sou do logistica, minha caixa de entrada esta cheia. preciso resolver esta semana.", "categoria": "email", "prioridade": "media", "setor": "logistica"}
+{"id": "validacao-0012", "texto": "Bom dia, sou do logistica, o login diz usuario bloqueado. ninguem consegue trabalhar.", "categoria": "acesso", "prioridade": "critica", "setor": "logistica"}
+{"id": "validacao-0013", "texto": "Bom dia, aqui no financeiro, a internet esta caindo toda hora. sem pressa.", "categoria": "rede", "prioridade": "baixa", "setor": "financeiro"}
+{"id": "validacao-0014", "texto": "Oi, o notebook nao liga. tenho uma entrega hoje. Falo no setor RH.", "categoria": "hardware", "prioridade": "alta", "setor": "rh"}
+{"id": "validacao-0015", "texto": "Bom dia, os emails que envio voltam. sem pressa. Falo aqui no RH.", "categoria": "email", "prioridade": "baixa", "setor": "rh"}
+{"id": "validacao-0016", "texto": "Pessoal, sou do TI, o notebook nao liga. tenho uma entrega hoje.", "categoria": "hardware", "prioridade": "alta", "setor": "ti"}
+{"id": "validacao-0017", "texto": "Bom dia, o antivirus pede atualizacao e trava. preciso resolver esta semana. Falo no setor TI.", "categoria": "software", "prioridade": "media", "setor": "ti"}
+{"id": "validacao-0018", "texto": "Ola time de suporte, ninguem consegue trabalhar. sou do RH, o login diz usuario bloqueado.", "categoria": "acesso", "prioridade": "critica", "setor": "rh"}
+{"id": "validacao-0019", "texto": "Ola time de suporte, isso atrapalha muito meu trabalho. no setor comercial, o notebook nao liga.", "categoria": "hardware", "prioridade": "alta", "setor": "comercial"}
+{"id": "validacao-0020", "texto": "Pessoal, aqui no logistica, minha caixa de entrada esta cheia. preciso resolver esta semana.", "categoria": "email", "prioridade": "media", "setor": "logistica"}
+{"id": "validacao-0021", "texto": "Bom dia, o wifi do andar nao conecta. so estou avisando. Falo aqui no TI.", "categoria": "rede", "prioridade": "baixa", "setor": "ti"}
+{"id": "validacao-0022", "texto": "Oi, tenho uma entrega hoje. no setor financeiro, o login diz usuario bloqueado.", "categoria": "acesso", "prioridade": "alta", "setor": "financeiro"}
+{"id": "validacao-0023", "texto": "Bom dia, tem cliente importante esperando agora. aqui no comercial, a impressora esta sem comunicacao.", "categoria": "impressora", "prioridade": "critica", "setor": "comercial"}
+{"id": "validacao-0024", "texto": "Bom dia, preciso resolver esta semana. aqui no financeiro, o programa de planilhas fecha sozinho.", "categoria": "software", "prioridade": "media", "setor": "financeiro"}
+{"id": "validacao-0025", "texto": "Oi, aqui no RH, perdi o acesso a pasta compartilhada. atrapalha um pouco.", "categoria": "acesso", "prioridade": "media", "setor": "rh"}
+{"id": "validacao-0026", "texto": "Ola time de suporte, o notebook nao liga. parou tudo aqui. Falo sou do RH.", "categoria": "hardware", "prioridade": "critica", "setor": "rh"}
+{"id": "validacao-0027", "texto": "Pessoal, abrindo chamado: o programa de planilhas fecha sozinho. aqui no financeiro. da para trabalhar mas e chato.", "categoria": "software", "prioridade": "media", "setor": "financeiro"}
+{"id": "validacao-0028", "texto": "Pessoal, aqui no logistica o mouse esta falhando, preciso resolver ate hoje.", "categoria": "hardware", "prioridade": "alta", "setor": "logistica"}
+{"id": "validacao-0029", "texto": "Ola time de suporte, aqui no RH, perdi o acesso a pasta compartilhada. isso atrapalha muito meu trabalho.", "categoria": "acesso", "prioridade": "alta", "setor": "rh"}
+{"id": "validacao-0030", "texto": "Bom dia, parou tudo aqui. aqui no RH, o antivirus pede atualizacao e trava.", "categoria": "software", "prioridade": "critica", "setor": "rh"}
+{"id": "validacao-0031", "texto": "Oi, sou do logistica, o monitor ficou preto. preciso resolver ate hoje.", "categoria": "hardware", "prioridade": "alta", "setor": "logistica"}
+{"id": "validacao-0032", "texto": "Oi, abrindo chamado: o calendario nao sincroniza. sou do TI. preciso resolver ate hoje.", "categoria": "email", "prioridade": "alta", "setor": "ti"}
+{"id": "validacao-0033", "texto": "Pessoal, no setor financeiro, o mouse esta falhando. quando der.", "categoria": "hardware", "prioridade": "baixa", "setor": "financeiro"}
+{"id": "validacao-0034", "texto": "Ola time de suporte, nao e urgente. aqui no financeiro, nao encontro a impressora do andar.", "categoria": "impressora", "prioridade": "baixa", "setor": "financeiro"}
+{"id": "validacao-0035", "texto": "Pessoal, sou do RH o mouse esta falhando, tem cliente importante esperando agora.", "categoria": "hardware", "prioridade": "critica", "setor": "rh"}
+{"id": "validacao-0036", "texto": "Oi, o antivirus pede atualizacao e trava. isso atrapalha muito meu trabalho. Falo sou do TI.", "categoria": "software", "prioridade": "alta", "setor": "ti"}
+{"id": "validacao-0037", "texto": "Bom dia, quando der. aqui no juridico, o antivirus pede atualizacao e trava.", "categoria": "software", "prioridade": "baixa", "setor": "juridico"}
+{"id": "validacao-0038", "texto": "Bom dia, no setor TI, nao estou recebendo emails. preciso resolver esta semana.", "categoria": "email", "prioridade": "media", "setor": "ti"}
+{"id": "validacao-0039", "texto": "Ola time de suporte, aqui no RH o teclado parou de responder, parou tudo aqui.", "categoria": "hardware", "prioridade": "critica", "setor": "rh"}
+{"id": "validacao-0040", "texto": "Oi, no setor financeiro a vpn nao fecha conexao, ninguem consegue trabalhar.", "categoria": "rede", "prioridade": "critica", "setor": "financeiro"}
+{"id": "validacao-0041", "texto": "Ola time de suporte, o wifi do andar nao conecta. tem cliente importante esperando agora. Falo sou do logistica.", "categoria": "rede", "prioridade": "critica", "setor": "logistica"}
+{"id": "validacao-0042", "texto": "Oi, abrindo chamado: o programa de planilhas fecha sozinho. sou do juridico. so estou avisando.", "categoria": "software", "prioridade": "baixa", "setor": "juridico"}
+{"id": "validacao-0043", "texto": "Ola time de suporte, abrindo chamado: o teclado parou de responder. sou do comercial. parou tudo aqui.", "categoria": "hardware", "prioridade": "critica", "setor": "comercial"}
+{"id": "validacao-0044", "texto": "Oi, da para trabalhar mas e chato. sou do juridico, nao encontro a impressora do andar.", "categoria": "impressora", "prioridade": "media", "setor": "juridico"}
+{"id": "validacao-0045", "texto": "Ola time de suporte, preciso resolver ate hoje. no setor TI, minha senha expirou e nao consigo trocar.", "categoria": "acesso", "prioridade": "alta", "setor": "ti"}
+{"id": "validacao-0046", "texto": "Ola time de suporte, tem cliente importante esperando agora. aqui no RH, nao consigo entrar no sistema.", "categoria": "acesso", "prioridade": "critica", "setor": "rh"}
+{"id": "validacao-0047", "texto": "Oi, preciso resolver esta semana. sou do comercial, minha caixa de entrada esta cheia.", "categoria": "email", "prioridade": "media", "setor": "comercial"}
+{"id": "validacao-0048", "texto": "Oi, sou do TI minha caixa de entrada esta cheia, parou tudo aqui.", "categoria": "email", "prioridade": "critica", "setor": "ti"}
+{"id": "validacao-0049", "texto": "Bom dia, nao e urgente. no setor TI, o mouse esta falhando.", "categoria": "hardware", "prioridade": "baixa", "setor": "ti"}
+{"id": "validacao-0050", "texto": "Bom dia, abrindo chamado: o antivirus pede atualizacao e trava. aqui no juridico. preciso resolver ate hoje.", "categoria": "software", "prioridade": "alta", "setor": "juridico"}
+{"id": "validacao-0051", "texto": "Bom dia, o aplicativo de videoconferencia nao abre. tenho uma entrega hoje. Falo aqui no logistica.", "categoria": "software", "prioridade": "alta", "setor": "logistica"}
+{"id": "validacao-0052", "texto": "Pessoal, no setor RH, o aplicativo de videoconferencia nao abre. preciso resolver ate hoje.", "categoria": "software", "prioridade": "alta", "setor": "rh"}
+{"id": "validacao-0053", "texto": "Ola time de suporte, abrindo chamado: o teclado parou de responder. aqui no juridico. so estou avisando.", "categoria": "hardware", "prioridade": "baixa", "setor": "juridico"}
+{"id": "validacao-0054", "texto": "Pessoal, atrapalha um pouco. aqui no TI, a impressao sai com listras.", "categoria": "impressora", "prioridade": "media", "setor": "ti"}
+{"id": "validacao-0055", "texto": "Ola time de suporte, no setor logistica o notebook nao liga, isso atrapalha muito meu trabalho.", "categoria": "hardware", "prioridade": "alta", "setor": "logistica"}
+{"id": "validacao-0056", "texto": "Oi, atrapalha um pouco. no setor TI, a impressora esta sem comunicacao.", "categoria": "impressora", "prioridade": "media", "setor": "ti"}
+{"id": "validacao-0057", "texto": "Oi, preciso resolver esta semana. no setor TI, o login diz usuario bloqueado.", "categoria": "acesso", "prioridade": "media", "setor": "ti"}
+{"id": "validacao-0058", "texto": "Pessoal, abrindo chamado: o login diz usuario bloqueado. aqui no logistica. nao e urgente.", "categoria": "acesso", "prioridade": "baixa", "setor": "logistica"}
+{"id": "validacao-0059", "texto": "Oi, sou do TI perdi o acesso a pasta compartilhada, tenho uma entrega hoje.", "categoria": "acesso", "prioridade": "alta", "setor": "ti"}
+{"id": "validacao-0060", "texto": "Oi, abrindo chamado: o antivirus pede atualizacao e trava. sou do logistica. preciso resolver esta semana.", "categoria": "software", "prioridade": "media", "setor": "logistica"}
+{"id": "validacao-0061", "texto": "Pessoal, o login diz usuario bloqueado. preciso resolver esta semana. Falo aqui no TI.", "categoria": "acesso", "prioridade": "media", "setor": "ti"}
+{"id": "validacao-0062", "texto": "Ola time de suporte, atrapalha um pouco. sou do comercial, a vpn nao fecha conexao.", "categoria": "rede", "prioridade": "media", "setor": "comercial"}
+{"id": "validacao-0063", "texto": "Pessoal, abrindo chamado: a impressora esta sem comunicacao. no setor logistica. tenho uma entrega hoje.", "categoria": "impressora", "prioridade": "alta", "setor": "logistica"}
+{"id": "validacao-0064", "texto": "Pessoal, o mouse esta falhando. tem cliente importante esperando agora. Falo sou do TI.", "categoria": "hardware", "prioridade": "critica", "setor": "ti"}
+{"id": "validacao-0065", "texto": "Oi, abrindo chamado: nao consigo entrar no sistema. aqui no comercial. atrapalha um pouco.", "categoria": "acesso", "prioridade": "media", "setor": "comercial"}
+{"id": "validacao-0066", "texto": "Bom dia, abrindo chamado: a vpn nao fecha conexao. no setor financeiro. preciso resolver ate hoje.", "categoria": "rede", "prioridade": "alta", "setor": "financeiro"}
+{"id": "validacao-0067", "texto": "Ola time de suporte, no setor juridico minha caixa de entrada esta cheia, o sistema de vendas esta fora do ar.", "categoria": "email", "prioridade": "critica", "setor": "juridico"}
+{"id": "validacao-0068", "texto": "Oi, aqui no TI, o teclado parou de responder. atrapalha um pouco.", "categoria": "hardware", "prioridade": "media", "setor": "ti"}
+{"id": "validacao-0069", "texto": "Bom dia, sou do comercial o wifi do andar nao conecta, ninguem consegue trabalhar.", "categoria": "rede", "prioridade": "critica", "setor": "comercial"}
+{"id": "validacao-0070", "texto": "Bom dia, da para trabalhar mas e chato. sou do logistica, a impressao sai com listras.", "categoria": "impressora", "prioridade": "media", "setor": "logistica"}
+{"id": "validacao-0071", "texto": "Bom dia, o calendario nao sincroniza. nao e urgente. Falo sou do RH.", "categoria": "email", "prioridade": "baixa", "setor": "rh"}
+{"id": "validacao-0072", "texto": "Bom dia, preciso resolver ate hoje. sou do juridico, a rede esta muito lenta.", "categoria": "rede", "prioridade": "alta", "setor": "juridico"}
+{"id": "validacao-0073", "texto": "Pessoal, abrindo chamado: nao consigo entrar no sistema. no setor TI. tem cliente importante esperando agora.", "categoria": "acesso", "prioridade": "critica", "setor": "ti"}
+{"id": "validacao-0074", "texto": "Ola time de suporte, abrindo chamado: o aplicativo de videoconferencia nao abre. no setor RH. parou tudo aqui.", "categoria": "software", "prioridade": "critica", "setor": "rh"}
+{"id": "validacao-0075", "texto": "Bom dia, minha senha expirou e nao consigo trocar. parou tudo aqui. Falo no setor juridico.", "categoria": "acesso", "prioridade": "critica", "setor": "juridico"}
+{"id": "validacao-0076", "texto": "Pessoal, aqui no TI, o antivirus pede atualizacao e trava. preciso resolver ate hoje.", "categoria": "software", "prioridade": "alta", "setor": "ti"}
+{"id": "validacao-0077", "texto": "Bom dia, abrindo chamado: a rede esta muito lenta. sou do RH. sem pressa.", "categoria": "rede", "prioridade": "baixa", "setor": "rh"}
+{"id": "validacao-0078", "texto": "Oi, abrindo chamado: o programa de planilhas fecha sozinho. no setor financeiro. preciso resolver esta semana.", "categoria": "software", "prioridade": "media", "setor": "financeiro"}
+{"id": "validacao-0079", "texto": "Bom dia, a impressao sai com listras. quando der. Falo no setor financeiro.", "categoria": "impressora", "prioridade": "baixa", "setor": "financeiro"}
+{"id": "validacao-0080", "texto": "Oi, no setor TI, a internet esta caindo toda hora. preciso resolver ate hoje.", "categoria": "rede", "prioridade": "alta", "setor": "ti"}
+{"id": "validacao-0081", "texto": "Oi, no setor RH, perdi o acesso a pasta compartilhada. o sistema de vendas esta fora do ar.", "categoria": "acesso", "prioridade": "critica", "setor": "rh"}
+{"id": "validacao-0082", "texto": "Oi, ninguem consegue trabalhar. no setor logistica, nao estou recebendo emails.", "categoria": "email", "prioridade": "critica", "setor": "logistica"}
+{"id": "validacao-0083", "texto": "Oi, abrindo chamado: a impressao sai com listras. sou do RH. atrapalha um pouco.", "categoria": "impressora", "prioridade": "media", "setor": "rh"}
+{"id": "validacao-0084", "texto": "Pessoal, abrindo chamado: a internet esta caindo toda hora. sou do RH. parou tudo aqui.", "categoria": "rede", "prioridade": "critica", "setor": "rh"}
+{"id": "validacao-0085", "texto": "Ola time de suporte, tenho uma entrega hoje. sou do comercial, o sistema de notas fiscais da erro ao salvar.", "categoria": "software", "prioridade": "alta", "setor": "comercial"}
+{"id": "validacao-0086", "texto": "Bom dia, preciso resolver esta semana. aqui no logistica, o papel esta enroscando.", "categoria": "impressora", "prioridade": "media", "setor": "logistica"}
+{"id": "validacao-0087", "texto": "Oi, no setor juridico, a internet esta caindo toda hora. o sistema de vendas esta fora do ar.", "categoria": "rede", "prioridade": "critica", "setor": "juridico"}
+{"id": "validacao-0088", "texto": "Oi, aqui no juridico, a impressao sai com listras. parou tudo aqui.", "categoria": "impressora", "prioridade": "critica", "setor": "juridico"}
+{"id": "validacao-0089", "texto": "Oi, nao encontro a impressora do andar. da para trabalhar mas e chato. Falo aqui no financeiro.", "categoria": "impressora", "prioridade": "media", "setor": "financeiro"}
+{"id": "validacao-0090", "texto": "Pessoal, no setor RH o notebook nao liga, atrapalha um pouco.", "categoria": "hardware", "prioridade": "media", "setor": "rh"}
+{"id": "validacao-0091", "texto": "Bom dia, no setor TI o antivirus pede atualizacao e trava, sem pressa.", "categoria": "software", "prioridade": "baixa", "setor": "ti"}
+{"id": "validacao-0092", "texto": "Ola time de suporte, no setor comercial o wifi do andar nao conecta, tem cliente importante esperando agora.", "categoria": "rede", "prioridade": "critica", "setor": "comercial"}
+{"id": "validacao-0093", "texto": "Pessoal, abrindo chamado: a rede esta muito lenta. sou do TI. da para trabalhar mas e chato.", "categoria": "rede", "prioridade": "media", "setor": "ti"}
+{"id": "validacao-0094", "texto": "Ola time de suporte, abrindo chamado: o mouse esta falhando. aqui no juridico. da para trabalhar mas e chato.", "categoria": "hardware", "prioridade": "media", "setor": "juridico"}
+{"id": "validacao-0095", "texto": "Pessoal, o mouse esta falhando. preciso resolver ate hoje. Falo no setor financeiro.", "categoria": "hardware", "prioridade": "alta", "setor": "financeiro"}
+{"id": "validacao-0096", "texto": "Oi, no setor logistica os emails que envio voltam, preciso resolver esta semana.", "categoria": "email", "prioridade": "media", "setor": "logistica"}
+{"id": "validacao-0097", "texto": "Bom dia, sou do RH o login diz usuario bloqueado, nao e urgente.", "categoria": "acesso", "prioridade": "baixa", "setor": "rh"}
+{"id": "validacao-0098", "texto": "Bom dia, abrindo chamado: o sistema de notas fiscais da erro ao salvar. sou do TI. quando der.", "categoria": "software", "prioridade": "baixa", "setor": "ti"}
+{"id": "validacao-0099", "texto": "Bom dia, abrindo chamado: a rede esta muito lenta. no setor juridico. atrapalha um pouco.", "categoria": "rede", "prioridade": "media", "setor": "juridico"}
