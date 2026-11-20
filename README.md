@@ -68,7 +68,7 @@ No NixOS o `Makefile` acha sozinho a `libstdc++` no store para o PyTorch carrega
 - [x] Núcleo funcional (treino LoRA + inferência)
 - [x] Avaliação / métricas medidas (5 sistemas, 2 testes, 3 sementes, IC por bootstrap)
 - [x] README com números, latência e custo
-- [x] Decodificação restrita ao esquema: 95% → 100% no esquema, acerto exato igual (testes + 13 mutantes, 10 pegos de cara e 3 pelo teste do avaliador)
+- [x] Decodificação restrita ao esquema: 95% → 100% no esquema, acerto exato igual (35 testes; 13 mutantes: 12 pegos e 1 equivalente)
 - [ ] Dados com mais diversidade (ou chamados reais anonimizados) para o teste novo subir de 55%
 - [ ] Ablação de r, épocas e taxa; modelo base maior (1,5B) para ver quanto do erro é capacidade
 - [ ] Deploy / demo reproduzível
