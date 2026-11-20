@@ -40,6 +40,7 @@ def avaliar_sistema(nome: str, previsoes: list[str], chamados: list[dict], extra
 
 
 def rodar_modelos(args, treino, testes):
+    r = args.restrito
     from src.modelo import carregar_modelo, carregar_tokenizador, gerar
     tok = carregar_tokenizador()
     exemplos = escolher_exemplos(treino)
@@ -47,7 +48,7 @@ def rodar_modelos(args, treino, testes):
     base = carregar_modelo()
     for nome, ex in (("base_zero_shot", None), ("base_few_shot_8", exemplos)):
         for teste, chamados in testes.items():
-            previsoes, tempo = gerar(base, tok, [c["texto"] for c in chamados], exemplos=ex)
+            previsoes, tempo = gerar(base, tok, [c["texto"] for c in chamados], exemplos=ex, restrito=r)
             saida[(nome, teste)] = avaliar_sistema(nome, previsoes, chamados, tempo)
     del base
     import torch
@@ -56,7 +57,7 @@ def rodar_modelos(args, treino, testes):
         modelo = carregar_modelo(adaptador)
         nome = f"lora_{Path(adaptador).name}"
         for teste, chamados in testes.items():
-            previsoes, tempo = gerar(modelo, tok, [c["texto"] for c in chamados])
+            previsoes, tempo = gerar(modelo, tok, [c["texto"] for c in chamados], restrito=r)
             saida[(nome, teste)] = avaliar_sistema(nome, previsoes, chamados, tempo)
         del modelo
         torch.cuda.empty_cache()
@@ -66,6 +67,7 @@ def rodar_modelos(args, treino, testes):
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--adaptadores", nargs="*", default=[])
+    ap.add_argument("--restrito", action="store_true", help="decodificacao restrita ao esquema (grava em resultados/restrito/)")
     ap.add_argument("--sem-modelo", action="store_true", help="so os baselines sem modelo")
     args = ap.parse_args()
     treino = carregar("treino")
@@ -77,11 +79,11 @@ def main():
             resultados[(nome, teste)] = avaliar_sistema(nome, [prever(c["texto"]) for c in chamados], chamados)
     if not args.sem_modelo:
         resultados.update(rodar_modelos(args, treino, testes))
-    gravar(resultados, testes)
+    gravar(resultados, testes, "resultados/restrito" if args.restrito else "resultados")
 
 
-def gravar(resultados: dict, testes: dict) -> None:
-    Path("resultados").mkdir(exist_ok=True)
+def gravar(resultados: dict, testes: dict, pasta: str = "resultados") -> None:
+    Path(pasta).mkdir(parents=True, exist_ok=True)
     nomes = list(dict.fromkeys(n for n, _ in resultados))
     lora = [n for n in nomes if n.startswith("lora_")]
     resumo = {t: {n: {k: v for k, v in resultados[(n, t)].items() if not k.startswith("_")} for n in nomes} for t in TESTES}
@@ -95,8 +97,8 @@ def gravar(resultados: dict, testes: dict) -> None:
                 if (outro, t) in resultados:
                     resumo[t][f"lora_{lora[0].split('_', 1)[1]}_menos_{outro}"] = diferenca_pareada(
                         resultados[(lora[0], t)]["_exato"], resultados[(outro, t)]["_exato"])
-    Path("resultados/metricas.json").write_text(json.dumps(resumo, indent=2, ensure_ascii=False))
-    with open("resultados/previsoes.jsonl", "w") as f:
+    Path(pasta, "metricas.json").write_text(json.dumps(resumo, indent=2, ensure_ascii=False))
+    with open(Path(pasta, "previsoes.jsonl"), "w") as f:
         for (n, t), r in resultados.items():
             for c, p, ok in zip(testes[t], r["_previsoes"], r["_exato"]):
                 f.write(json.dumps({"sistema": n, "teste": t, "id": c["id"], "previsto": p, "exato": ok}, ensure_ascii=False) + "\n")

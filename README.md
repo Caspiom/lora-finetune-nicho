@@ -40,8 +40,15 @@ Acerto por campo nas frases novas (média das 3 sementes): categoria 0,66, prior
 Dados sintéticos de 12 problemas de categoria para treino e 12 para teste; um único modelo base (0,5B); sem busca de hiperparâmetros (r=16, 2 épocas, taxa 2e-4, valores comuns, sem ajuste); acurácia medida só em acerto exato e por campo, sem F1 por classe; adaptador não fundido nos pesos (a latência de inferência incluiria menos overhead se fundido).
 
 ## Validação do próprio código
-**26 testes** (CPU, ~20 s): geração determinística, ausência de vazamento de vocabulário entre treino e `teste_novo`, balanceamento de classes, leitura de JSON, métricas, e treino de fumaça com um Qwen minúsculo (a perda só conta os tokens da resposta, só o adaptador muda, a acumulação de gradiente bate com o lote inteiro).
+**35 testes** (CPU, ~20 s): geração determinística, ausência de vazamento de vocabulário entre treino e `teste_novo`, balanceamento de classes, leitura de JSON, métricas, e treino de fumaça com um Qwen minúsculo (a perda só conta os tokens da resposta, só o adaptador muda, a acumulação de gradiente bate com o lote inteiro).
 **Mutação, 8 mutantes, todos pegos:** perda sem máscara do pedido, rótulo inventado aceito, JSON inválido não contado como erro, few-shot sem completar exemplos, teste novo reaproveitando vocabulário do treino, acumulação sem dividir pela fração, bootstrap com sinal trocado, leitura sem normalizar caixa. Um mutante **sobreviveu na primeira versão** da suíte (acumulação sem escala): o AdamW é quase invariante à escala do gradiente, então o teste que comparava o passo não distinguia; troquei por comparar os gradientes diretamente. Esse mesmo teste mostrou que a acumulação difere do lote inteiro em ~1%, porque a média da perda é por token em cada micro-lote e as respostas têm tamanhos diferentes; é aproximação conhecida, não bug.
+
+### Decodificação restrita ao esquema (`--restrito`, `src/restrito.py`)
+O modelo só pode escolher entre as 144 respostas válidas (6 categorias x 4 prioridades x 6 setores): uma árvore com a tokenização de cada resposta barra qualquer token que saia dela. Medido nos mesmos adaptadores, `make eval` x `python -m evals.run_eval --restrito ...` (saída em `resultados/restrito/`):
+- **Rótulo dentro do esquema, teste novo: LoRA 95,1% → 100%** (média das 3 sementes; base zero-shot 82,3% → 100%, few-shot 94,7% → 100%). No teste igual já era 100%.
+- **Acerto exato não mudou nem 1 ponto:** LoRA 54,6% no teste novo antes e depois (0,557 / 0,583 / 0,497), igual por semente. Os ~5% de rótulo inventado já estavam errados e viraram outro rótulo errado. A restrição garante formato e rótulo válidos, não rótulo certo; quem melhora acerto é dado e modelo.
+- Base zero-shot e few-shot subiram um pouco no acerto exato (2,3% → 6,3% e 12% → 13,3% no teste novo) porque rótulos inventados que eles davam viraram palpites válidos; continuam ruins.
+- Custo: a árvore é montada uma vez (144 respostas); não medi a latência com e sem restrição. Limite: depende de o modelo gerar com a tokenização canônica, que é a do treino; se o esquema mudar, a árvore precisa ser refeita.
 
 ## Como rodar
 ```bash
@@ -61,6 +68,7 @@ No NixOS o `Makefile` acha sozinho a `libstdc++` no store para o PyTorch carrega
 - [x] Núcleo funcional (treino LoRA + inferência)
 - [x] Avaliação / métricas medidas (5 sistemas, 2 testes, 3 sementes, IC por bootstrap)
 - [x] README com números, latência e custo
+- [x] Decodificação restrita ao esquema: 95% → 100% no esquema, acerto exato igual (testes + 13 mutantes, 10 pegos de cara e 3 pelo teste do avaliador)
 - [ ] Dados com mais diversidade (ou chamados reais anonimizados) para o teste novo subir de 55%
 - [ ] Ablação de r, épocas e taxa; modelo base maior (1,5B) para ver quanto do erro é capacidade
 - [ ] Deploy / demo reproduzível
